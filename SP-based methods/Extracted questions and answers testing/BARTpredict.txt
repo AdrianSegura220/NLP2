@@ -1,0 +1,10000 @@
+0: no
+
+1: film release region
+
+2: 4000000074573264
+
+3: Bobby
+
+4: None
+
+5: famous people
+
+6: None
+
+7: Michael Hordern
+
+8: Reese Witherspoon
+
+9: Gone with the Wind
+
+10: Sridevi
+
+11: John Byrne
+
+12: 2003
+
+13: no
+
+14: The Day After Tomorrow
+
+15: 2015-07-01
+
+16: 2
+
+17: yes
+
+18: cause of death
+
+19: Bewitched
+
+20: David O. Russell
+
+21: yes
+
+22: no
+
+23: Montgomery County
+
+24: no
+
+25: Enrico Fermi
+
+26: http://www.waterforelephants.dk/
+
+27: The House Bunny
+
+28: 1864-08-28
+
+29: Peter Jackson
+
+30: Flags of Our Fathers
+
+31: 50
+
+32: George Benson
+
+33: no
+
+34: 1983
+
+35: Jermaine Jackson
+
+36: Riverside County
+
+37: Naomi Watts
+
+38: 2
+
+39: 5
+
+40: Uganda
+
+41: English
+
+42: Englewood
+
+43: occupation
+
+44: 1995
+
+45: Separate Tables
+
+46: English
+
+47: Allen County
+
+48: None
+
+49: 0000 0000 4096 9255
+
+50: 3
+
+51: 1546-11-04
+
+52: http://www.cbs.com/primetime/two_and_a_half_men
+
+53: instrument
+
+54: Fashion Institute of Technology
+
+55: Goa
+
+56: Canterbury
+
+57: 30 minute
+
+58: cast member
+
+59: FIFA World Rankings
+
+60: no
+
+61: 0
+
+62: Henry James
+
+63: Aaron Staton
+
+64: official color
+
+65: Crash
+
+66: 0
+
+67: 4
+
+68: country
+
+69: no
+
+70: Alastor Moody
+
+71: Grenada
+
+72: United Methodist Church
+
+73: 0000 0001 0776 8432
+
+74: official language
+
+75: 3
+
+76: 2004-01-01
+
+77: Fish Tank
+
+78: Small Soldiers
+
+79: San Bernardino County
+
+80: Torchwood
+
+81: Niagara Falls
+
+82: Robert Downey Jr.
+
+83: 66th Golden Globe Awards
+
+84: no
+
+85: yes
+
+86: yes
+
+87: yes
+
+88: yes
+
+89: Ludhiana
+
+90: Cynthia Watros
+
+91: Tokyo
+
+92: part of
+
+93: 478
+
+94: Johnson County
+
+95: Jackson Browne
+
+96: Thor
+
+97: 1960
+
+98: cast member
+
+99: passenger car
+
+100: Chicago metropolitan area
+
+101: The Merry Widow
+
+102: http://www.evanalmighty.com/
+
+103: http://www.razzies.com/
+
+104: headquarters location
+
+105: Edward Scissorhands
+
+106: no
+
+107: 4
+
+108: no
+
+109: AT&T
+
+110: nutrient
+
+111: Fiddler on the Roof
+
+112: None
+
+113: 2011-07-01
+
+114: film release region
+
+115: Ramsey County
+
+116: yes
+
+117: yes
+
+118: Hud
+
+119: no
+
+120: None
+
+121: Virginia Beach
+
+122: 16
+
+123: Queen Mary University of London
+
+124: yes
+
+125: voice actor
+
+126: Kate Hudson
+
+127: http://www.rogermoorephotography.com
+
+128: Samsung Electronics
+
+129: English
+
+130: record label
+
+131: None
+
+132: original language of film or TV show
+
+133: 1976
+
+134: Ghost Rider
+
+135: 15
+
+136: West Orange
+
+137: 1973
+
+138: nominated for
+
+139: no
+
+140: France–United Arab Emirates relations
+
+141: Sweden
+
+142: no
+
+143: 2014-01-01
+
+144: 2006-03-15
+
+145: no
+
+146: twinned administrative body
+
+147: Knocked Up
+
+148: cast member
+
+149: Tulsa
+
+150: cast member
+
+151: William S. Burroughs
+
+152: yes
+
+153: 1996-06-15
+
+154: country of origin
+
+155: Jimmy Smits
+
+156: Red Dragon
+
+157: no
+
+158: no
+
+159: 126048
+
+160: occupation
+
+161: Lars and the Real Girl
+
+162: 2015-01-26
+
+163: http://www.regione.basilicata.it
+
+164: Oldham
+
+165: The Contender
+
+166: bass clarinet
+
+167: Gazeem
+
+168: office held by head of government
+
+169: 1
+
+170: tcu_athletics
+
+171: Glens Falls
+
+172: 0000 0000 9010 4452
+
+173: no
+
+174: Wayne County
+
+175: no
+
+176: no
+
+177: shares border with
+
+178: None
+
+179: employer
+
+180: Gangs of New York
+
+181: Oliver Twist
+
+182: Duluth
+
+183: Rain Man
+
+184: country
+
+185: no
+
+186: Punjabi people
+
+187: Province of Naples
+
+188: yes
+
+189: violadavis
+
+190: None
+
+191: 357
+
+192: Luxembourg
+
+193: 2010-01-01
+
+194: 00000018021
+
+195: 2013
+
+196: member of sports team
+
+197: 146526
+
+198: Preferred
+
+199: Germany
+
+200: famous people
+
+201: Cambridgeshire
+
+202: None
+
+203: cast member
+
+204: Harris County
+
+205: Water for Elephants
+
+206: 1
+
+207: 1979
+
+208: Carinthia
+
+209: 1
+
+210: Altoona
+
+211: no
+
+212: None
+
+213: 2007-09-17
+
+214: 2000-01-01
+
+215: New York
+
+216: 0
+
+217: None
+
+218: Queens College
+
+219: Resident Evil: Apocalypse
+
+220: Asha Parekh
+
+221: 2012-07-01
+
+222: 92052
+
+223: yes
+
+224: Imperial College London
+
+225: Gloucester County
+
+226: Hannah Arendt
+
+227: None
+
+228: shares border with
+
+229: Bristol County
+
+230: 35
+
+231: 29.35 square mile
+
+232: The West Wing
+
+233: no
+
+234: 2015-01-01
+
+235: None
+
+236: employer
+
+237: 2487784
+
+238: country
+
+239: Mr. Smith Goes to Washington
+
+240: 119 minute
+
+241: 2805
+
+242: Torchwood
+
+243: yes
+
+244: 63rd Academy Awards
+
+245: yes
+
+246: 2013-01-01
+
+247: Miles Davis
+
+248: None
+
+249: Brian Jones
+
+250: Fullmetal Alchemist the Movie: Conqueror of Shamballa
+
+251: 3
+
+252: Home Alone
+
+253: official color
+
+254: yes
+
+255: no
+
+256: no
+
+257: place of birth
+
+258: 1
+
+259: place of burial
+
+260: Aarhus
+
+261: English
+
+262: Waukesha County
+
+263: 1974
+
+264: None
+
+265: 0
+
+266: parent organization
+
+267: 67th Academy Awards
+
+268: Grammy Award for Best Female Rock Vocal Performance
+
+269: None
+
+270: 0
+
+271: None
+
+272: 0000 0000 6764 7942
+
+273: 23
+
+274: 1936
+
+275: Virginia
+
+276: occupation
+
+277: no
+
+278: 3
+
+279: 1992
+
+280: None
+
+281: Tom Johnson
+
+282: 2003
+
+283: ethnic group
+
+284: participant
+
+285: Chandigarh
+
+286: 6
+
+287: Red Dragon
+
+288: yes
+
+289: 1
+
+290: 3
+
+291: English
+
+292: 92866
+
+293: 1945
+
+294: New Zealand national cricket team
+
+295: sport
+
+296: yes
+
+297: Chester County
+
+298: country
+
+299: Tony Award for Best Featured Actress in a Play
+
+300: 2
+
+301: yes
+
+302: Merseyside
+
+303: Moonrise Kingdom
+
+304: country
+
+305: 10036
+
+306: Madagascar 3: Europe's Most Wanted
+
+307: 75
+
+308: 1
+
+309: 1
+
+310: 15
+
+311: Greensburg
+
+312: Megan Fox
+
+313: 1
+
+314: 0
+
+315: no
+
+316: R. Lee Ermey
+
+317: John Stears
+
+318: Germany
+
+319: Multnomah County
+
+320: 1450
+
+321: yes
+
+322: 2014
+
+323: None
+
+324: estimation process
+
+325: 2012-01-01
+
+326: None
+
+327: Michael Clayton
+
+328: The Expendables
+
+329: Germany
+
+330: Barnstable County
+
+331: nominated for
+
+332: 1981
+
+333: yes
+
+334: 2016-01-01
+
+335: County Waterford
+
+336: None
+
+337: Pinellas County
+
+338: Timbaland
+
+339: 1981
+
+340: 1944-01-01
+
+341: English
+
+342: producer
+
+343: None
+
+344: Scotland
+
+345: Italy
+
+346: member of political party
+
+347: no
+
+348: cast member
+
+349: None
+
+350: headquarters location
+
+351: National School of Drama
+
+352: game mode
+
+353: art director
+
+354: Walt Disney Pictures
+
+355: Germany
+
+356: Fred Durst
+
+357: 2
+
+358: Sailor Moon S: The Movie
+
+359: 0
+
+360: occupation
+
+361: relative
+
+362: Columbia County
+
+363: Germany
+
+364: 0
+
+365: parent organization
+
+366: headquarters location
+
+367: English
+
+368: Birkbeck, University of London
+
+369: 1
+
+370: benstiller
+
+371: 0000 0000 8214 3494
+
+372: yes
+
+373: English
+
+374: RoboCop
+
+375: Mobile Suit Gundam SEED
+
+376: 2010-01-01
+
+377: Wimbledon
+
+378: Solitaire
+
+379: genre
+
+380: 24
+
+381: Superman
+
+382: 1948-05-19
+
+383: 66th Academy Awards
+
+384: Luton
+
+385: 3
+
+386: United Arab Emirates
+
+387: studied by
+
+388: 14792
+
+389: contains administrative territorial entity
+
+390: Shrek
+
+391: 1
+
+392: None
+
+393: 1943-12-21
+
+394: 0
+
+395: genre
+
+396: yes
+
+397: yes
+
+398: The Golden Girls
+
+399: http://www.robertcray.com/
+
+400: 1931-11-05
+
+401: yes
+
+402: yes
+
+403: Dakar
+
+404: http://www.nickcannon.com
+
+405: member of sports team
+
+406: 1871
+
+407: None
+
+408: http://www.evangelion.co.jp/2_0/index.html
+
+409: yes
+
+410: 1999-01-01
+
+411: Faye Dunaway
+
+412: famous people
+
+413: Salzburg
+
+414: None
+
+415: occupation
+
+416: 1893-01-01
+
+417: original language of film or TV show
+
+418: yes
+
+419: 15
+
+420: participant of
+
+421: Connecticut
+
+422: game mode
+
+423: Midnight Express
+
+424: Labyrinth
+
+425: Queen
+
+426: 2
+
+427: yes
+
+428: a11917702
+
+429: no
+
+430: 1
+
+431: The Deer Hunter
+
+432: 0
+
+433: Washington, D.C.
+
+434: 1976-01-01
+
+435: occupation
+
+436: country
+
+437: 1971
+
+438: Robert Morley
+
+439: Magnum, P.I.
+
+440: 8
+
+441: None
+
+442: Long Branch
+
+443: 2006-01-01
+
+444: nominated for
+
+445: Australia
+
+446: cast member
+
+447: country
+
+448: Allen County
+
+449: None
+
+450: voice actor
+
+451: None
+
+452: English
+
+453: 2
+
+454: Versailles
+
+455: Southfield
+
+456: 1993-01-01
+
+457: place of birth
+
+458: Morocco
+
+459: nominated for
+
+460: Evita
+
+461: country of origin
+
+462: Craig Ferguson
+
+463: 2010-01-01
+
+464: 1956
+
+465: Ontario
+
+466: Kosovo
+
+467: no
+
+468: http://www.worldfantasy.org/awards/
+
+469: Mike Myers
+
+470: 4298090607
+
+471: None
+
+472: None
+
+473: Stanford University
+
+474: a10916921
+
+475: King's Lynn and West Norfolk
+
+476: China–Tunisia relations
+
+477: located in the administrative territorial entity
+
+478: Thirteen Days
+
+479: German
+
+480: no
+
+481: None
+
+482: famous people
+
+483: occupation
+
+484: cast member
+
+485: Erika Christensen
+
+486: 2
+
+487: NO4030
+
+488: 178 centimetre
+
+489: United Kingdom
+
+490: H, HZ, HX
+
+491: 1
+
+492: Swindon
+
+493: 135864
+
+494: English
+
+495: 1
+
+496: Judd Hirsch
+
+497: Submarine
+
+498: languages spoken, written or signed
+
+499: Leicester
+
+500: 112 minute
+
+501: None
+
+502: Ocean's Twelve
+
+503: 1
+
+504: Bucknell University
+
+505: languages spoken, written or signed
+
+506: None
+
+507: Eastern Cape
+
+508: 2010-07-01
+
+509: 8
+
+510: 1986
+
+511: Worcester County
+
+512: Al-Gharafa Sports Club
+
+513: 2014
+
+514: yes
+
+515: 1905-03-17
+
+516: Adam Smith
+
+517: 1989-11-08
+
+518: 0
+
+519: yes
+
+520: National School of Drama
+
+521: yes
+
+522: manganese
+
+523: yes
+
+524: 25
+
+525: 14
+
+526: yes
+
+527: no
+
+528: breakingbad
+
+529: cast member
+
+530: 2
+
+531: producer
+
+532: part of
+
+533: does not exactly match
+
+534: Nashua
+
+535: yes
+
+536: Mecklenburg-Vorpommern
+
+537: 1928-02-22
+
+538: 42
+
+539: Turkey
+
+540: member of political party
+
+541: office held by head of government
+
+542: no
+
+543: 0
+
+544: Michael Winterbottom
+
+545: 0
+
+546: Boulogne-Billancourt
+
+547: no
+
+548: yes
+
+549: A Christmas Carol
+
+550: None
+
+551: occupation
+
+552: yes
+
+553: Twin Peaks: Fire Walk with Me
+
+554: Red Forman
+
+555: Pulp Fiction
+
+556: Regensburg
+
+557: Germany
+
+558: River Thames
+
+559: 6
+
+560: yes
+
+561: winner
+
+562: Independence
+
+563: auto racing
+
+564: None
+
+565: 1991
+
+566: no
+
+567: 2018-04-01
+
+568: record label
+
+569: None
+
+570: 1943-01-01
+
+571: 123
+
+572: 0
+
+573: genre
+
+574: no
+
+575: yes
+
+576: Ben 10
+
+577: Lock, Stock and Two Smoking Barrels
+
+578: cast member
+
+579: 148914
+
+580: no
+
+581: 23
+
+582: 2000-12-31
+
+583: a11827403
+
+584: Tuscany
+
+585: Hook
+
+586: None
+
+587: no
+
+588: Upstairs, Downstairs
+
+589: 1900
+
+590: yes
+
+591: http://www.unibas.ch/
+
+592: 2011-07-01
+
+593: 0000 0001 0805 030X
+
+594: occupation
+
+595: yes
+
+596: Germany
+
+597: Andy Williams
+
+598: yes
+
+599: Clackamas County
+
+600: academic degree
+
+601: director
+
+602: 3
+
+603: None
+
+604: named after
+
+605: 1838-01-01
+
+606: 1965-09-15
+
+607: 0
+
+608: 124405
+
+609: St Catherine's College
+
+610: 4000000 United States dollar
+
+611: 1984-01-01
+
+612: 1
+
+613: 06051
+
+614: occupation
+
+615: astralwerksrecords
+
+616: yes
+
+617: 1
+
+618: 1969-07-05
+
+619: David Copperfield
+
+620: place of death
+
+621: yes
+
+622: 1924-01-01
+
+623: named after
+
+624: 2
+
+625: 0
+
+626: Santa Cruz
+
+627: One Flew Over the Cuckoo's Nest
+
+628: cast member
+
+629: None
+
+630: no
+
+631: Rabat
+
+632: 0
+
+633: 0
+
+634: The Mummy: Tomb of the Dragon Emperor
+
+635: shares border with
+
+636: yes
+
+637: no
+
+638: Kern County
+
+639: composer
+
+640: yes
+
+641: yes
+
+642: no
+
+643: Thomas Newman
+
+644: http://www.epitaph.com
+
+645: 50th Academy Awards
+
+646: The Fall
+
+647: Pace University
+
+648: None
+
+649: Germany
+
+650: William Gibson
+
+651: None
+
+652: cast member
+
+653: None
+
+654: 2
+
+655: yes
+
+656: 2002-01-01
+
+657: 2010-07-01
+
+658: Bullets Over Broadway
+
+659: production company
+
+660: 2012-06-05
+
+661: The Straight Story
+
+662: 80 minute
+
+663: 2010
+
+664: Ben-Hur
+
+665: Welsh
+
+666: cast member
+
+667: University of Alabama at Birmingham
+
+668: no
+
+669: 1
+
+670: occupation
+
+671: None
+
+672: capital
+
+673: Aude
+
+674: United States of America
+
+675: yes
+
+676: None
+
+677: United States of America
+
+678: 1
+
+679: 1
+
+680: member of sports team
+
+681: 1962
+
+682: twinned administrative body
+
+683: 00000024220
+
+684: The Proposition
+
+685: Cambridgeshire
+
+686: 1947-02-15
+
+687: None
+
+688: no
+
+689: https://levski.bg/
+
+690: Some Like It Hot
+
+691: Julie & Julia
+
+692: capital
+
+693: 1811
+
+694: located on terrain feature
+
+695: genre
+
+696: TheOfficeBBC
+
+697: twinned administrative body
+
+698: Germany
+
+699: Monaco
+
+700: Coimbatore district
+
+701: Virginia
+
+702: John Arthur Carradine
+
+703: cast member
+
+704: 0
+
+705: no
+
+706: Germany
+
+707: Meg Griffin
+
+708: member of political party
+
+709: occupation
+
+710: 1992
+
+711: Hayden Christensen
+
+712: msstate
+
+713: 0000 0001 1449 6877
+
+714: None
+
+715: cast member
+
+716: Philippines
+
+717: shares border with
+
+718: None
+
+719: Germany
+
+720: London Borough of Hackney
+
+721: Unknown
+
+722: yes
+
+723: 1996-01-01
+
+724: billyidolhq
+
+725: Aaron Sorkin
+
+726: Christoph Waltz
+
+727: cast member
+
+728: Twilight
+
+729: None
+
+730: 1993-01-01
+
+731: 163490
+
+732: residence
+
+733: Montana
+
+734: Sweden
+
+735: no
+
+736: yes
+
+737: 2016-01-01
+
+738: 15
+
+739: Little Shop of Horrors
+
+740: Germany
+
+741: Province of Naples
+
+742: yes
+
+743: Unstoppable
+
+744: Georgetown
+
+745: Gelderland
+
+746: Johnson County
+
+747: 2015-07-01
+
+748: yes
+
+749: 47th Academy Awards
+
+750: West Orange
+
+751: no
+
+752: Lake County
+
+753: 13
+
+754: 2013-07-01
+
+755: no
+
+756: yes
+
+757: None
+
+758: 1897-10-20
+
+759: Kid Cudi
+
+760: famous people
+
+761: CBS Radio
+
+762: genre
+
+763: 27
+
+764: Cook Islands
+
+765: 5
+
+766: 1092
+
+767: yes
+
+768: Hesse, Hermann
+
+769: Monaco
+
+770: Bram Stoker's Dracula
+
+771: Sean Lennon
+
+772: United States of America
+
+773: rosenborgbk
+
+774: Jennifer Aniston
+
+775: famous people
+
+776: palmitoleic acid
+
+777: 2
+
+778: The Bronx
+
+779: 5
+
+780: None
+
+781: Ontario
+
+782: yes
+
+783: educated at
+
+784: no
+
+785: 5
+
+786: Sikkim
+
+787: Markham
+
+788: Utica
+
+789: no
+
+790: Savannah
+
+791: Taxi
+
+792: country of citizenship
+
+793: Long Island
+
+794: no
+
+795: protopunk
+
+796: yes
+
+797: 946
+
+798: cast member
+
+799: 0000 0001 0859 8447
+
+800: Bedazzled
+
+801: no
+
+802: FIFA World Rankings
+
+803: yes
+
+804: Nationalist Party of Australia
+
+805: Neil Young
+
+806: film director
+
+807: no
+
+808: English
+
+809: 2009-07-01
+
+810: yes
+
+811: yes
+
+812: 9
+
+813: Bayreuth
+
+814: 0
+
+815: academic degree
+
+816: Kabul
+
+817: The Lord of the Rings: The Return of the King
+
+818: comedy rock
+
+819: yes
+
+820: James Monroe
+
+821: no
+
+822: New York
+
+823: no
+
+824: 1
+
+825: country of citizenship
+
+826: 2
+
+827: yes
+
+828: 0000 0001 0668 0201
+
+829: estimation process
+
+830: famous people
+
+831: 1
+
+832: not sure
+
+833: yes
+
+834: cast member
+
+835: Outagamie County
+
+836: no
+
+837: Georgia
+
+838: None
+
+839: yes
+
+840: no
+
+841: Nicole Kidman
+
+842: masculine singular
+
+843: Phillips Academy
+
+844: Bergamo
+
+845: 1876
+
+846: country
+
+847: no
+
+848: Savannah
+
+849: None
+
+850: 5
+
+851: 19
+
+852: 1991-08-22
+
+853: no
+
+854: Germany
+
+855: 0
+
+856: http://www.jenniferhudson.com
+
+857: no
+
+858: How Green Was My Valley
+
+859: Mare Winningham
+
+860: Germany
+
+861: no
+
+862: Jarhead
+
+863: 1979
+
+864: no
+
+865: 2001
+
+866: Soviet Union
+
+867: languages spoken, written or signed
+
+868: 1172463
+
+869: 2013
+
+870: country
+
+871: 00000020926
+
+872: no
+
+873: conflict
+
+874: genre
+
+875: Hud
+
+876: Bend
+
+877: cast member
+
+878: no
+
+879: 91503
+
+880: 2006
+
+881: occupation
+
+882: 0
+
+883: Milan
+
+884: John Bailey
+
+885: 0000 0001 0930 5677
+
+886: 0
+
+887: Salzburg
+
+888: Clive Staples Lewis
+
+889: 3
+
+890: no
+
+891: 23545792
+
+892: yes
+
+893: Andrea Bocelli
+
+894: San Pedro
+
+895: 11
+
+896: Cache County
+
+897: None
+
+898: 2011
+
+899: Oldham
+
+900: North Norfolk
+
+901: 2014-01-01
+
+902: 2--729452
+
+903: 1927-12-11
+
+904: yes
+
+905: South Korea
+
+906: Cleopatra
+
+907: http://www.wits.ac.za/
+
+908: cast member
+
+909: David Buttolph
+
+910: sport
+
+911: From Dusk till Dawn
+
+912: 1940-02-17
+
+913: Amazon
+
+914: 1
+
+915: Big Daddy
+
+916: no
+
+917: architectural style
+
+918: None
+
+919: film release region
+
+920: British Virgin Islands
+
+921: We Need to Talk About Kevin
+
+922: no
+
+923: Cambria County
+
+924: Dutch
+
+925: occupation
+
+926: Emir Kusturica
+
+927: 2015
+
+928: headquarters location
+
+929: 1943-02-01
+
+930: Joaquin Phoenix
+
+931: United States of America
+
+932: Lagos
+
+933: 11
+
+934: yes
+
+935: Oklahoma!
+
+936: zoology
+
+937: 1
+
+938: place of birth
+
+939: 0
+
+940: English
+
+941: Doug Flutie
+
+942: twinned administrative body
+
+943: Peter Pan
+
+944: place of death
+
+945: 1931-03-25
+
+946: no
+
+947: None
+
+948: no
+
+949: 37
+
+950: County Dublin
+
+951: Montgomery County
+
+952: Aarhus
+
+953: famous people
+
+954: 2018
+
+955: no
+
+956: 2013-07-01
+
+957: None
+
+958: no
+
+959: Joan of Arc
+
+960: 122 minute
+
+961: 2016
+
+962: sq47cxzb5dpg6qd
+
+963: 2
+
+964: Montclair
+
+965: None
+
+966: Goa
+
+967: yes
+
+968: famous people
+
+969: color
+
+970: sport
+
+971: nominated for
+
+972: 1661
+
+973: 2
+
+974: no
+
+975: 0000 0001 1028 1780
+
+976: 21
+
+977: yes
+
+978: Astoria
+
+979: 1981
+
+980: Radio
+
+981: Germany
+
+982: Queen of the Damned
+
+983: None
+
+984: 24
+
+985: original language of film or TV show
+
+986: PKRWP
+
+987: 3
+
+988: record label
+
+989: Irene Cara
+
+990: located in the administrative territorial entity
+
+991: genre
+
+992: Richard Burbage
+
+993: cool jazz
+
+994: Javier Bardem
+
+995: no
+
+996: The Paper Chase
+
+997: theatrical version
+
+998: yes
+
+999: 1904
+
+1000: Funkadelic
+
+1001: General Electric
+
+1002: Richmond
+
+1003: Crash
+
+1004: winner
+
+1005: None
+
+1006: diplomatic relation
+
+1007: Westminster Abbey
+
+1008: yes
+
+1009: census
+
+1010: 0000 0001 1478 3817
+
+1011: Seven Psychopaths
+
+1012: Nintendo Entertainment System
+
+1013: game mode
+
+1014: Nevada
+
+1015: Wayne County
+
+1016: 2000
+
+1017: Back to the Future Part III
+
+1018: 15
+
+1019: ethnic group
+
+1020: yes
+
+1021: Province of Turin
+
+1022: 200775
+
+1023: Cook Islands
+
+1024: Papua New Guinea
+
+1025: forward
+
+1026: 1969-10-12
+
+1027: The Larry Sanders Show
+
+1028: None
+
+1029: yes
+
+1030: shares border with
+
+1031: United Kingdom
+
+1032: None
+
+1033: opposite of
+
+1034: yes
+
+1035: Ryan Seacrest
+
+1036: Heat
+
+1037: 1
+
+1038: Makerere University
+
+1039: 1959-03-23
+
+1040: 2
+
+1041: no
+
+1042: University of Warwick
+
+1043: mcgillu
+
+1044: 1969-01-01
+
+1045: 0000 0001 1446 2300
+
+1046: Mr. & Mrs. Smith
+
+1047: Rob Lowe
+
+1048: yes
+
+1049: Ned Kelly
+
+1050: Tianjin
+
+1051: Frasier Crane
+
+1052: place of birth
+
+1053: cast member
+
+1054: David Alistair Brown
+
+1055: Germany
+
+1056: 1965-04-05
+
+1057: no
+
+1058: English
+
+1059: 4
+
+1060: no
+
+1061: Champagne-Ardenne
+
+1062: 0.5
+
+1063: 0
+
+1064: 0
+
+1065: Dominica
+
+1066: 2001-11-15
+
+1067: 2010
+
+1068: 1975-10-09
+
+1069: The Twilight Saga: New Moon
+
+1070: Spelman College
+
+1071: San Bernardino County
+
+1072: Tom Petty
+
+1073: Abigail Adams
+
+1074: 2012
+
+1075: Sierra Nevada
+
+1076: 1949-07-24
+
+1077: Colin Wilson
+
+1078: Germany
+
+1079: country of citizenship
+
+1080: +33-1-53-42-36-30
+
+1081: award received
+
+1082: Elmer Bernstein
+
+1083: Xenia Onatopp
+
+1084: 2008-01-01
+
+1085: singer-songwriter
+
+1086: country of origin
+
+1087: occupation
+
+1088: The Bronx High School of Science
+
+1089: 9
+
+1090: 5
+
+1091: famous people
+
+1092: occupation
+
+1093: John F. Kennedy School of Government
+
+1094: Entertainment One Music
+
+1095: 13
+
+1096: prohibition of a political party
+
+1097: place of birth
+
+1098: yes
+
+1099: 1086
+
+1100: 905 - 289
+
+1101: 1972
+
+1102: 01267
+
+1103: Middletown
+
+1104: Boston
+
+1105: Lyon
+
+1106: Upper Normandy
+
+1107: None
+
+1108: no
+
+1109: yes
+
+1110: Joseph Michael Schenck
+
+1111: feminism
+
+1112: 0
+
+1113: owner of
+
+1114: None
+
+1115: no
+
+1116: 0
+
+1117: None
+
+1118: cast member
+
+1119: no
+
+1120: Gale Weathers
+
+1121: 1975-02-15
+
+1122: cast member
+
+1123: cast member
+
+1124: 4
+
+1125: 202 Welch Hall, Ypsilanti, MI, 48197
+
+1126: None
+
+1127: 1
+
+1128: 2
+
+1129: The Fantastic Flying Books of Mr. Morris Lessmore
+
+1130: Dalian
+
+1131: yes
+
+1132: yes
+
+1133: Dr. Tenma
+
+1134: country
+
+1135: 1910
+
+1136: United States of America
+
+1137: yes
+
+1138: 1
+
+1139: yes
+
+1140: 2008 Tour de France
+
+1141: Calvados
+
+1142: Fa yeung nin wa
+
+1143: yes
+
+1144: Rouen
+
+1145: Montgomery County
+
+1146: no
+
+1147: Rachel Portman
+
+1148: 1912
+
+1149: 2
+
+1150: Concordia University
+
+1151: no
+
+1152: Kitsap County
+
+1153: Neve Campbell
+
+1154: no
+
+1155: Gene Reynolds
+
+1156: 2
+
+1157: Richard Taylor
+
+1158: Germany
+
+1159: Hungary
+
+1160: 1850
+
+1161: shares border with
+
+1162: Xbox 360
+
+1163: film score composer
+
+1164: 2
+
+1165: nominated for
+
+1166: 1941
+
+1167: Merck & Co.
+
+1168: None
+
+1169: narrative location
+
+1170: FIFA World Rankings
+
+1171: 1968
+
+1172: Karl Marx
+
+1173: pirate
+
+1174: no
+
+1175: Klamath County
+
+1176: L.A. Law
+
+1177: 2003-01-01
+
+1178: 6010001034809
+
+1179: no
+
+1180: Dakota County
+
+1181: 1
+
+1182: cast member
+
+1183: 4
+
+1184: 905 - 289
+
+1185: The Merry Widow
+
+1186: None
+
+1187: English
+
+1188: Good Night, and Good Luck.
+
+1189: 1974-11-29
+
+1190: Lorraine Bracco
+
+1191: 1
+
+1192: Adam West
+
+1193: no
+
+1194: Zhejiang
+
+1195: cast member
+
+1196: Akiva Goldsman
+
+1197: member of sports team
+
+1198: Inyo County
+
+1199: 9
+
+1200: Germany
+
+1201: nominated for
+
+1202: 2015-03-01
+
+1203: 56th Academy Awards
+
+1204: Children of Men
+
+1205: Loudoun County
+
+1206: headquarters location
+
+1207: None
+
+1208: John Irving
+
+1209: The Poseidon Adventure
+
+1210: LACounty
+
+1211: 20
+
+1212: occupation
+
+1213: None
+
+1214: Rockland County
+
+1215: 1987-03-20
+
+1216: 1411986
+
+1217: no
+
+1218: Kirkcaldy
+
+1219: country of citizenship
+
+1220: worldwide
+
+1221: Walk the Line
+
+1222: yes
+
+1223: Hungary
+
+1224: None
+
+1225: 51.998941 square kilometre
+
+1226: Step Up Revolution
+
+1227: country of citizenship
+
+1228: producer
+
+1229: 2
+
+1230: Colorado College
+
+1231: Batman
+
+1232: yes
+
+1233: 2
+
+1234: nominated for
+
+1235: L-Tyrosine
+
+1236: Treviso
+
+1237: 185 centimetre
+
+1238: Chuck Connors
+
+1239: Bolero
+
+1240: Gillian Anderson
+
+1241: no
+
+1242: yes
+
+1243: Alan Bennett
+
+1244: Rockland County
+
+1245: University of Toronto
+
+1246: 2002-02-13
+
+1247: 1989
+
+1248: no
+
+1249: estimation process
+
+1250: Ubisoft
+
+1251: no
+
+1252: no
+
+1253: yes
+
+1254: no
+
+1255: geographic distribution
+
+1256: City of Angels
+
+1257: no
+
+1258: yes
+
+1259: Germany
+
+1260: 2011-03-09
+
+1261: Yu-Gi-Oh! GX
+
+1262: 1995
+
+1263: 1
+
+1264: position held
+
+1265: Grinnell College
+
+1266: None
+
+1267: Germany
+
+1268: David Zucker
+
+1269: The Edge
+
+1270: The Lord of the Rings
+
+1271: The Guard
+
+1272: educated at
+
+1273: diplomatic relation
+
+1274: 2013-07-01
+
+1275: 2011-07-01
+
+1276: Hungarians
+
+1277: Northridge
+
+1278: In the Name of the Father
+
+1279: Yu-Gi-Oh! Duel Monsters
+
+1280: Michael Gambon
+
+1281: None
+
+1282: 1
+
+1283: None
+
+1284: famous people
+
+1285: no
+
+1286: Alexander Payne
+
+1287: 1878-07-09
+
+1288: 17
+
+1289: Germany
+
+1290: no
+
+1291: Australian Capital Territory
+
+1292: Kathleen Kennedy
+
+1293: 2001-01-01
+
+1294: yes
+
+1295: located in the administrative territorial entity
+
+1296: Mauricio Pinilla
+
+1297: 0
+
+1298: 2
+
+1299: yes
+
+1300: 3
+
+1301: Ferris Bueller's Day Off
+
+1302: United States of America
+
+1303: member of
+
+1304: None
+
+1305: English
+
+1306: Charlie's Angels
+
+1307: 3
+
+1308: Earth
+
+1309: twinned administrative body
+
+1310: 13
+
+1311: Crouching Tiger, Hidden Dragon
+
+1312: David Carney
+
+1313: Lille
+
+1314: West Virginia
+
+1315: Kiss of the Spider Woman
+
+1316: The Proposition
+
+1317: production company
+
+1318: cast member
+
+1319: languages spoken, written or signed
+
+1320: Great Expectations
+
+1321: As Good as It Gets
+
+1322: The Witches of Eastwick
+
+1323: Manhattan
+
+1324: occupation
+
+1325: None
+
+1326: 2--4976
+
+1327: 5
+
+1328: yes
+
+1329: None
+
+1330: 0000 0000 8376 3038
+
+1331: 0000 0001 0921 7183
+
+1332: educated at
+
+1333: Adrian
+
+1334: 1970
+
+1335: Collier County
+
+1336: no
+
+1337: 0
+
+1338: 2
+
+1339: 21.8 square kilometre
+
+1340: 1941-04-28
+
+1341: 0
+
+1342: Royal Academy of Dramatic Art
+
+1343: 0000 0000 7357 8648
+
+1344: Rafael
+
+1345: 2
+
+1346: Carlisle
+
+1347: Greenwood
+
+1348: John Ottman
+
+1349: English
+
+1350: Loughborough University
+
+1351: Dredd
+
+1352: 2010-04-01
+
+1353: San Marino
+
+1354: voice actor
+
+1355: 2011-09-09
+
+1356: Passaic
+
+1357: Wag the Dog
+
+1358: twinned administrative body
+
+1359: country
+
+1360: Freddie Prinze
+
+1361: None
+
+1362: http://www.oscars.org
+
+1363: 2003
+
+1364: yes
+
+1365: David Watkin
+
+1366: 2010-01-01
+
+1367: 2
+
+1368: 2016
+
+1369: Rapunzel
+
+1370: Chandler
+
+1371: Sleepy Hollow
+
+1372: Maggie Smith
+
+1373: 2007-01-01
+
+1374: yes
+
+1375: yes
+
+1376: 10
+
+1377: 1
+
+1378: 2012-02-27
+
+1379: None
+
+1380: 1939-01-01
+
+1381: None
+
+1382: magnesium
+
+1383: 2003
+
+1384: Bruce Almighty
+
+1385: Steve Blum
+
+1386: no
+
+1387: green
+
+1388: Fiorello H. LaGuardia High School
+
+1389: cast member
+
+1390: None
+
+1391: Kamloops
+
+1392: None
+
+1393: partner
+
+1394: Alfred Pennyworth
+
+1395: 17782
+
+1396: Miles O'Brien
+
+1397: West Indies cricket team
+
+1398: no
+
+1399: Missing
+
+1400: no
+
+1401: 0000 0001 2321 1781
+
+1402: Srinagar
+
+1403: None
+
+1404: Michael Brecker
+
+1405: United States of America
+
+1406: Acadia University
+
+1407: Anderson
+
+1408: Death on the Nile
+
+1409: yes
+
+1410: Middlesex County
+
+1411: 14
+
+1412: 2000-03-10
+
+1413: Eastleigh F.C.
+
+1414: Sven Nykvist
+
+1415: None
+
+1416: Michigan–Wisconsin border
+
+1417: 95 minute
+
+1418: Blood Diamond
+
+1419: cast member
+
+1420: census
+
+1421: Manipur
+
+1422: Indian Idol
+
+1423: currency
+
+1424: shares border with
+
+1425: no
+
+1426: None
+
+1427: None
+
+1428: 2011-07-01
+
+1429: 2016-11-15
+
+1430: Sweden
+
+1431: https://www.noord-holland.nl/
+
+1432: yes
+
+1433: The Fall
+
+1434: Fred Thompson
+
+1435: 2012-01-01
+
+1436: 88 minute
+
+1437: Colleen Atwood
+
+1438: Little Children
+
+1439: genre
+
+1440: 0
+
+1441: no
+
+1442: 2015-12-31
+
+1443: Schindler's List
+
+1444: no
+
+1445: yes
+
+1446: 0
+
+1447: http://www.sullivancountynh.gov
+
+1448: Saskatchewan
+
+1449: Murder by Decree
+
+1450: 2
+
+1451: 2
+
+1452: instrument
+
+1453: 0
+
+1454: yes
+
+1455: Oliver Twist
+
+1456: The Fast and the Furious
+
+1457: no
+
+1458: Dunedin
+
+1459: sport
+
+1460: masculine singular
+
+1461: None
+
+1462: 97 minute
+
+1463: 2009
+
+1464: diplomatic relation
+
+1465: yes
+
+1466: 5
+
+1467: English
+
+1468: yes
+
+1469: yes
+
+1470: yes
+
+1471: 8
+
+1472: yes
+
+1473: Champagne-Ardenne
+
+1474: France
+
+1475: medical condition
+
+1476: no
+
+1477: Adrian
+
+1478: William Demarest
+
+1479: 10
+
+1480: 2
+
+1481: seed team
+
+1482: Lafayette College
+
+1483: 2
+
+1484: http://www.comune.venezia.it/
+
+1485: One Life to Live
+
+1486: place of birth
+
+1487: Atlanta
+
+1488: 1
+
+1489: no
+
+1490: no
+
+1491: 16
+
+1492: yes
+
+1493: yes
+
+1494: 2
+
+1495: Kevin Kline
+
+1496: 2010-01-01
+
+1497: South Island
+
+1498: Walk Hard: The Dewey Cox Story
+
+1499: San Mateo
+
+1500: yes
+
+1501: Limitless
+
+1502: no
+
+1503: North Korea national football team
+
+1504: yes
+
+1505: yes
+
+1506: 47
+
+1507: languages spoken, written or signed
+
+1508: EU/EEA Citizen
+
+1509: 126
+
+1510: original network
+
+1511: 1
+
+1512: 2
+
+1513: shares border with
+
+1514: Marshall Carter
+
+1515: 1630
+
+1516: nominated for
+
+1517: Virgin Mary
+
+1518: http://www.ytv.com
+
+1519: 0
+
+1520: Evangelion: 1.0 You Are (Not) Alone
+
+1521: cast member
+
+1522: 2002
+
+1523: The Contender
+
+1524: Mohnish Bahl
+
+1525: yes
+
+1526: Michael Jeter
+
+1527: None
+
+1528: no
+
+1529: 1992-01-01
+
+1530: voice actor
+
+1531: None
+
+1532: Mr. Smith Goes to Washington
+
+1533: 1927
+
+1534: http://www.unco.edu
+
+1535: Robert Downey Jr.
+
+1536: 124 La Trobe Street
+
+1537: County Limerick
+
+1538: no
+
+1539: The Wicker Man
+
+1540: Catalonia
+
+1541: 0
+
+1542: 28
+
+1543: High Noon
+
+1544: yes
+
+1545: Venus Williams
+
+1546: director of photography
+
+1547: 1975
+
+1548: 0000 0001 0904 5529
+
+1549: Kansas
+
+1550: Pocahontas
+
+1551: Germany
+
+1552: None
+
+1553: European Union–Czechoslovakia border
+
+1554: yes
+
+1555: no
+
+1556: Welsh
+
+1557: 2
+
+1558: 1973-12-20
+
+1559: country
+
+1560: shares border with
+
+1561: Lansing
+
+1562: Bravo
+
+1563: no
+
+1564: no
+
+1565: LL Cool J
+
+1566: The Love Guru
+
+1567: Around the World in 80 Days
+
+1568: cast member
+
+1569: yes
+
+1570: no
+
+1571: 2010-04-01
+
+1572: Jon Lovitz
+
+1573: country
+
+1574: English
+
+1575: Monster House
+
+1576: The Bodyguard
+
+1577: Judge Dredd
+
+1578: Gloucester County
+
+1579: yes
+
+1580: 4314192
+
+1581: 1
+
+1582: 1141232
+
+1583: United Kingdom
+
+1584: Aladdin
+
+1585: 1965-04-05
+
+1586: 54th Annual Grammy Awards
+
+1587: Kansai region
+
+1588: Lithuania
+
+1589: Ogden
+
+1590: 29
+
+1591: yes
+
+1592: 2016
+
+1593: narrative location
+
+1594: participant
+
+1595: no
+
+1596: yes
+
+1597: St. Lawrence County
+
+1598: None
+
+1599: Reversal of Fortune
+
+1600: Orange
+
+1601: no
+
+1602: Pontiac
+
+1603: Armstrong County
+
+1604: no
+
+1605: place of birth
+
+1606: 2
+
+1607: 161800000 United States dollar
+
+1608: 1939-10-27
+
+1609: Lancaster County
+
+1610: 1
+
+1611: Madison County
+
+1612: Prince Edward Island
+
+1613: Gary Cooper
+
+1614: yes
+
+1615: The Life and Death of Peter Sellers
+
+1616: http://www.detroitlions.com
+
+1617: 1998-01-01
+
+1618: statement with Gregorian date earlier than 1584
+
+1619: None
+
+1620: occupation
+
+1621: no
+
+1622: Albany County
+
+1623: Gary
+
+1624: 1950-01-26
+
+1625: 111-8081
+
+1626: no
+
+1627: 2016-02-13
+
+1628: sq466m3b5p8f33b
+
+1629: genre
+
+1630: yes
+
+1631: 7
+
+1632: None
+
+1633: educated at
+
+1634: 0
+
+1635: yes
+
+1636: yes
+
+1637: Brazil
+
+1638: United States of America
+
+1639: yes
+
+1640: yes
+
+1641: None
+
+1642: Thunderball
+
+1643: Kinshasa
+
+1644: country of origin
+
+1645: Public Enemies
+
+1646: 3
+
+1647: 230 pound
+
+1648: 3
+
+1649: Jackson County
+
+1650: 2017-04-01
+
+1651: nutrient
+
+1652: 8291712 Russian ruble
+
+1653: located in the administrative territorial entity
+
+1654: OL9 6AA
+
+1655: 2012
+
+1656: 4297986494
+
+1657: Finding Nemo
+
+1658: 0
+
+1659: 151100000 United States dollar
+
+1660: 18
+
+1661: HasbroNews
+
+1662: None
+
+1663: 1978
+
+1664: yes
+
+1665: country of origin
+
+1666: 1994
+
+1667: 2012-07-01
+
+1668: 1
+
+1669: John Denver
+
+1670: 2014
+
+1671: genre
+
+1672: 2
+
+1673: nominated for
+
+1674: yes
+
+1675: University of Southern California
+
+1676: cast member
+
+1677: 0000 0001 1964 1412
+
+1678: no
+
+1679: 5
+
+1680: English
+
+1681: Sioux City
+
+1682: yes
+
+1683: None
+
+1684: 2014-01-01
+
+1685: 1974-04-01
+
+1686: Barbados
+
+1687: https://www.slbenfica.pt/
+
+1688: cast member
+
+1689: no
+
+1690: 1940
+
+1691: realchrisbauer
+
+1692: WWE Superstars
+
+1693: 30th United States Congress
+
+1694: yes
+
+1695: Arrested Development
+
+1696: Johnson County
+
+1697: George Washington
+
+1698: said to be the same as
+
+1699: genre
+
+1700: 3
+
+1701: None
+
+1702: 0
+
+1703: 0000 0001 1440 635X
+
+1704: New Rochelle
+
+1705: Shark Tale
+
+1706: Northeastern University
+
+1707: Beaver County
+
+1708: 1929
+
+1709: None
+
+1710: genre
+
+1711: 2011-01-01
+
+1712: cast member
+
+1713: 2010
+
+1714: 2007-01-01
+
+1715: The House Bunny
+
+1716: country of citizenship
+
+1717: 2011-01-01
+
+1718: yes
+
+1719: Chelmsford
+
+1720: 1
+
+1721: yes
+
+1722: None
+
+1723: Kitsap County
+
+1724: 0
+
+1725: None
+
+1726: Antichrist
+
+1727: 1905-03-28
+
+1728: Eidgenössische Technische Hochschule
+
+1729: United States of America
+
+1730: None
+
+1731: 2002
+
+1732: no
+
+1733: yes
+
+1734: 43720
+
+1735: Wehrmacht
+
+1736: residence
+
+1737: Frankfurt (Oder)
+
+1738: Remus Lupin
+
+1739: None
+
+1740: War Doctor
+
+1741: given name
+
+1742: 0
+
+1743: yes
+
+1744: 2015-05-24
+
+1745: 2000
+
+1746: located in the administrative territorial entity
+
+1747: no
+
+1748: 0
+
+1749: War of the Worlds
+
+1750: Tom
+
+1751: University of Madras
+
+1752: cast member
+
+1753: The Talented Mr. Ripley
+
+1754: no
+
+1755: genitive case
+
+1756: Super 8
+
+1757: no
+
+1758: sport
+
+1759: None
+
+1760: Miracle at St. Anna
+
+1761: 2
+
+1762: yes
+
+1763: Marty
+
+1764: Western Desert Campaign
+
+1765: Aroostook County
+
+1766: Lee Grant
+
+1767: Android
+
+1768: educated at
+
+1769: 0
+
+1770: Salma Hayek
+
+1771: no
+
+1772: John Williams
+
+1773: winner
+
+1774: Mesa
+
+1775: Italian
+
+1776: None
+
+1777: Tuscaloosa
+
+1778: 2
+
+1779: estimation process
+
+1780: yes
+
+1781: Litchfield County
+
+1782: cast member
+
+1783: 938319
+
+1784: Ratatouille
+
+1785: cast member
+
+1786: New Mexico
+
+1787: Dr. Dre
+
+1788: 2
+
+1789: English
+
+1790: diplomatic relation
+
+1791: David Guetta
+
+1792: Ted
+
+1793: genre
+
+1794: Gettysburg
+
+1795: None
+
+1796: no
+
+1797: no
+
+1798: Mariah Carey
+
+1799: military conflicts
+
+1800: capital
+
+1801: country of citizenship
+
+1802: California State University, Long Beach
+
+1803: 1
+
+1804: member of
+
+1805: draft pick from school
+
+1806: Manchester
+
+1807: patmetheny
+
+1808: 1833
+
+1809: no
+
+1810: Lana Turner
+
+1811: 2008-01-01
+
+1812: Julius Caesar
+
+1813: None
+
+1814: different from
+
+1815: You Don't Mess with the Zohan
+
+1816: country of citizenship
+
+1817: Slumdog Millionaire
+
+1818: Bodyguards and Assassins
+
+1819: None
+
+1820: followed by
+
+1821: no
+
+1822: costume designer
+
+1823: None
+
+1824: Dark Shadows
+
+1825: member of
+
+1826: 4
+
+1827: 2006-01-01
+
+1828: occupation
+
+1829: Somerset
+
+1830: 102
+
+1831: no
+
+1832: 122 minute
+
+1833: no
+
+1834: 1952-06-06
+
+1835: None
+
+1836: occupation
+
+1837: Morristown
+
+1838: A Christmas Carol
+
+1839: English
+
+1840: http://reno.gov/
+
+1841: Dorset
+
+1842: Hitchin
+
+1843: narrative location
+
+1844: no
+
+1845: Greece
+
+1846: 40
+
+1847: Ferris Bueller's Day Off
+
+1848: 140
+
+1849: Gael
+
+1850: 1990-05-01
+
+1851: 0000 0000 7111 0689
+
+1852: yes
+
+1853: John C. Calhoun
+
+1854: 1939-04-07
+
+1855: Wexford
+
+1856: 0000 0000 8422 9224
+
+1857: famous people
+
+1858: famous people
+
+1859: 1821
+
+1860: Doug Flutie
+
+1861: Athens
+
+1862: David O. Selznick
+
+1863: genre
+
+1864: Kozhikode
+
+1865: Concord Records
+
+1866: Harris County
+
+1867: Melaka
+
+1868: 0000 0001 2142 3078
+
+1869: yes
+
+1870: Adrian
+
+1871: Slumdog Millionaire
+
+1872: folktronica
+
+1873: Kankakee
+
+1874: no
+
+1875: 1943-01-01
+
+1876: no
+
+1877: Frank Herbert's Dune
+
+1878: 0
+
+1879: Neymar
+
+1880: None
+
+1881: https://www.buryfc.co.uk/
+
+1882: 2011-01-01
+
+1883: Total Recall
+
+1884: 51069
+
+1885: 7
+
+1886: 12
+
+1887: Leiden
+
+1888: Kaboom
+
+1889: no
+
+1890: no
+
+1891: The Monkees
+
+1892: Cybill Shepherd
+
+1893: 1984
+
+1894: 94 minute
+
+1895: no
+
+1896: country
+
+1897: yes
+
+1898: Hudson County
+
+1899: composer
+
+1900: occupation
+
+1901: Kyle MacLachlan
+
+1902: sport
+
+1903: cannabis
+
+1904: Patricia Heaton
+
+1905: yes
+
+1906: educated at
+
+1907: America's Got Talent
+
+1908: Wai Lin
+
+1909: yes
+
+1910: no
+
+1911: Cambridge
+
+1912: yes
+
+1913: 54149
+
+1914: Four Rooms
+
+1915: 0
+
+1916: 13999
+
+1917: Sierra Nevada
+
+1918: Alain Johannes
+
+1919: Jefferson Parish
+
+1920: 19
+
+1921: capital of
+
+1922: Calgary
+
+1923: None
+
+1924: cast member
+
+1925: None
+
+1926: None
+
+1927: yes
+
+1928: Dutch
+
+1929: West Hollywood
+
+1930: yes
+
+1931: Los Angeles County
+
+1932: Bewitched
+
+1933: 4
+
+1934: Florida
+
+1935: 242
+
+1936: main subject
+
+1937: Blue Velvet
+
+1938: Virginia Tech
+
+1939: yes
+
+1940: yes
+
+1941: 12
+
+1942: David Mamet
+
+1943: 2
+
+1944: 108 minute
+
+1945: Governor of New York
+
+1946: http://www.nba.com/bucks/
+
+1947: yes
+
+1948: The Truman Show
+
+1949: Quezon City
+
+1950: Reversal of Fortune
+
+1951: Scarborough
+
+1952: yes
+
+1953: Newark
+
+1954: Jason Reitman
+
+1955: yes
+
+1956: country of origin
+
+1957: 13
+
+1958: Cairo
+
+1959: He's Just Not That into You
+
+1960: a10303480
+
+1961: Lille
+
+1962: census
+
+1963: Honshu
+
+1964: 1
+
+1965: 3
+
+1966: ricardoachavira
+
+1967: 2017-06-17
+
+1968: 1870
+
+1969: 2
+
+1970: no
+
+1971: English
+
+1972: St. Elsewhere
+
+1973: hftx2qk13z2p344
+
+1974: risk factor
+
+1975: 423.121.11
+
+1976: 0
+
+1977: English
+
+1978: 1964-08-01
+
+1979: Ben Urich
+
+1980: AC/DC
+
+1981: Liam Neeson
+
+1982: existentialism
+
+1983: Chris Cooper
+
+1984: no
+
+1985: Hud
+
+1986: Peter Cook
+
+1987: Phil Ramone
+
+1988: nutrient
+
+1989: Gwen Stacy
+
+1990: yes
+
+1991: 81st Academy Awards
+
+1992: Sony
+
+1993: 1983-04-03
+
+1994: 1818
+
+1995: yes
+
+1996: 2010-07-01
+
+1997: Germany
+
+1998: 1923-03-25
+
+1999: Germany
+
+2000: 2008
+
+2001: 1974
+
+2002: 1956-08-14
+
+2003: Robbie Robertson
+
+2004: Thomas Hardy
+
+2005: 0
+
+2006: Mariposa County
+
+2007: The Hunchback of Notre Dame
+
+2008: yes
+
+2009: None
+
+2010: 41C63
+
+2011: None
+
+2012: Scott Wilson
+
+2013: English
+
+2014: place of birth
+
+2015: demographic balance
+
+2016: no
+
+2017: United States of America
+
+2018: 2008 Tour de France
+
+2019: Himalayas
+
+2020: None
+
+2021: Goddard College
+
+2022: Hellboy II: The Golden Army
+
+2023: 80 minute
+
+2024: island
+
+2025: War and Peace
+
+2026: PlayStation 3
+
+2027: 13
+
+2028: Marseille
+
+2029: Ice Age: Dawn of the Dinosaurs
+
+2030: Bandai Namco Amusement
+
+2031: estimation process
+
+2032: 0000 0000 4534 2937
+
+2033: cast member
+
+2034: no
+
+2035: 1966
+
+2036: 0000 0000 4833 9303
+
+2037: parishilton
+
+2038: yes
+
+2039: yes
+
+2040: 2000
+
+2041: 2012-07-01
+
+2042: yes
+
+2043: yes
+
+2044: Embassy of Germany, Port of Spain
+
+2045: 2010-04-01
+
+2046: Bury
+
+2047: Minnesota–South Dakota border
+
+2048: English
+
+2049: no
+
+2050: conflict
+
+2051: Glen Cove
+
+2052: no
+
+2053: 0
+
+2054: screenwriter
+
+2055: 1747-01-01
+
+2056: United States of America
+
+2057: 2015
+
+2058: no
+
+2059: http://www.smokinaces.net
+
+2060: yes
+
+2061: owner of
+
+2062: 1961-08-24
+
+2063: 1961-08-08
+
+2064: no
+
+2065: None
+
+2066: located in the administrative territorial entity
+
+2067: http://www.celtics.com/
+
+2068: Sandy Cohen
+
+2069: William Holden
+
+2070: Nassau
+
+2071: None
+
+2072: 0000 0001 0736 549X
+
+2073: 2009
+
+2074: diplomatic relation
+
+2075: Don Johnson
+
+2076: November
+
+2077: Andy Williams
+
+2078: demographic balance
+
+2079: Giovanni Ribisi
+
+2080: Luther
+
+2081: Broadcast Film Critics Association Awards 2001
+
+2082: Trinity
+
+2083: yes
+
+2084: Portuguese
+
+2085: Lara Croft: Tomb Raider
+
+2086: country
+
+2087: famous people
+
+2088: cast member
+
+2089: no
+
+2090: http://miguelferrer.com
+
+2091: yes
+
+2092: https://music.stackexchange.com/tags/trombone
+
+2093: Blowup
+
+2094: 0 metre
+
+2095: no
+
+2096: Lima
+
+2097: nominated for
+
+2098: Atonement
+
+2099: yes
+
+2100: Bugsy
+
+2101: 1964-10-03
+
+2102: 0
+
+2103: Grateful Dead
+
+2104: AT&T
+
+2105: 66
+
+2106: Freakazoid!
+
+2107: Cranford
+
+2108: None
+
+2109: 4
+
+2110: None
+
+2111: English
+
+2112: close match
+
+2113: 21–40
+
+2114: 2
+
+2115: feminine
+
+2116: Wallace & Gromit: The Curse of the Were-Rabbit
+
+2117: 1
+
+2118: 1
+
+2119: Gila County
+
+2120: country of citizenship
+
+2121: MTV Video Music Award for Best Hip-Hop Video
+
+2122: 2001
+
+2123: The Omen
+
+2124: occupation
+
+2125: EU/EEA Citizen
+
+2126: Quills
+
+2127: Hilary and Jackie
+
+2128: yes
+
+2129: None
+
+2130: 4
+
+2131: All About Steve
+
+2132: Alvin and the Chipmunks: Chipwrecked
+
+2133: 0000 0001 2181 9515
+
+2134: 17
+
+2135: 31fhk0qm57xf738
+
+2136: Transylvania
+
+2137: Iain Glen
+
+2138: Mr. Smith Goes to Washington
+
+2139: 1945-01-01
+
+2140: place of death
+
+2141: None
+
+2142: no
+
+2143: Lily Allen
+
+2144: 13
+
+2145: Coconino County
+
+2146: 1982-10-01
+
+2147: Richard Mark Hammond
+
+2148: participant
+
+2149: 2014-09-21
+
+2150: 1966-07-06
+
+2151: nominated for
+
+2152: Fear the Walking Dead
+
+2153: 0
+
+2154: English Channel
+
+2155: Greenwich
+
+2156: http://www.hal-roach.com/
+
+2157: Makerere University
+
+2158: cast member
+
+2159: 3
+
+2160: San Marino
+
+2161: from fictional universe
+
+2162: nominated for
+
+2163: 2016 Australian census
+
+2164: no
+
+2165: Amadeus
+
+2166: manner of death
+
+2167: None
+
+2168: A Star Is Born
+
+2169: None
+
+2170: Germany
+
+2171: Michael Dobson
+
+2172: shares border with
+
+2173: no
+
+2174: estimation process
+
+2175: 4000000074559702
+
+2176: 2
+
+2177: 123 minute
+
+2178: 1768
+
+2179: Annapolis
+
+2180: yes
+
+2181: Belgium
+
+2182: Billy Corgan
+
+2183: 1
+
+2184: None
+
+2185: member of sports team
+
+2186: 16
+
+2187: 0000 0001 1030 2705
+
+2188: The Bronx High School of Science
+
+2189: yes
+
+2190: Salem
+
+2191: The Wrestler
+
+2192: religion
+
+2193: 0000 0001 0796 3991
+
+2194: occupation
+
+2195: no
+
+2196: 1
+
+2197: None
+
+2198: 13
+
+2199: yes
+
+2200: 2
+
+2201: 30
+
+2202: Natalie Portman
+
+2203: 1962
+
+2204: 1
+
+2205: Northridge
+
+2206: Moonraker
+
+2207: 2013
+
+2208: 2017-12-31
+
+2209: Adirondack Mountains
+
+2210: Grant County
+
+2211: original language of film or TV show
+
+2212: 1900-01-01
+
+2213: country of citizenship
+
+2214: http://www.locusmag.com/SFAwards/Db/Locus.html
+
+2215: Carmine Coppola
+
+2216: yes
+
+2217: Seol Ki-hyeon
+
+2218: 0
+
+2219: https://www.state.gov/secretary/index.htm
+
+2220: The Sum of All Fears
+
+2221: 0
+
+2222: 1956-06-30
+
+2223: 0
+
+2224: no
+
+2225: no
+
+2226: Racine
+
+2227: educated at
+
+2228: yes
+
+2229: None
+
+2230: cast member
+
+2231: Staffordshire
+
+2232: 1921
+
+2233: The Ides of March
+
+2234: 1927
+
+2235: Rome
+
+2236: yes
+
+2237: 112.1
+
+2238: Brazil
+
+2239: Jude Law
+
+2240: director
+
+2241: Lawrence Kasdan
+
+2242: East Orange
+
+2243: 1
+
+2244: linkinpark
+
+2245: 1921-10-01
+
+2246: yes
+
+2247: Pirates of the Caribbean: The Curse of the Black Pearl
+
+2248: 0
+
+2249: Nancy Cartwright
+
+2250: 2
+
+2251: no
+
+2252: starwars
+
+2253: Germany
+
+2254: no
+
+2255: Transformers
+
+2256: Eindhoven
+
+2257: place of death
+
+2258: 4350
+
+2259: 1
+
+2260: 1961-11-20
+
+2261: shares border with
+
+2262: a11162508
+
+2263: 2009
+
+2264: http://www.nealstephenson.com/
+
+2265: country of citizenship
+
+2266: notable work
+
+2267: Reno
+
+2268: 1906-01-01
+
+2269: yes
+
+2270: famous people
+
+2271: 1920
+
+2272: 0
+
+2273: None
+
+2274: 2
+
+2275: Traffic
+
+2276: None
+
+2277: yes
+
+2278: Brad Pitt
+
+2279: 1
+
+2280: 0000 0001 0661 0166
+
+2281: Vangelis
+
+2282: 61st Tony Awards
+
+2283: Sydney Pollack
+
+2284: game mode
+
+2285: songwriter
+
+2286: Hikaru Sulu
+
+2287: Antigua and Barbuda
+
+2288: has part
+
+2289: 2008-01-01
+
+2290: Annie Hall
+
+2291: 3
+
+2292: no
+
+2293: None
+
+2294: Goodfellas
+
+2295: None
+
+2296: Marrakesh
+
+2297: 14
+
+2298: country
+
+2299: Cambria County
+
+2300: Primetime Emmy Award for Outstanding Lead Actor in a Comedy Series
+
+2301: Tiny Toon Adventures
+
+2302: no
+
+2303: None
+
+2304: None
+
+2305: http://www.co.genesee.ny.us
+
+2306: no
+
+2307: None
+
+2308: https://www.soundersfc.com
+
+2309: The Cable Guy
+
+2310: Yu-Gi-Oh! GX
+
+2311: 412.132
+
+2312: Germany
+
+2313: Moscow Conservatory
+
+2314: no
+
+2315: 25
+
+2316: FIFA
+
+2317: 0
+
+2318: yes
+
+2319: Boxer Rebellion
+
+2320: no
+
+2321: Lucy Liu
+
+2322: Futurama
+
+2323: ipritamofficial
+
+2324: Ronnie Screwvala
+
+2325: yes
+
+2326: contains administrative territorial entity
+
+2327: 3
+
+2328: 0
+
+2329: 143161
+
+2330: estimation process
+
+2331: yes
+
+2332: Guernsey
+
+2333: 1985-01-01
+
+2334: Pirates of the Caribbean: At World's End
+
+2335: 1985
+
+2336: The Amazing Spider-Man
+
+2337: Africa
+
+2338: None
+
+2339: Bob Fosse
+
+2340: Germany
+
+2341: 1825
+
+2342: None
+
+2343: None
+
+2344: None
+
+2345: yes
+
+2346: Georgian
+
+2347: 16
+
+2348: sport
+
+2349: a10056610
+
+2350: Allen County
+
+2351: 10
+
+2352: 45
+
+2353: None
+
+2354: yes
+
+2355: piano
+
+2356: Alien
+
+2357: 110000000
+
+2358: Jim Brown
+
+2359: Trinidad and Tobago
+
+2360: Aishwarya Rai
+
+2361: R. Kelly
+
+2362: Kal Penn
+
+2363: None
+
+2364: Philippine Standard Time
+
+2365: 110 minute
+
+2366: 91103
+
+2367: demographic balance
+
+2368: Lindy Hemming
+
+2369: None
+
+2370: El Salvador
+
+2371: Wallace & Gromit: The Curse of the Were-Rabbit
+
+2372: 19
+
+2373: Taylor Swift
+
+2374: The Rose
+
+2375: South Tyrol
+
+2376: award received
+
+2377: no
+
+2378: 0
+
+2379: languages spoken, written or signed
+
+2380: An Inconvenient Truth
+
+2381: 0
+
+2382: nominated for
+
+2383: Erlangen
+
+2384: place of death
+
+2385: 1
+
+2386: 13
+
+2387: thatdanielwu
+
+2388: 24
+
+2389: no
+
+2390: khwzzv2345wgz5h
+
+2391: 2011-02-12
+
+2392: yes
+
+2393: 24
+
+2394: Bam Margera
+
+2395: Bill Cosby
+
+2396: Robert Altman
+
+2397: Garden State
+
+2398: Batman
+
+2399: United States of America
+
+2400: yes
+
+2401: Robert Nelson Jacobs
+
+2402: table tennis
+
+2403: None
+
+2404: 1871
+
+2405: no
+
+2406: Republic of Venice
+
+2407: Missouri River
+
+2408: Boardwalk Empire
+
+2409: no
+
+2410: 23
+
+2411: occupation
+
+2412: original language of film or TV show
+
+2413: 2006
+
+2414: Nelson
+
+2415: occupation
+
+2416: South Tyrol
+
+2417: 4
+
+2418: educated at
+
+2419: Around the World in 80 Days
+
+2420: rector
+
+2421: 0000 0001 0674 2281
+
+2422: cast member
+
+2423: University of Minnesota
+
+2424: country
+
+2425: The Nutty Professor
+
+2426: Manitoba
+
+2427: None
+
+2428: Draco Rosa
+
+2429: Claire Littleton
+
+2430: Driving Miss Daisy
+
+2431: ethnic group
+
+2432: no
+
+2433: Romeo and Juliet
+
+2434: 03
+
+2435: 94000 Swedish krona
+
+2436: yes
+
+2437: cast member
+
+2438: symptoms
+
+2439: Frank Sinatra
+
+2440: yes
+
+2441: 0
+
+2442: 1994-05-23
+
+2443: 46
+
+2444: 3
+
+2445: 1994
+
+2446: no
+
+2447: Frankfurt (Oder)
+
+2448: instrument
+
+2449: Germany
+
+2450: The Notorious B.I.G.
+
+2451: The Transformers: The Movie
+
+2452: Ohio
+
+2453: Hugo
+
+2454: Bangladesh–Lebanon relations
+
+2455: plural
+
+2456: 100853753 United States dollar
+
+2457: 59471
+
+2458: Java
+
+2459: 0
+
+2460: None
+
+2461: Jack Elam
+
+2462: yes
+
+2463: 25
+
+2464: Samsung Electronics
+
+2465: Portsmouth
+
+2466: Zoey Pierson
+
+2467: 66th Academy Awards
+
+2468: Bolivia
+
+2469: Shattered Glass
+
+2470: Working Girl
+
+2471: 3
+
+2472: Marrakesh
+
+2473: Manhattan
+
+2474: Galileo Galilei
+
+2475: twinned administrative body
+
+2476: French
+
+2477: 4ad
+
+2478: Columbus
+
+2479: John Abraham
+
+2480: 1
+
+2481: shares border with
+
+2482: 2011
+
+2483: 1990-09-23
+
+2484: None
+
+2485: sport
+
+2486: DE-RP
+
+2487: Falls Church
+
+2488: 2012-07-01
+
+2489: twinned administrative body
+
+2490: film release region
+
+2491: yes
+
+2492: yes
+
+2493: Walter Murphy
+
+2494: None
+
+2495: 2017-09-14
+
+2496: Yellow Submarine
+
+2497: Kōbe
+
+2498: not sure
+
+2499: 1992-01-01
+
+2500: 17
+
+2501: location identifier part of a library identifier code
+
+2502: director of photography
+
+2503: Columbia County
+
+2504: None
+
+2505: yes
+
+2506: industry
+
+2507: None
+
+2508: no
+
+2509: cast member
+
+2510: 2005-01-01
+
+2511: yes
+
+2512: voice actor
+
+2513: Christopher Columbus: The Discovery
+
+2514: Charlotte York Goldenblatt
+
+2515: 88716
+
+2516: relative
+
+2517: 70503
+
+2518: 3
+
+2519: 1958-01-01
+
+2520: 0
+
+2521: Paul Weller
+
+2522: 2
+
+2523: Pamela Anderson
+
+2524: yes
+
+2525: 1992
+
+2526: Galadriel
+
+2527: sport
+
+2528: occupation
+
+2529: Mercer County
+
+2530: None
+
+2531: Alexandria
+
+2532: Dwyane Wade
+
+2533: 2012-07-01
+
+2534: Naomi Watts
+
+2535: 57
+
+2536: no
+
+2537: yes
+
+2538: https://www.leedsunited.com/
+
+2539: genre
+
+2540: record label
+
+2541: None
+
+2542: The Last Emperor
+
+2543: English
+
+2544: dub
+
+2545: 67th Academy Awards
+
+2546: manner of death
+
+2547: famous people
+
+2548: 3
+
+2549: Freakazoid!
+
+2550: The Dark Knight Rises
+
+2551: 23rd Academy Awards
+
+2552: Germany
+
+2553: no
+
+2554: Julian Fellowes
+
+2555: no
+
+2556: country
+
+2557: 0
+
+2558: 2010-07-01
+
+2559: country
+
+2560: headquarters location
+
+2561: filming location
+
+2562: 1997
+
+2563: Vancouver Island
+
+2564: 0
+
+2565: 1995-01-01
+
+2566: Alaska
+
+2567: English
+
+2568: derivative work
+
+2569: 1940
+
+2570: 188753
+
+2571: 2013
+
+2572: Greene County
+
+2573: 6
+
+2574: Illinois
+
+2575: Jonathan Forte
+
+2576: yes
+
+2577: The Aristocrats
+
+2578: Pan's Labyrinth
+
+2579: Anna Karenina
+
+2580: sport
+
+2581: The Last Picture Show
+
+2582: 4
+
+2583: record label
+
+2584: 1996-02-21
+
+2585: Gordon Brown
+
+2586: 2006
+
+2587: 1993-01-01
+
+2588: War Horse
+
+2589: no
+
+2590: voice actor
+
+2591: Princeton University
+
+2592: estimation process
+
+2593: Today
+
+2594: 1969-10-28
+
+2595: award received
+
+2596: None
+
+2597: occupation
+
+2598: HibsOfficial
+
+2599: Rosie O'Donnell
+
+2600: Newcastle
+
+2601: UoLondon
+
+2602: Unitarianism
+
+2603: twinned administrative body
+
+2604: Himalayas
+
+2605: yes
+
+2606: Germany
+
+2607: Ruth Hussey
+
+2608: English
+
+2609: no
+
+2610: yes
+
+2611: Spain
+
+2612: 1
+
+2613: Putnam County
+
+2614: country
+
+2615: film release region
+
+2616: None
+
+2617: Thomas Schlamme
+
+2618: yes
+
+2619: The Tree of Life
+
+2620: 1993
+
+2621: 1960-01-01
+
+2622: 0
+
+2623: 2001:760:2e00::/48
+
+2624: 1998
+
+2625: Asia Argento
+
+2626: John Logan
+
+2627: 2001-01-01
+
+2628: 1
+
+2629: 1965
+
+2630: Cirque du Freak: The Vampire's Assistant
+
+2631: from fictional universe
+
+2632: Embassy of Germany, Niamey
+
+2633: 0000 0001 2126 1603
+
+2634: The Daily Show
+
+2635: country of citizenship
+
+2636: Love Story
+
+2637: Seattle
+
+2638: My Fair Lady
+
+2639: cast member
+
+2640: Cornwall
+
+2641: employer
+
+2642: member of sports team
+
+2643: 2006-01-01
+
+2644: no
+
+2645: conflict
+
+2646: 2009
+
+2647: Jude Law
+
+2648: no
+
+2649: 0
+
+2650: Hannibal
+
+2651: Gulliver's Travels
+
+2652: 2
+
+2653: None
+
+2654: a10938552
+
+2655: 0
+
+2656: None
+
+2657: myucalgary
+
+2658: The Contender
+
+2659: Sydney
+
+2660: 153
+
+2661: 0
+
+2662: Fayetteville
+
+2663: Silver Linings Playbook
+
+2664: yes
+
+2665: 1929-11-30
+
+2666: http://www.seal.com/
+
+2667: Gelderland
+
+2668: 53
+
+2669: yes
+
+2670: 1941-01-01
+
+2671: cast member
+
+2672: Dean Stockwell
+
+2673: 27
+
+2674: United States of America
+
+2675: verified account
+
+2676: yes
+
+2677: yes
+
+2678: no
+
+2679: Apache
+
+2680: no
+
+2681: Glee
+
+2682: 1981
+
+2683: no
+
+2684: 0000 0000 7827 2285
+
+2685: 2015-01-01
+
+2686: James Brown
+
+2687: 1959-03-08
+
+2688: Red Road
+
+2689: 2014-03-25
+
+2690: country
+
+2691: 0
+
+2692: yes
+
+2693: Apulia
+
+2694: 1
+
+2695: 7
+
+2696: 4
+
+2697: 1926-01-01
+
+2698: yes
+
+2699: 2010
+
+2700: None
+
+2701: Allen Iverson
+
+2702: 6
+
+2703: Braveheart
+
+2704: San Francisco Bay Area
+
+2705: Riverside
+
+2706: conflict
+
+2707: yes
+
+2708: 2008
+
+2709: cast member
+
+2710: 5
+
+2711: no
+
+2712: yes
+
+2713: no
+
+2714: rheumatoid arthritis
+
+2715: General Electric
+
+2716: English
+
+2717: famous people
+
+2718: Germany
+
+2719: 1
+
+2720: no
+
+2721: no
+
+2722: None
+
+2723: 2
+
+2724: 44th Tony Awards
+
+2725: 2
+
+2726: The Late Shift
+
+2727: The Office
+
+2728: 1957-08-14
+
+2729: 1970-05-12
+
+2730: The Aviator
+
+2731: Rockland County
+
+2732: None
+
+2733: Beauty and the Beast
+
+2734: sibling
+
+2735: no
+
+2736: 2
+
+2737: Niger
+
+2738: narrative location
+
+2739: no
+
+2740: None
+
+2741: Darwin
+
+2742: 2007
+
+2743: Dearborn
+
+2744: German Americans
+
+2745: 1
+
+2746: The Rocketeer
+
+2747: nominated for
+
+2748: 1951
+
+2749: 2006-01-01
+
+2750: twinned administrative body
+
+2751: Kevin McCarthy
+
+2752: yes
+
+2753: Hiroshima Toyo Carp
+
+2754: Frankfurt (Oder)
+
+2755: 1856
+
+2756: STRUMMER JOE
+
+2757: 2010
+
+2758: 63rd Academy Awards
+
+2759: Project Runway
+
+2760: None
+
+2761: Belgium national football team
+
+2762: United States of America
+
+2763: None
+
+2764: Rockland County
+
+2765: yes
+
+2766: nominated for
+
+2767: yes
+
+2768: diplomatic relation
+
+2769: None
+
+2770: sport
+
+2771: 2010-01-01
+
+2772: 2009-04-01
+
+2773: 0
+
+2774: The Colbert Report
+
+2775: Primetime Emmy Award for Outstanding Lead Actress in a Drama Series
+
+2776: 2002-01-01
+
+2777: 1
+
+2778: no
+
+2779: Franklin County
+
+2780: no
+
+2781: Russian
+
+2782: folic acid
+
+2783: 1999-01-01
+
+2784: Russell Crowe
+
+2785: Germany
+
+2786: Haim Saban
+
+2787: Germany
+
+2788: estac_officiel
+
+2789: Les_Yvelines
+
+2790: Germany
+
+2791: 105321
+
+2792: 2012-07-18
+
+2793: Seventh-day Adventist Church
+
+2794: 35 kilogram
+
+2795: Monroe County
+
+2796: 5249066
+
+2797: no
+
+2798: 2015-01-01
+
+2799: Yonkers
+
+2800: 69th Academy Awards
+
+2801: William James Adams Jr.
+
+2802: 0
+
+2803: Mark Damon
+
+2804: Happy-Go-Lucky
+
+2805: Germany
+
+2806: Wollongong
+
+2807: English
+
+2808: Franklin County
+
+2809: 1979
+
+2810: 1956-10-16
+
+2811: 2008
+
+2812: 0
+
+2813: no
+
+2814: The Simpsons
+
+2815: Dan Curtis
+
+2816: yes
+
+2817: Jimmy Page
+
+2818: Amour
+
+2819: 1
+
+2820: Romeo and Juliet
+
+2821: Germany
+
+2822: St. Lawrence University
+
+2823: 1893
+
+2824: primary body
+
+2825: Sunderland A.F.C.
+
+2826: National Board of Review Award for Best Actor
+
+2827: country
+
+2828: occupation
+
+2829: Split
+
+2830: occupation
+
+2831: 1956
+
+2832: cast member
+
+2833: 0
+
+2834: The Island at the Top of the World
+
+2835: sport
+
+2836: Montgomery County
+
+2837: English
+
+2838: 1
+
+2839: None
+
+2840: None
+
+2841: SimonCowell
+
+2842: Delaware County
+
+2843: 32nd Academy Awards
+
+2844: FIFA
+
+2845: 1
+
+2846: no
+
+2847: official language
+
+2848: Saint Joseph's University
+
+2849: 1983
+
+2850: no
+
+2851: Syrianska FC
+
+2852: yes
+
+2853: Worcester County
+
+2854: prohibition of a political party
+
+2855: no
+
+2856: 39
+
+2857: 1
+
+2858: English
+
+2859: no
+
+2860: 2005-01-01
+
+2861: Shortbus
+
+2862: robcorddry
+
+2863: None
+
+2864: cast member
+
+2865: Splash
+
+2866: 1995-12-19
+
+2867: Winchester
+
+2868: Jackson
+
+2869: yes
+
+2870: award received
+
+2871: 1972-08-28
+
+2872: 45
+
+2873: Howard County
+
+2874: 0
+
+2875: Fargo
+
+2876: 0
+
+2877: named after
+
+2878: Douglas County
+
+2879: cast member
+
+2880: no
+
+2881: twinned administrative body
+
+2882: palmitic acid
+
+2883: New Trier High School
+
+2884: St. Lawrence County
+
+2885: yes
+
+2886: 191 metre
+
+2887: symantec
+
+2888: Botswana
+
+2889: None
+
+2890: Sciences Po
+
+2891: yes
+
+2892: no
+
+2893: 0000 0001 0776 8432
+
+2894: 16
+
+2895: yes
+
+2896: yes
+
+2897: 6
+
+2898: The Lookout
+
+2899: Turks and Caicos Islands
+
+2900: shares border with
+
+2901: yes
+
+2902: University of Freiburg
+
+2903: superhuman feature or ability
+
+2904: no
+
+2905: 2
+
+2906: no
+
+2907: 10
+
+2908: 12
+
+2909: 2018-06-28
+
+2910: 6
+
+2911: The Merry Widow
+
+2912: 2013-07-01
+
+2913: no
+
+2914: 17496
+
+2915: 1995
+
+2916: Rockingham County
+
+2917: V for Vendetta
+
+2918: no
+
+2919: Falkirk
+
+2920: nominated for
+
+2921: 1946-01-01
+
+2922: no
+
+2923: Germany
+
+2924: http://nebulas.sfwa.org/
+
+2925: 1
+
+2926: original network
+
+2927: Sideways
+
+2928: no
+
+2929: Logan
+
+2930: US27
+
+2931: Quills
+
+2932: Mel Gibson
+
+2933: Enemy of the State
+
+2934: 15
+
+2935: Gertrude Stein
+
+2936: follows
+
+2937: River Thames
+
+2938: yes
+
+2939: None
+
+2940: yes
+
+2941: Germany
+
+2942: partner
+
+2943: The Proposition
+
+2944: twinned administrative body
+
+2945: None
+
+2946: 2
+
+2947: 1
+
+2948: The Other Boleyn Girl
+
+2949: 1935-01-22
+
+2950: Gloucester County
+
+2951: 2012
+
+2952: yes
+
+2953: None
+
+2954: Shakira
+
+2955: yes
+
+2956: 2
+
+2957: Jeremy Northam
+
+2958: Charlie's Angels
+
+2959: Anna Gunn
+
+2960: Evita
+
+2961: 8
+
+2962: no
+
+2963: 4
+
+2964: yes
+
+2965: Nanjing
+
+2966: occupation
+
+2967: 110 minute
+
+2968: 2008-01-01
+
+2969: 1976
+
+2970: cast member
+
+2971: part of
+
+2972: Johnny Kerr
+
+2973: 2010-04-01
+
+2974: http://www.ealeppo.sy
+
+2975: famous people
+
+2976: production designer
+
+2977: 2003-01-01
+
+2978: no
+
+2979: 0000 0000 5119 3149
+
+2980: twinned administrative body
+
+2981: 64th Golden Globe Awards
+
+2982: Old English
+
+2983: no
+
+2984: None
+
+2985: shares border with
+
+2986: famous people
+
+2987: None
+
+2988: 2
+
+2989: Butler County
+
+2990: yes
+
+2991: Jason Isaacs
+
+2992: no
+
+2993: Matthew Michael Murdock
+
+2994: yes
+
+2995: no
+
+2996: 61st Academy Awards
+
+2997: 2
+
+2998: military branch
+
+2999: headquarters location
+
+3000: yes
+
+3001: Travis County
+
+3002: The Heiress
+
+3003: None
+
+3004: Germany
+
+3005: 2005-04-19
+
+3006: 18
+
+3007: place of birth
+
+3008: 0
+
+3009: James A. Garfield
+
+3010: 0
+
+3011: 4
+
+3012: no
+
+3013: Morgan Creek Productions
+
+3014: 2016-12-31
+
+3015: The Turning Point
+
+3016: None
+
+3017: yes
+
+3018: In the Heat of the Night
+
+3019: None
+
+3020: North Holland
+
+3021: http://www.johncorbettband.com/
+
+3022: cast member
+
+3023: no
+
+3024: Pyrenees
+
+3025: Richard Taylor
+
+3026: 2005
+
+3027: Nike
+
+3028: instrument
+
+3029: 2405665
+
+3030: Italy
+
+3031: None
+
+3032: 1
+
+3033: https://www.apache.org/licenses/
+
+3034: no
+
+3035: The Others
+
+3036: Charles Dickens
+
+3037: None
+
+3038: yes
+
+3039: Batman
+
+3040: 0
+
+3041: 38
+
+3042: 0
+
+3043: award received
+
+3044: tomato
+
+3045: 1964-02-24
+
+3046: United States of America
+
+3047: Anne Arundel County
+
+3048: 30.54 square kilometre
+
+3049: occupation
+
+3050: Federated States of Micronesia
+
+3051: cast member
+
+3052: yes
+
+3053: composer
+
+3054: None
+
+3055: None
+
+3056: no
+
+3057: yes
+
+3058: country
+
+3059: yes
+
+3060: no
+
+3061: dubai
+
+3062: conflict
+
+3063: None
+
+3064: no
+
+3065: Jack Kerouac
+
+3066: Scream/Childhood
+
+3067: participant
+
+3068: None
+
+3069: 17
+
+3070: Washington County
+
+3071: 1
+
+3072: Xbox 360
+
+3073: main subject
+
+3074: Dunedin
+
+3075: 2016
+
+3076: The Towering Inferno
+
+3077: 60 metre
+
+3078: https://web.archive.org/web/20130131070427/http://www.worldwidestudios.net/liverpool
+
+3079: member of sports team
+
+3080: has part
+
+3081: None
+
+3082: 2013
+
+3083: Rockstar Games
+
+3084: yes
+
+3085: 4295911221
+
+3086: 7
+
+3087: Afghanistan–Bangladesh relations
+
+3088: St. Catharines
+
+3089: 23rd Academy Awards
+
+3090: Andhra Pradesh
+
+3091: cast member
+
+3092: 2
+
+3093: Freddie Francis
+
+3094: famous people
+
+3095: Utrecht
+
+3096: katyperry
+
+3097: 6
+
+3098: award received
+
+3099: Bremerton
+
+3100: no
+
+3101: country of origin
+
+3102: a11327856
+
+3103: Bohemia
+
+3104: languages spoken, written or signed
+
+3105: award received
+
+3106: 15
+
+3107: stephenmerchant
+
+3108: 2005-01-01
+
+3109: 2
+
+3110: 1996-01-01
+
+3111: 6
+
+3112: Cape Town
+
+3113: original language of film or TV show
+
+3114: Murphy Brown
+
+3115: member of sports team
+
+3116: James Newton Howard
+
+3117: United Kingdom
+
+3118: member of sports team
+
+3119: http://www.charliewilsonswar.net/
+
+3120: 0000 0001 0727 1047
+
+3121: Germany
+
+3122: Winston-Salem
+
+3123: Chittagong
+
+3124: instrument
+
+3125: Howards End
+
+3126: 193 centimetre
+
+3127: 00018339583
+
+3128: 0
+
+3129: Coming Home
+
+3130: Christopher Guest
+
+3131: Egypt
+
+3132: None
+
+3133: no
+
+3134: famous people
+
+3135: Patricia Arquette
+
+3136: Mutiny on the Bounty
+
+3137: Alice
+
+3138: Frida
+
+3139: yes
+
+3140: Germany
+
+3141: Guiding Light
+
+3142: Star Trek: The Animated Series
+
+3143: country of citizenship
+
+3144: 2017-12-25
+
+3145: 1951-01-01
+
+3146: None
+
+3147: no
+
+3148: 0
+
+3149: 1
+
+3150: 2
+
+3151: Kern County
+
+3152: New York City
+
+3153: Marley
+
+3154: San Rafael
+
+3155: Rick Rubin
+
+3156: None
+
+3157: Cairo
+
+3158: 1545 square kilometre
+
+3159: Stephanie Morgenstern
+
+3160: None
+
+3161: None
+
+3162: instrument
+
+3163: English
+
+3164: award disciplines or subjects
+
+3165: 2
+
+3166: game mode
+
+3167: genre
+
+3168: Elizabeth I
+
+3169: verified account
+
+3170: Germans
+
+3171: 20
+
+3172: no
+
+3173: Reese Witherspoon
+
+3174: 0
+
+3175: Little Miss Sunshine
+
+3176: The Mummy: Tomb of the Dragon Emperor
+
+3177: The Pursuit of Happyness
+
+3178: 201-564-2
+
+3179: no
+
+3180: Tangled
+
+3181: Germany
+
+3182: Tori Spelling
+
+3183: 3
+
+3184: Tag:denomination=orthodox
+
+3185: has part
+
+3186: 37.302965 square kilometre
+
+3187: 2013-07-01
+
+3188: cast member
+
+3189: original language of film or TV show
+
+3190: 2013-07-01
+
+3191: 2426
+
+3192: 0
+
+3193: None
+
+3194: Richard Linklater
+
+3195: 4
+
+3196: None
+
+3197: David Alan Grier
+
+3198: 1
+
+3199: 1995-05-15
+
+3200: Delaware
+
+3201: 1996
+
+3202: draft pick from school
+
+3203: City of Angels
+
+3204: Star Wars: The Clone Wars
+
+3205: place of death
+
+3206: None
+
+3207: Jefferson County
+
+3208: Cyrillic script
+
+3209: 14
+
+3210: country
+
+3211: Mozambique
+
+3212: Judge Dredd
+
+3213: no
+
+3214: yes
+
+3215: St Helens
+
+3216: 1970
+
+3217: Baraka
+
+3218: member of sports team
+
+3219: 0000 0001 1452 3898
+
+3220: 2011-05-01
+
+3221: 21227
+
+3222: 2016
+
+3223: no
+
+3224: occupation
+
+3225: 68 minute
+
+3226: 2
+
+3227: 1999-01-01
+
+3228: Abhishek Bachchan
+
+3229: 2010-07-01
+
+3230: 7
+
+3231: The Man in the Iron Mask
+
+3232: Yu-Gi-Oh! Duel Monsters
+
+3233: None
+
+3234: The Invasion
+
+3235: estimation process
+
+3236: Money for Nothing
+
+3237: 1988-01-01
+
+3238: Washington County
+
+3239: 1933-01-01
+
+3240: 2010
+
+3241: yes
+
+3242: yes
+
+3243: demographic balance
+
+3244: 2012
+
+3245: Venezuela
+
+3246: location of formation
+
+3247: no
+
+3248: 1991-01-01
+
+3249: 2017
+
+3250: Amherst College
+
+3251: None
+
+3252: Western Cape
+
+3253: Battleship
+
+3254: Ice Age
+
+3255: 1984-05-19
+
+3256: Tooele County
+
+3257: lesbian
+
+3258: Subiaco
+
+3259: ethnic group
+
+3260: 2010
+
+3261: Dr. Strangelove
+
+3262: Bullets Over Broadway
+
+3263: 1973-01-25
+
+3264: 1
+
+3265: 25th Academy Awards
+
+3266: 2010-01-01
+
+3267: Hans Christian Andersen
+
+3268: Kitsap County
+
+3269: 1927-06-08
+
+3270: 1964-01-01
+
+3271: 1990
+
+3272: yes
+
+3273: Albanian
+
+3274: 1
+
+3275: executive producer
+
+3276: 1997 Major League Baseball draft
+
+3277: None
+
+3278: Akiva Goldsman
+
+3279: None
+
+3280: Larry Miller
+
+3281: Sweden
+
+3282: The Polar Express
+
+3283: When in Rome
+
+3284: yes
+
+3285: Vampire Knight
+
+3286: 80348
+
+3287: Cebu City
+
+3288: Jeremy Renner
+
+3289: yes
+
+3290: 1978
+
+3291: Province of Cagliari
+
+3292: 2000-01-01
+
+3293: 2015-01-01
+
+3294: 17
+
+3295: 1978
+
+3296: June Allyson
+
+3297: genre
+
+3298: Leo Tolstoy
+
+3299: 2003-12-05
+
+3300: Madison County
+
+3301: no
+
+3302: Germany
+
+3303: Joanna Lumley
+
+3304: Terminator 2: Judgment Day
+
+3305: original network
+
+3306: 0
+
+3307: Thomas Hobbes
+
+3308: New Brunswick
+
+3309: instrument
+
+3310: High School Musical
+
+3311: Gettysburg
+
+3312: Batman Begins
+
+3313: composer
+
+3314: 2015-01-01
+
+3315: The Gathering Storm
+
+3316: 2
+
+3317: 1
+
+3318: different from
+
+3319: nominated for
+
+3320: 0
+
+3321: None
+
+3322: The Stand
+
+3323: Kirstie Alley
+
+3324: found
+
+3325: The Holiday
+
+3326: 1
+
+3327: place of birth
+
+3328: 2
+
+3329: 4
+
+3330: 100 minute
+
+3331: twinned administrative body
+
+3332: Om Shanti Om
+
+3333: Jack Thompson
+
+3334: Nye County
+
+3335: member of sports team
+
+3336: no
+
+3337: 1944-11-12
+
+3338: Downton Abbey
+
+3339: 2001: A Space Odyssey
+
+3340: Big Fish
+
+3341: Marlin
+
+3342: The Smurfs
+
+3343: United Kingdom
+
+3344: Orange
+
+3345: cast member
+
+3346: libertarianism
+
+3347: distributor
+
+3348: no
+
+3349: 0000 0000 7357 5762
+
+3350: yes
+
+3351: yes
+
+3352: 1988
+
+3353: spdde
+
+3354: country
+
+3355: country of citizenship
+
+3356: 1998-01-01
+
+3357: 11
+
+3358: 5001217385
+
+3359: Aude
+
+3360: Germany
+
+3361: 2017-11-23
+
+3362: no
+
+3363: Roger Federer
+
+3364: Drenthe
+
+3365: no
+
+3366: estimation process
+
+3367: 2
+
+3368: award received
+
+3369: Arthur Conan Doyle
+
+3370: None
+
+3371: 00000026300
+
+3372: award received
+
+3373: John Paul Jones
+
+3374: None
+
+3375: Tyrannosaur
+
+3376: no
+
+3377: no
+
+3378: The Ultimate Fighter
+
+3379: place of burial
+
+3380: Adam Smith
+
+3381: 3
+
+3382: Deschutes County
+
+3383: Germany
+
+3384: yes
+
+3385: famous people
+
+3386: 0
+
+3387: 1961-08-27
+
+3388: award received
+
+3389: occupation
+
+3390: 24
+
+3391: roma
+
+3392: place of death
+
+3393: Gods and Monsters
+
+3394: no
+
+3395: 2
+
+3396: no
+
+3397: Equatorial Guinea–United States relations
+
+3398: 618108
+
+3399: Star Wars Episode VI: Return of the Jedi
+
+3400: Independent Spirit Award for Best Screenplay
+
+3401: 2012-07-01
+
+3402: Southport
+
+3403: It
+
+3404: 1995-12-01
+
+3405: 2
+
+3406: 1839-01-01
+
+3407: None
+
+3408: 73055
+
+3409: no
+
+3410: 1976
+
+3411: Kelowna
+
+3412: 9
+
+3413: official language
+
+3414: yes
+
+3415: 2
+
+3416: 2
+
+3417: famous people
+
+3418: English
+
+3419: 0000 0000 6309 6522
+
+3420: country
+
+3421: diplomatic relation
+
+3422: 18
+
+3423: 0
+
+3424: 11th Tony Awards
+
+3425: United States of America
+
+3426: country of origin
+
+3427: no
+
+3428: 1999-04-12
+
+3429: yes
+
+3430: yes
+
+3431: country of origin
+
+3432: http://www.vanhelsing.net/
+
+3433: 2
+
+3434: Earth
+
+3435: 120 minute
+
+3436: located in the administrative territorial entity
+
+3437: 2010-04-01
+
+3438: Great Falls
+
+3439: 228
+
+3440: 12
+
+3441: product or material produced
+
+3442: None
+
+3443: ethnic group
+
+3444: census
+
+3445: Star Wars: Episode III – Revenge of the Sith
+
+3446: 142
+
+3447: cast member
+
+3448: yes
+
+3449: country of citizenship
+
+3450: Germany
+
+3451: 0
+
+3452: original language of film or TV show
+
+3453: St Albans
+
+3454: BZ
+
+3455: 0
+
+3456: The White Stripes
+
+3457: Germany
+
+3458: 121 minute
+
+3459: Baton Rouge
+
+3460: Scoop
+
+3461: 2
+
+3462: 1979-05-31
+
+3463: 26506
+
+3464: no
+
+3465: 0
+
+3466: yes
+
+3467: 1996
+
+3468: Rogue
+
+3469: 2010-01-01
+
+3470: University of Melbourne
+
+3471: country of citizenship
+
+3472: no
+
+3473: 23
+
+3474: yes
+
+3475: nominated for
+
+3476: San Luis Obispo County
+
+3477: New Delhi
+
+3478: Detroit
+
+3479: 10
+
+3480: Germany
+
+3481: 1
+
+3482: no
+
+3483: 02138
+
+3484: Nevada County
+
+3485: Anna Karenina
+
+3486: cast member
+
+3487: no
+
+3488: Dogma
+
+3489: Mashhad
+
+3490: no
+
+3491: platform
+
+3492: A Christmas Carol
+
+3493: province of Milan
+
+3494: Gottfried Wilhelm Leibniz
+
+3495: 0
+
+3496: 1975-01-01
+
+3497: Saif Ali Khan
+
+3498: owner of
+
+3499: 2013-12-31
+
+3500: yes
+
+3501: cast member
+
+3502: yes
+
+3503: 2010
+
+3504: genre
+
+3505: 1980
+
+3506: yes
+
+3507: country
+
+3508: yes
+
+3509: sport
+
+3510: Seinfeld
+
+3511: yes
+
+3512: Sandra Bullock
+
+3513: Speed 2: Cruise Control
+
+3514: no
+
+3515: Xbox 360
+
+3516: Pinocchio
+
+3517: Geffen
+
+3518: None
+
+3519: Randy Jackson
+
+3520: narrative location
+
+3521: Huntington
+
+3522: 131 minute
+
+3523: Master of Science
+
+3524: no
+
+3525: 97 kilogram
+
+3526: no
+
+3527: Baldwin County
+
+3528: Sonic X
+
+3529: None
+
+3530: located in the administrative territorial entity
+
+3531: yes
+
+3532: no
+
+3533: cause of death
+
+3534: 2
+
+3535: Brigitte Nielsen
+
+3536: West Side Story
+
+3537: English
+
+3538: Germany
+
+3539: None
+
+3540: 2010
+
+3541: US-OH
+
+3542: None
+
+3543: Rio de Janeiro
+
+3544: The Cardinal
+
+3545: occupation
+
+3546: Toledo
+
+3547: Frank Vincent
+
+3548: yes
+
+3549: Allen County
+
+3550: 92108518 United States dollar
+
+3551: 2011-03-01
+
+3552: Christina Aguilera
+
+3553: 217 metre
+
+3554: None
+
+3555: Persian
+
+3556: no
+
+3557: Cape Fear
+
+3558: 2012-07-01
+
+3559: Patna
+
+3560: languages spoken, written or signed
+
+3561: yes
+
+3562: 0
+
+3563: original network
+
+3564: Rocky Balboa
+
+3565: 75th Academy Awards
+
+3566: 2
+
+3567: L-Tryptophan
+
+3568: Richard David James
+
+3569: None
+
+3570: Sierra Nevada
+
+3571: Senegal
+
+3572: Stargate Atlantis
+
+3573: Dutch
+
+3574: Dante Alighieri
+
+3575: 4
+
+3576: 2016-01-01
+
+3577: producer
+
+3578: nominated for
+
+3579: estimation process
+
+3580: no
+
+3581: 1987-04-19
+
+3582: no
+
+3583: Nicki Minaj
+
+3584: twinned administrative body
+
+3585: Baku
+
+3586: 595061
+
+3587: no
+
+3588: Capote
+
+3589: Danville
+
+3590: 1310 metre
+
+3591: Heroes
+
+3592: yes
+
+3593: 1998-01-01
+
+3594: yes
+
+3595: 1
+
+3596: Queens of the Stone Age
+
+3597: Restless
+
+3598: no
+
+3599: Cairo
+
+3600: yes
+
+3601: shares border with
+
+3602: 4
+
+3603: famous people
+
+3604: Berkshire
+
+3605: aerospace engineering
+
+3606: masculine
+
+3607: consolidated city-county
+
+3608: 1
+
+3609: Mauricio Pinilla
+
+3610: None
+
+3611: None
+
+3612: 55th Academy Awards
+
+3613: 109
+
+3614: sport
+
+3615: 0
+
+3616: 50th Academy Awards
+
+3617: Mary Poppins
+
+3618: N6A 3K7
+
+3619: 00000022469
+
+3620: Avatar
+
+3621: John Wayne
+
+3622: not sure
+
+3623: yes
+
+3624: The Goodbye Girl
+
+3625: 1995
+
+3626: Adolphe Menjou
+
+3627: original language of film or TV show
+
+3628: 1987
+
+3629: Germany
+
+3630: Hannibal
+
+3631: yes
+
+3632: Leuven
+
+3633: 2014-01-01
+
+3634: 1776-07-04
+
+3635: West Orange
+
+3636: None
+
+3637: nominated for
+
+3638: sport
+
+3639: executive producer
+
+3640: 2013-01-01
+
+3641: Jaws
+
+3642: nominated for
+
+3643: American History X
+
+3644: narrative location
+
+3645: Pennsylvania's 12th congressional district
+
+3646: Clinton County
+
+3647: 0
+
+3648: yes
+
+3649: United States of America
+
+3650: located in the administrative territorial entity
+
+3651: 1935-01-01
+
+3652: Martine McCutcheon
+
+3653: feminine
+
+3654: 1
+
+3655: 0000 0001 1312 9856
+
+3656: None
+
+3657: The Reader
+
+3658: 1963
+
+3659: 2011-01-01
+
+3660: German Shepherd dog
+
+3661: Mutiny on the Bounty
+
+3662: 1
+
+3663: no
+
+3664: None
+
+3665: genitive case
+
+3666: genre
+
+3667: None
+
+3668: None
+
+3669: 99978
+
+3670: 40
+
+3671: demographic balance
+
+3672: Burgess Meredith
+
+3673: no
+
+3674: 1956-11-12
+
+3675: 13th Academy Awards
+
+3676: composer
+
+3677: The Lord of the Rings
+
+3678: shares border with
+
+3679: no
+
+3680: None
+
+3681: None
+
+3682: no
+
+3683: 12602221
+
+3684: Liam O'Brien
+
+3685: 2
+
+3686: Bolt
+
+3687: 1939-09-23
+
+3688: no
+
+3689: yes
+
+3690: None
+
+3691: 105 minute
+
+3692: Governor of New Jersey
+
+3693: yes
+
+3694: Buffalo
+
+3695: no
+
+3696: 1
+
+3697: cast member
+
+3698: The Simpsons
+
+3699: Teton County
+
+3700: Acadia University
+
+3701: 36590508
+
+3702: no
+
+3703: cast member
+
+3704: after a work by
+
+3705: Mostra Internazionale d'Arte Cinematografica della Biennale di Venezia
+
+3706: Steve McQueen
+
+3707: Dynasty
+
+3708: yes
+
+3709: 2
+
+3710: 0000 0001 2142 1558
+
+3711: 1909
+
+3712: Atlantic County
+
+3713: 754 Greene Street
+
+3714: 52nd Primetime Emmy Awards
+
+3715: None
+
+3716: cast member
+
+3717: English
+
+3718: Wonder Boys
+
+3719: Alexandria
+
+3720: 5241 N Maple Ave, Fresno, CA, 93740
+
+3721: Bruce Campbell
+
+3722: 1987
+
+3723: None
+
+3724: 2005-01-01
+
+3725: Alien
+
+3726: yes
+
+3727: Michel Colombier
+
+3728: close match
+
+3729: St. Lawrence County
+
+3730: George Sanders
+
+3731: yes
+
+3732: FIFA World Rankings
+
+3733: Middlesex County
+
+3734: None
+
+3735: country of origin
+
+3736: Santa Cruz County
+
+3737: Edie Falco
+
+3738: swansofficial
+
+3739: yes
+
+3740: None
+
+3741: 2
+
+3742: position held
+
+3743: Mrs Henderson Presents
+
+3744: Rensselaer Polytechnic Institute
+
+3745: different from
+
+3746: Starland Vocal Band
+
+3747: 2
+
+3748: no
+
+3749: Fremont
+
+3750: no
+
+3751: yes
+
+3752: 0
+
+3753: 1982-06-12
+
+3754: 0
+
+3755: 1
+
+3756: Dallas County
+
+3757: 1976
+
+3758: Kolkata
+
+3759: 1
+
+3760: country
+
+3761: Jule Styne
+
+3762: Klamath County
+
+3763: Canadian dollar
+
+3764: Cleopatra
+
+3765: yes
+
+3766: 3
+
+3767: http://www.fcdinamo.ge
+
+3768: Dm
+
+3769: Colombia
+
+3770: no
+
+3771: 13
+
+3772: 0
+
+3773: Germany
+
+3774: 0
+
+3775: Marti Noxon
+
+3776: Chris Colfer
+
+3777: The Ring
+
+3778: 2
+
+3779: 39
+
+3780: Brevard County
+
+3781: 1
+
+3782: The Diving Bell and the Butterfly
+
+3783: Butler County
+
+3784: Medina
+
+3785: part of
+
+3786: The Poseidon Adventure
+
+3787: Charles M. Schulz
+
+3788: None
+
+3789: 93407
+
+3790: Fox Broadcasting Company
+
+3791: Striptease
+
+3792: 01206
+
+3793: 61
+
+3794: Monster
+
+3795: John Hughes
+
+3796: 73657
+
+3797: Montana
+
+3798: 12
+
+3799: cause of death
+
+3800: 2--45231
+
+3801: no
+
+3802: 0
+
+3803: Mysore
+
+3804: Kidderminster Harriers F.C.
+
+3805: member of sports team
+
+3806: 120 minute
+
+3807: country of origin
+
+3808: 0
+
+3809: 68th Academy Awards
+
+3810: Bewitched
+
+3811: 5
+
+3812: Hungary
+
+3813: blood
+
+3814: 17
+
+3815: Newark
+
+3816: FIFA World Rankings
+
+3817: 109
+
+3818: Fiddler on the Roof
+
+3819: original network
+
+3820: voice actor
+
+3821: no
+
+3822: Telemundo
+
+3823: Architectural Association School of Architecture
+
+3824: Andes
+
+3825: no
+
+3826: Germany
+
+3827: 471
+
+3828: no
+
+3829: Bangalore
+
+3830: English
+
+3831: Mississauga
+
+3832: cast member
+
+3833: Jonathan Swift
+
+3834: yes
+
+3835: Mandy Patinkin
+
+3836: 616795600 United States dollar
+
+3837: 5
+
+3838: residence
+
+3839: chief executive officer
+
+3840: 0
+
+3841: Merlin
+
+3842: nutrient
+
+3843: 1921-02-21
+
+3844: Torchwood
+
+3845: University of North Dakota
+
+3846: 1
+
+3847: yes
+
+3848: 2003-09-25
+
+3849: Stephen Colbert
+
+3850: The Graduate
+
+3851: The Goonies
+
+3852: grandtetonnps
+
+3853: None
+
+3854: place of birth
+
+3855: English
+
+3856: Men in Black
+
+3857: 0
+
+3858: spouse
+
+3859: 2
+
+3860: no
+
+3861: 1
+
+3862: 32
+
+3863: famous people
+
+3864: 2011-07-01
+
+3865: occupation
+
+3866: Quebec
+
+3867: 79th Academy Awards
+
+3868: Hy-Վիրուսներ (Virus).ogg
+
+3869: None
+
+3870: Germany
+
+3871: 5
+
+3872: Medford
+
+3873: 0
+
+3874: 0
+
+3875: 1908 Summer Olympics
+
+3876: R. Kelly
+
+3877: Wagga Wagga
+
+3878: Omar Sharif
+
+3879: Fairfax County
+
+3880: None
+
+3881: 2015-01-01
+
+3882: sport
+
+3883: yes
+
+3884: employer
+
+3885: Georg Wilhelm Friedrich Hegel
+
+3886: Durban
+
+3887: 25195
+
+3888: 0
+
+3889: George Strait
+
+3890: Amritsar
+
+3891: no
+
+3892: 31st Academy Awards
+
+3893: 1946-08-22
+
+3894: DMX
+
+3895: continent
+
+3896: 4
+
+3897: occupation
+
+3898: Nintendo
+
+3899: no
+
+3900: English
+
+3901: Barnard College
+
+3902: 2015-07-01
+
+3903: 1
+
+3904: None
+
+3905: 83.140067 square kilometre
+
+3906: 1
+
+3907: 1946-01-01
+
+3908: Paris
+
+3909: 1986
+
+3910: Barnstable County
+
+3911: Downton Abbey
+
+3912: 2000
+
+3913: None
+
+3914: located in the administrative territorial entity
+
+3915: None
+
+3916: properties for this type
+
+3917: Lansing
+
+3918: Marquette County
+
+3919: Bayreuth
+
+3920: RonPaul
+
+3921: cast member
+
+3922: 10
+
+3923: award received
+
+3924: no
+
+3925: FIFA World Rankings
+
+3926: 0000 0000 6028 1191
+
+3927: 1973-11-19
+
+3928: Scott Adsit
+
+3929: Toronto
+
+3930: Dominican Republic–United States border
+
+3931: 2451
+
+3932: 1991-01-01
+
+3933: 24
+
+3934: None
+
+3935: None
+
+3936: 1906-02-10
+
+3937: continent
+
+3938: http://www.sho.com/
+
+3939: None
+
+3940: None
+
+3941: Gillian Anderson
+
+3942: 2
+
+3943: FC Karpaty Lviv
+
+3944: 42 minute
+
+3945: Longview
+
+3946: no
+
+3947: The Soloist
+
+3948: Hampton
+
+3949: country of citizenship
+
+3950: Mary-Louise Parker
+
+3951: educated at
+
+3952: Tim Duncan
+
+3953: 1
+
+3954: 1
+
+3955: 5
+
+3956: Almost Famous
+
+3957: Great Britain
+
+3958: 2017-09-13
+
+3959: Martinique
+
+3960: located in the administrative territorial entity
+
+3961: The Muppets
+
+3962: Germany
+
+3963: 1
+
+3964: Zach Braff
+
+3965: 1988-05-04
+
+3966: yes
+
+3967: yes
+
+3968: yes
+
+3969: cast member
+
+3970: 16
+
+3971: 12
+
+3972: Jesse Louis Lasky
+
+3973: Irene Lentz
+
+3974: 2
+
+3975: screenwriter
+
+3976: Back to the Future Part II
+
+3977: 0
+
+3978: 1993-12-28
+
+3979: None
+
+3980: 0
+
+3981: 13 Assassins
+
+3982: Hangzhou
+
+3983: Santa Cruz County
+
+3984: yes
+
+3985: official symbol
+
+3986: Trondheim
+
+3987: 0
+
+3988: place of birth
+
+3989: twinned administrative body
+
+3990: film release region
+
+3991: Germany
+
+3992: Royal Antwerp F.C
+
+3993: award received
+
+3994: yes
+
+3995: estimation process
+
+3996: En-uk-Slough.ogg
+
+3997: None
+
+3998: no
+
+3999: English
+
+4000: famous people
+
+4001: country of citizenship
+
+4002: postpunk
+
+4003: country
+
+4004: None
+
+4005: Bewitched
+
+4006: yes
+
+4007: 0
+
+4008: Cubanoamericanos
+
+4009: 1987-10-31
+
+4010: 2
+
+4011: 2018-04-01
+
+4012: Bruce Almighty
+
+4013: genre
+
+4014: Thrissur
+
+4015: Caribbean Sea
+
+4016: yes
+
+4017: Minnie Driver
+
+4018: Dundee
+
+4019: Padmé Amidala
+
+4020: http://www.lafayette.edu/
+
+4021: Ivan Reitman
+
+4022: None
+
+4023: None
+
+4024: yes
+
+4025: None
+
+4026: genre
+
+4027: 1947
+
+4028: northeastern part
+
+4029: place of birth
+
+4030: India
+
+4031: 3
+
+4032: None
+
+4033: The Hours
+
+4034: Jason Sudeikis
+
+4035: Juneau
+
+4036: famous people
+
+4037: yes
+
+4038: 0000 0001 2031 4590
+
+4039: original network
+
+4040: occupation
+
+4041: None
+
+4042: 73rd Academy Awards
+
+4043: country
+
+4044: country
+
+4045: JasonReitman
+
+4046: Flight of the Conchords
+
+4047: dyspnea
+
+4048: The Nutty Professor
+
+4049: Claude Rains
+
+4050: None
+
+4051: Phillips Academy
+
+4052: None
+
+4053: L1301
+
+4054: Porcupine Tree
+
+4055: None
+
+4056: 0xbflwbj05gbjvd
+
+4057: None
+
+4058: participant
+
+4059: I Now Pronounce You Chuck and Larry
+
+4060: genre
+
+4061: famous people
+
+4062: Herbie Hancock
+
+4063: country
+
+4064: yes
+
+4065: relative
+
+4066: census
+
+4067: no
+
+4068: 2016-01-01
+
+4069: None
+
+4070: yes
+
+4071: 1996
+
+4072: film editor
+
+4073: Bolero
+
+4074: country
+
+4075: Wallace & Gromit: The Curse of the Were-Rabbit
+
+4076: 1
+
+4077: Kinshasa
+
+4078: None
+
+4079: 11
+
+4080: 1999-01-01
+
+4081: yes
+
+4082: The Doors
+
+4083: instrumentation
+
+4084: country of citizenship
+
+4085: James LeGros
+
+4086: no
+
+4087: composer
+
+4088: yes
+
+4089: 18
+
+4090: 1957
+
+4091: 201
+
+4092: place of birth
+
+4093: West Germany
+
+4094: 37
+
+4095: 1809-05-31
+
+4096: Sylvia Plath
+
+4097: United States of America
+
+4098: Ben Foster
+
+4099: 2010
+
+4100: no
+
+4101: yes
+
+4102: Genesis
+
+4103: Germany
+
+4104: Moldova
+
+4105: yes
+
+4106: None
+
+4107: 27
+
+4108: Moldavia
+
+4109: 1791-12-05
+
+4110: None
+
+4111: no
+
+4112: Selangor
+
+4113: 2015
+
+4114: winner
+
+4115: Steve Jobs
+
+4116: 77th Academy Awards
+
+4117: yes
+
+4118: Master of Laws
+
+4119: The Mary Tyler Moore Show
+
+4120: Brittany Murphy
+
+4121: Ludwig Maximilian University of Munich
+
+4122: participant of
+
+4123: twinned administrative body
+
+4124: George Harrison: Living in the Material World
+
+4125: Virginia
+
+4126: 2011-07-01
+
+4127: Dogville
+
+4128: Pinocchio
+
+4129: 9
+
+4130: Revolutionary Road
+
+4131: The Civil War
+
+4132: 1
+
+4133: Frankenweenie
+
+4134: Kill Bill Volume 1
+
+4135: 69th Academy Awards
+
+4136: 2004
+
+4137: Fulton County
+
+4138: Tommy
+
+4139: 1883
+
+4140: We Need to Talk About Kevin
+
+4141: Salvador
+
+4142: 39.420925 square kilometre
+
+4143: no
+
+4144: None
+
+4145: nutrient
+
+4146: Stan Lee
+
+4147: 1995
+
+4148: 0
+
+4149: 1958
+
+4150: award received
+
+4151: We Were Soldiers
+
+4152: voice actor
+
+4153: Mr. Smith Goes to Washington
+
+4154: None
+
+4155: 1
+
+4156: The Coca-Cola Company
+
+4157: no
+
+4158: 1963433
+
+4159: 3
+
+4160: cast member
+
+4161: nominated for
+
+4162: Top Gun
+
+4163: http://www.foxmovies.com/movies/planet-of-the-apes
+
+4164: Friday Night Lights
+
+4165: 2
+
+4166: 0
+
+4167: He's Just Not That into You
+
+4168: no
+
+4169: no
+
+4170: 2011-01-01
+
+4171: Jiangsu
+
+4172: 1
+
+4173: no
+
+4174: United Kingdom
+
+4175: 2010
+
+4176: Independent Spirit Award for Best Screenplay
+
+4177: Infernal Affairs
+
+4178: Tuvalu
+
+4179: Chris Sheridan
+
+4180: Oliver Twist
+
+4181: 0
+
+4182: None
+
+4183: None
+
+4184: PlayStation 2
+
+4185: Don Cheadle
+
+4186: 0000 0001 1450 1541
+
+4187: 2
+
+4188: 1
+
+4189: feminine singular
+
+4190: 1994
+
+4191: yes
+
+4192: St. John's
+
+4193: 538
+
+4194: 1986
+
+4195: None
+
+4196: 109 minute
+
+4197: Portugal
+
+4198: 3
+
+4199: Bill Cosby
+
+4200: 0000 0001 2293 9906
+
+4201: 1
+
+4202: yes
+
+4203: no
+
+4204: 2016
+
+4205: no
+
+4206: 0
+
+4207: film release region
+
+4208: no
+
+4209: 1.88 metre
+
+4210: Germany
+
+4211: place of birth
+
+4212: Dominion of New Zealand
+
+4213: 0000 0001 2159 7692
+
+4214: Ron Howard
+
+4215: 2010-07-01
+
+4216: Passaic County
+
+4217: University of Connecticut
+
+4218: 2011
+
+4219: no
+
+4220: no
+
+4221: yes
+
+4222: 4
+
+4223: None
+
+4224: Kitsap County
+
+4225: 0000 0000 7648 7979
+
+4226: genre
+
+4227: Ordinary People
+
+4228: no
+
+4229: 1066100
+
+4230: yes
+
+4231: 25160
+
+4232: 2
+
+4233: 1913-07-14
+
+4234: 6
+
+4235: 1968-04-24
+
+4236: domain of saint or deity
+
+4237: Magdalene College
+
+4238: Tennessee State University
+
+4239: 1
+
+4240: West Orange
+
+4241: 1949-01-26
+
+4242: no
+
+4243: 50000000 United States dollar
+
+4244: The Edge of Night
+
+4245: 18
+
+4246: 0
+
+4247: shares border with
+
+4248: 2017-12-31
+
+4249: country of citizenship
+
+4250: Frank Herbert's Dune
+
+4251: Palo Alto
+
+4252: None
+
+4253: yes
+
+4254: Riverside
+
+4255: Shanghai Knights
+
+4256: None
+
+4257: 1963-02-08
+
+4258: 2
+
+4259: selenium
+
+4260: A Clockwork Orange
+
+4261: County Durham
+
+4262: manner of death
+
+4263: 0
+
+4264: 3
+
+4265: member of sports team
+
+4266: genre
+
+4267: None
+
+4268: official color
+
+4269: 117118
+
+4270: country of origin
+
+4271: occupation
+
+4272: Invisible Woman
+
+4273: 39
+
+4274: 1867
+
+4275: position played on team / speciality
+
+4276: State and Main
+
+4277: award received
+
+4278: 1500 metre
+
+4279: U.S. Grosseto F.C.
+
+4280: 1970-01-01
+
+4281: 1972-02-14
+
+4282: Germany
+
+4283: award received
+
+4284: yes
+
+4285: Denmark–Slovenia relations
+
+4286: Search for Tomorrow
+
+4287: Ted
+
+4288: Dick Clement
+
+4289: Star Trek Ⅵ: The Undiscovered Country
+
+4290: Germany
+
+4291: yes
+
+4292: Coriolanus
+
+4293: military branch
+
+4294: Tennessee Williams
+
+4295: Germany
+
+4296: yes
+
+4297: St. Lawrence County
+
+4298: 2010-01-01
+
+4299: cast member
+
+4300: famous people
+
+4301: 1997-03-14
+
+4302: RthompsonMusic
+
+4303: East Timor–Portugal relations
+
+4304: language of work or name
+
+4305: statement with Gregorian date earlier than 1584
+
+4306: Delhi
+
+4307: original network
+
+4308: 1296-01-01
+
+4309: 1976 Summer Olympics
+
+4310: None
+
+4311: Forgetting Sarah Marshall
+
+4312: 1979-04-12
+
+4313: Germany
+
+4314: Coconino County
+
+4315: http://www.cityofpoughkeepsie.com/
+
+4316: occupation
+
+4317: Germany
+
+4318: country
+
+4319: cast member
+
+4320: Bleak House
+
+4321: The Golden Girls
+
+4322: None
+
+4323: Hillsborough County
+
+4324: Tennessee State University
+
+4325: Warren County
+
+4326: You Only Live Twice
+
+4327: Flagstaff
+
+4328: doom metal
+
+4329: 155
+
+4330: Gibraltar
+
+4331: Connecticut
+
+4332: 2012-01-01
+
+4333: Germany
+
+4334: Teaneck
+
+4335: yes
+
+4336: 11
+
+4337: yes
+
+4338: Falkirk
+
+4339: abstractalgebra
+
+4340: University of Halle-Wittenberg
+
+4341: member of sports team
+
+4342: No Country for Old Men
+
+4343: Metropolitan Museum of Art
+
+4344: Working Girl
+
+4345: George Benson
+
+4346: lymphoma
+
+4347: occupation
+
+4348: Western Front
+
+4349: http://www.latingrammy.com/
+
+4350: no
+
+4351: Lucy Liu
+
+4352: award received
+
+4353: The Life and Death of Peter Sellers
+
+4354: 12
+
+4355: yes
+
+4356: 1887
+
+4357: Greater London
+
+4358: 38017
+
+4359: 2015
+
+4360: Hungary
+
+4361: Bob Fosse
+
+4362: 1
+
+4363: 50/50
+
+4364: 78 minute
+
+4365: no
+
+4366: genre
+
+4367: 215 Park Avenue S # 5
+
+4368: 1999
+
+4369: 0
+
+4370: yes
+
+4371: Greene County
+
+4372: occupation
+
+4373: 2014-01-01
+
+4374: 4 percentage
+
+4375: Apache
+
+4376: Germany
+
+4377: Jean-Claude Van Damme
+
+4378: 1971-07-27
+
+4379: Alton
+
+4380: None
+
+4381: KF Tirana
+
+4382: no
+
+4383: nominated for
+
+4384: Cayuga County
+
+4385: Casino Royale
+
+4386: census
+
+4387: -7000
+
+4388: 4
+
+4389: yes
+
+4390: Primetime Emmy Award for Outstanding Writing for a Drama Series
+
+4391: yes
+
+4392: Wreck-It Ralph
+
+4393: Channing Tatum
+
+4394: cast member
+
+4395: Kitsap County
+
+4396: father
+
+4397: religion
+
+4398: 2014
+
+4399: yes
+
+4400: no
+
+4401: Ellen Pompeo
+
+4402: no
+
+4403: Frankfurt (Oder)
+
+4404: demographic balance
+
+4405: production company
+
+4406: 10007143
+
+4407: 15325
+
+4408: Damascus
+
+4409: 2
+
+4410: 0
+
+4411: occupation
+
+4412: 1978-12-10
+
+4413: United States of America
+
+4414: 102
+
+4415: genre
+
+4416: San Diego
+
+4417: no
+
+4418: University of Chicago
+
+4419: 89 minute
+
+4420: JAM
+
+4421: yes
+
+4422: ethnic group
+
+4423: cast member
+
+4424: Tom Johnson
+
+4425: Markham
+
+4426: 0
+
+4427: 0
+
+4428: award received
+
+4429: 0000 0000 9211 980X
+
+4430: Mulan
+
+4431: Hamilton
+
+4432: Mark Mancina
+
+4433: no
+
+4434: yes
+
+4435: sport
+
+4436: official language
+
+4437: twinned administrative body
+
+4438: 1980
+
+4439: yes
+
+4440: Sao Feng
+
+4441: occupation
+
+4442: 1
+
+4443: Shanghai Knights
+
+4444: 14
+
+4445: None
+
+4446: place of birth
+
+4447: 142900000 United States dollar
+
+4448: 664055
+
+4449: 0
+
+4450: 0000 0001 0893 552X
+
+4451: 56
+
+4452: Philippe Rousselot
+
+4453: Ithaca
+
+4454: member of sports team
+
+4455: Germany
+
+4456: None
+
+4457: 6155000
+
+4458: occupation
+
+4459: The Lion King
+
+4460: 3000 Miles to Graceland
+
+4461: American Pie 2
+
+4462: Uttar Pradesh
+
+4463: Andy Warhol
+
+4464: distributor
+
+4465: Kingdom of Sardinia
+
+4466: no
+
+4467: Love of Life
+
+4468: Abby
+
+4469: author
+
+4470: The Three Musketeers
+
+4471: None
+
+4472: Salem
+
+4473: Modena
+
+4474: yes
+
+4475: None
+
+4476: L-alanine
+
+4477: 1110
+
+4478: occupation
+
+4479: 1972
+
+4480: yes
+
+4481: 2
+
+4482: The Guess Who
+
+4483: Ward Abbott
+
+4484: United States of America
+
+4485: 3
+
+4486: 156923
+
+4487: 1
+
+4488: no
+
+4489: None
+
+4490: 2
+
+4491: census
+
+4492: 23
+
+4493: Indian River County
+
+4494: presenter
+
+4495: 1968-10-09
+
+4496: None
+
+4497: Oscar
+
+4498: yes
+
+4499: nominated for
+
+4500: 1
+
+4501: partner
+
+4502: 0
+
+4503: 0
+
+4504: Blade
+
+4505: 1821-04-10
+
+4506: Kazakhstan
+
+4507: 527181
+
+4508: Rajasthan
+
+4509: yes
+
+4510: None
+
+4511: headquarters location
+
+4512: The Colbert Report
+
+4513: None
+
+4514: no
+
+4515: human settlement
+
+4516: Jennifer Carpenter
+
+4517: None
+
+4518: 0
+
+4519: Tower of London
+
+4520: Irving
+
+4521: Richard Wright
+
+4522: 1927-08-17
+
+4523: sport
+
+4524: 150000000 United States dollar
+
+4525: 1
+
+4526: Teri Hatcher
+
+4527: 2
+
+4528: Ivory Coast
+
+4529: Seoul
+
+4530: Demi Lovato
+
+4531: 072200000
+
+4532: 2010-01-01
+
+4533: The Sopranos
+
+4534: no
+
+4535: Thomas Mitchell
+
+4536: yes
+
+4537: None
+
+4538: Futurama
+
+4539: Bill Nelson
+
+4540: 2010-01-01
+
+4541: Morocco
+
+4542: 2013-01-01
+
+4543: yes
+
+4544: Ohio
+
+4545: English
+
+4546: Centurion
+
+4547: United Kingdom
+
+4548: yes
+
+4549: The Wire, season 5
+
+4550: Carlisle
+
+4551: Mick Jagger
+
+4552: no
+
+4553: Richard Linklater
+
+4554: estimation process
+
+4555: Asylum Records
+
+4556: Club Universidad Nacional
+
+4557: Gaziantepspor
+
+4558: 94 minute
+
+4559: basin country
+
+4560: partner
+
+4561: 2011
+
+4562: diplomatic relation
+
+4563: no
+
+4564: All Quiet on the Western Front
+
+4565: English
+
+4566: country
+
+4567: 2004-02-04
+
+4568: 2010-01-01
+
+4569: 2010-11-14
+
+4570: country of citizenship
+
+4571: no
+
+4572: country
+
+4573: Germany
+
+4574: narrative location
+
+4575: famous people
+
+4576: Germany
+
+4577: Tina Turner
+
+4578: Andrew Jackson
+
+4579: 2006
+
+4580: 0
+
+4581: Normandy
+
+4582: 0
+
+4583: Quadrophenia
+
+4584: None
+
+4585: 1
+
+4586: cast member
+
+4587: Saskatchewan
+
+4588: Josh Groban
+
+4589: original language of film or TV show
+
+4590: 0000 0000 5941 8808
+
+4591: country
+
+4592: Sparks
+
+4593: San Bernardino County
+
+4594: None
+
+4595: 0000 0004 0480 871X
+
+4596: Nintendo Entertainment System
+
+4597: Chaplin
+
+4598: film release region
+
+4599: None
+
+4600: cast member
+
+4601: United States of America
+
+4602: 0
+
+4603: Somerset
+
+4604: 1912
+
+4605: Alice in Wonderland
+
+4606: Miyuki Sawashiro
+
+4607: no
+
+4608: College of the Holy Cross
+
+4609: 2
+
+4610: Ohio
+
+4611: Shandong
+
+4612: country
+
+4613: 1994
+
+4614: no
+
+4615: member of political party
+
+4616: composer
+
+4617: Oxford County
+
+4618: Montgomery County
+
+4619: Venus Williams
+
+4620: The Early Stories: 1953–1975
+
+4621: English
+
+4622: None
+
+4623: CeeLo Green
+
+4624: film release region
+
+4625: Gone Baby Gone
+
+4626: Princeton
+
+4627: Cambria County
+
+4628: RCLens
+
+4629: Corpus Christi
+
+4630: torontofc
+
+4631: winner
+
+4632: 5
+
+4633: Calcio Padova
+
+4634: 3
+
+4635: None
+
+4636: The Avengers
+
+4637: 0
+
+4638: Arnold Schwarzenegger
+
+4639: 43rd Academy Awards
+
+4640: participant
+
+4641: Germany
+
+4642: Scary Movie 4
+
+4643: A Christmas Carol
+
+4644: Forbes
+
+4645: Oliver Twist
+
+4646: shares border with
+
+4647: Delfino Pescara 1936
+
+4648: plural
+
+4649: Leo Tolstoy
+
+4650: Glens Falls
+
+4651: 0
+
+4652: 0
+
+4653: cast member
+
+4654: 2
+
+4655: 1
+
+4656: 44107
+
+4657: 13
+
+4658: cause of death
+
+4659: Johnson County
+
+4660: Papua New Guinea
+
+4661: 3
+
+4662: Coconino County
+
+4663: Hungary
+
+4664: 88697-18240-2
+
+4665: Dakar
+
+4666: 1960
+
+4667: 2010-01-01
+
+4668: SC Heerenveen
+
+4669: New Brunswick
+
+4670: award received
+
+4671: director of photography
+
+4672: yes
+
+4673: Toby Jones
+
+4674: 2012-01-01
+
+4675: evanrachelwood
+
+4676: Leonard Bernstein
+
+4677: narrative location
+
+4678: https://www.uni-leipzig.de/
+
+4679: yes
+
+4680: country
+
+4681: 1992-01-01
+
+4682: place of birth
+
+4683: Get Low
+
+4684: 1997
+
+4685: None
+
+4686: 1961-09-30
+
+4687: Moscow
+
+4688: English
+
+4689: None
+
+4690: Bruce Campbell
+
+4691: David Guetta
+
+4692: yes
+
+4693: Portsmouth
+
+4694: http://www.shubert.nyc/
+
+4695: County Sligo
+
+4696: film release region
+
+4697: executive producer
+
+4698: General Zod
+
+4699: 1990-01-01
+
+4700: Virginia Woolf
+
+4701: Seven
+
+4702: Vancouver
+
+4703: Pan Am
+
+4704: 00000021601
+
+4705: 1975
+
+4706: Mitch McDeere
+
+4707: 1981
+
+4708: France
+
+4709: Fred Thompson
+
+4710: 1
+
+4711: WWE Superstars
+
+4712: 2001-01-01
+
+4713: Eau Claire
+
+4714: En-uk-Birmingham.ogg
+
+4715: yes
+
+4716: Turkey
+
+4717: Nicky
+
+4718: 1
+
+4719: 16
+
+4720: San Bernardino County
+
+4721: 1990-04-23
+
+4722: 1
+
+4723: no
+
+4724: New York
+
+4725: 0
+
+4726: Prescott
+
+4727: 32480000 square metre
+
+4728: yes
+
+4729: Liam O'Brien
+
+4730: Manhattan
+
+4731: The Coca-Cola Company
+
+4732: copper
+
+4733: main subject
+
+4734: located in the administrative territorial entity
+
+4735: 1372
+
+4736: masculine plural
+
+4737: 2015
+
+4738: place of death
+
+4739: 40
+
+4740: Edward Norton
+
+4741: Ravi Shankar
+
+4742: Santa Cruz County
+
+4743: Peter Ustinov
+
+4744: member of sports team
+
+4745: shares border with
+
+4746: 1927
+
+4747: FIFA World Rankings
+
+4748: JA18
+
+4749: record label
+
+4750: 0
+
+4751: yes
+
+4752: 1924
+
+4753: yes
+
+4754: draft pick from school
+
+4755: yes
+
+4756: 2
+
+4757: No Country for Old Men
+
+4758: Italy
+
+4759: country
+
+4760: minorityreport
+
+4761: 1880
+
+4762: English
+
+4763: FIFA World Rankings
+
+4764: 1754
+
+4765: Lee Garmes
+
+4766: T-070.202.745-9
+
+4767: Nas
+
+4768: The Losers
+
+4769: ethnic group
+
+4770: The Cassandra Crossing
+
+4771: English
+
+4772: 2010-02-26
+
+4773: film release region
+
+4774: 3
+
+4775: The Reader
+
+4776: 178 centimetre
+
+4777: occupation
+
+4778: no
+
+4779: None
+
+4780: 2018-07-30
+
+4781: no
+
+4782: 1969
+
+4783: no
+
+4784: 28
+
+4785: 1851
+
+4786: 5
+
+4787: 1984-11-12
+
+4788: Paris
+
+4789: Eddie Redmayne
+
+4790: 00000025557
+
+4791: Stavanger
+
+4792: English
+
+4793: San Marino
+
+4794: yes
+
+4795: famous people
+
+4796: 2015
+
+4797: English
+
+4798: Jackson
+
+4799: None
+
+4800: North America
+
+4801: Fred Astaire
+
+4802: 1985-01-01
+
+4803: 1971-09-16
+
+4804: Kathmandu
+
+4805: 65 metre
+
+4806: no
+
+4807: follows
+
+4808: The Man in the Iron Mask
+
+4809: headquarters location
+
+4810: http://entouragemovie.com/
+
+4811: 1987-01-01
+
+4812: no
+
+4813: None
+
+4814: 63817
+
+4815: 41443
+
+4816: Priest
+
+4817: Adriatic Sea
+
+4818: 10
+
+4819: 0
+
+4820: Middle East
+
+4821: American Masters
+
+4822: 109
+
+4823: no
+
+4824: no
+
+4825: English
+
+4826: Germany
+
+4827: North Holland
+
+4828: no
+
+4829: 23rd Academy Awards
+
+4830: 2016-12-31
+
+4831: country
+
+4832: yes
+
+4833: no
+
+4834: 1839-03-04
+
+4835: 2006
+
+4836: 0000 0000 6301 9148
+
+4837: 5
+
+4838: 2011-07-20
+
+4839: Scream 2
+
+4840: 2011-01-01
+
+4841: 2015
+
+4842: 48th Academy Awards
+
+4843: no
+
+4844: yes
+
+4845: cast member
+
+4846: 5
+
+4847: The Shawshank Redemption
+
+4848: yes
+
+4849: None
+
+4850: 6
+
+4851: country of citizenship
+
+4852: 2
+
+4853: Savages
+
+4854: David Silverman
+
+4855: Jacksonville Jaguars
+
+4856: yes
+
+4857: occupation
+
+4858: no
+
+4859: award received
+
+4860: country
+
+4861: 3
+
+4862: None
+
+4863: 0
+
+4864: 1977-01-01
+
+4865: 0
+
+4866: Merlin
+
+4867: Independence
+
+4868: no
+
+4869: None
+
+4870: masculine singular
+
+4871: My Fair Lady
+
+4872: University of Tasmania
+
+4873: yes
+
+4874: cast member
+
+4875: occupation
+
+4876: 1
+
+4877: yes
+
+4878: 5
+
+4879: 2500
+
+4880: enclave within
+
+4881: voice actor
+
+4882: member of sports team
+
+4883: country of citizenship
+
+4884: Seven Brides for Seven Brothers
+
+4885: occupation
+
+4886: Led Zeppelin
+
+4887: place of birth
+
+4888: Eugene O'Neill
+
+4889: English
+
+4890: None
+
+4891: 00122502330
+
+4892: The Good Wife
+
+4893: Mughal Empire
+
+4894: 3-1-30, Minami-Aoyama
+
+4895: 40292
+
+4896: 2
+
+4897: Minneapolis
+
+4898: nominated for
+
+4899: King Kong
+
+4900: main subject
+
+4901: Seven Psychopaths
+
+4902: country of citizenship
+
+4903: headquarters location
+
+4904: fcrtvk2z3gvrr32
+
+4905: None
+
+4906: qn245bz84tzvzsp
+
+4907: 1983-01-01
+
+4908: 10
+
+4909: named after
+
+4910: 2009
+
+4911: Hamburg
+
+4912: educated at
+
+4913: Gaslight
+
+4914: Doors Open Days
+
+4915: Germany
+
+4916: 1922
+
+4917: None
+
+4918: composer
+
+4919: Umbria
+
+4920: yes
+
+4921: Sweden
+
+4922: 0
+
+4923: 2006
+
+4924: Canadian Army
+
+4925: Hebrew
+
+4926: 22
+
+4927: 0
+
+4928: United States of America
+
+4929: occupation
+
+4930: None
+
+4931: Bavaria
+
+4932: Germany
+
+4933: 1
+
+4934: Audrey Hepburn
+
+4935: Oklahoma City
+
+4936: jazz-funk
+
+4937: 34
+
+4938: Hackensack
+
+4939: Washington University in St. Louis
+
+4940: 1991-01-01
+
+4941: genre
+
+4942: 1960-05-31
+
+4943: yes
+
+4944: Shanghai
+
+4945: 2004
+
+4946: 1989-12-18
+
+4947: shares border with
+
+4948: David Lean
+
+4949: Bayreuth
+
+4950: None
+
+4951: Boston
+
+4952: Ramones
+
+4953: None
+
+4954: The Witches of Eastwick
+
+4955: 14
+
+4956: occupation
+
+4957: no
+
+4958: 2013-07-01
+
+4959: no
+
+4960: Charlie and the Chocolate Factory
+
+4961: None
+
+4962: Eternal Sunshine of the Spotless Mind
+
+4963: 2
+
+4964: None
+
+4965: Yes Man
+
+4966: None
+
+4967: 60th Tony Awards
+
+4968: 1948-01-01
+
+4969: no
+
+4970: The Lost Weekend
+
+4971: Carrie
+
+4972: cast member
+
+4973: Second Punic War
+
+4974: Chicken Little
+
+4975: shares border with
+
+4976: Mighty Joe Young
+
+4977: Germany
+
+4978: The Town
+
+4979: yes
+
+4980: Wayne County
+
+4981: country
+
+4982: Up
+
+4983: Pete Seeger
+
+4984: English
+
+4985: None
+
+4986: Frankfurt (Oder)
+
+4987: place of birth
+
+4988: yes
+
+4989: 2
+
+4990: 19800000 United States dollar
+
+4991: 175
+
+4992: 1
+
+4993: Naomi Campbell
+
+4994: place of birth
+
+4995: Germany
+
+4996: English
+
+4997: Idaho
+
+4998: 1
+
+4999: capital
+

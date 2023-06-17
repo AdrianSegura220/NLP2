@@ -1,0 +1,391 @@
+2020-08-03 21:37:24,183 - root - INFO - PARAMETER----------
+2020-08-03 21:37:24,183 - root - INFO - BATCH_SIZE=20
+2020-08-03 21:37:24,183 - root - INFO - CHAR2ID=chars.txt
+2020-08-03 21:37:24,183 - root - INFO - CHECKPOINT_DIR=checkpoint/CWQ_student/
+2020-08-03 21:37:24,183 - root - INFO - CONSTRAIN_TYPE=js
+2020-08-03 21:37:24,183 - root - INFO - DATA_FOLDER=/home/gaole_he/data/KBQA/Freebase/CWQ/
+2020-08-03 21:37:24,183 - root - INFO - DECAY_RATE=0.0
+2020-08-03 21:37:24,184 - root - INFO - ENCODE_TYPE=True
+2020-08-03 21:37:24,184 - root - INFO - ENCODER_TYPE=lstm
+2020-08-03 21:37:24,184 - root - INFO - ENTITY2ID=entities.txt
+2020-08-03 21:37:24,184 - root - INFO - ENTITY_DIM=50
+2020-08-03 21:37:24,184 - root - INFO - ENTITY_EMB_FILE=None
+2020-08-03 21:37:24,184 - root - INFO - ENTITY_KGE_FILE=None
+2020-08-03 21:37:24,184 - root - INFO - ENTROPY_WEIGHT=0.0
+2020-08-03 21:37:24,184 - root - INFO - EPS=0.95
+2020-08-03 21:37:24,184 - root - INFO - EVAL_EVERY=2
+2020-08-03 21:37:24,184 - root - INFO - EXPERIMENT_NAME=CWQ_t_gnn-parallel_s_gnn_js_100epoch
+2020-08-03 21:37:24,184 - root - INFO - FACT_DROP=0
+2020-08-03 21:37:24,184 - root - INFO - FACT_SCALE=3
+2020-08-03 21:37:24,184 - root - INFO - FILTER_LABEL=False
+2020-08-03 21:37:24,184 - root - INFO - FILTER_SUB=False
+2020-08-03 21:37:24,184 - root - INFO - GRADIENT_CLIP=1.0
+2020-08-03 21:37:24,184 - root - INFO - IS_EVAL=False
+2020-08-03 21:37:24,184 - root - INFO - KG_DIM=100
+2020-08-03 21:37:24,184 - root - INFO - KGE_DIM=100
+2020-08-03 21:37:24,184 - root - INFO - LABEL_F1=0.5
+2020-08-03 21:37:24,184 - root - INFO - LABEL_FILE=None
+2020-08-03 21:37:24,184 - root - INFO - LABEL_SMOOTH=0.1
+2020-08-03 21:37:24,184 - root - INFO - LAMBDA_BACK=0.01
+2020-08-03 21:37:24,184 - root - INFO - LAMBDA_CONSTRAIN=0.1
+2020-08-03 21:37:24,184 - root - INFO - LAMBDA_LABEL=0.05
+2020-08-03 21:37:24,184 - root - INFO - LINEAR_DROPOUT=0.2
+2020-08-03 21:37:24,184 - root - INFO - LOAD_CKPT_FILE=None
+2020-08-03 21:37:24,184 - root - INFO - LOAD_EXPERIMENT=CWQ_t_gnn-parallel_s_gnn_js-final.ckpt
+2020-08-03 21:37:24,185 - root - INFO - LOAD_TEACHER=../CWQ_teacher/CWQ_parallel_teacher_gnn_js-f1.ckpt
+2020-08-03 21:37:24,185 - root - INFO - LOG_LEVEL=info
+2020-08-03 21:37:24,185 - root - INFO - LOSS_TYPE=kl
+2020-08-03 21:37:24,185 - root - INFO - LR=0.0005
+2020-08-03 21:37:24,185 - root - INFO - LR_SCHEDULE=False
+2020-08-03 21:37:24,185 - root - INFO - LSTM_DROPOUT=0.3
+2020-08-03 21:37:24,185 - root - INFO - MODE=teacher
+2020-08-03 21:37:24,185 - root - INFO - MODEL_NAME=gnn
+2020-08-03 21:37:24,185 - root - INFO - NAME=webqsp
+2020-08-03 21:37:24,185 - root - INFO - NUM_EPOCH=50
+2020-08-03 21:37:24,185 - root - INFO - NUM_LAYER=1
+2020-08-03 21:37:24,185 - root - INFO - NUM_STEP=4
+2020-08-03 21:37:24,185 - root - INFO - PRETRAINED_ENTITY_KGE_FILE=entity_emb_100d.npy
+2020-08-03 21:37:24,185 - root - INFO - Q_TYPE=seq
+2020-08-03 21:37:24,185 - root - INFO - REASON_KB=True
+2020-08-03 21:37:24,185 - root - INFO - REL_WORD_IDS=rel_word_idx.npy
+2020-08-03 21:37:24,185 - root - INFO - RELATION2ID=relations.txt
+2020-08-03 21:37:24,185 - root - INFO - RELATION_EMB_FILE=None
+2020-08-03 21:37:24,185 - root - INFO - RELATION_KGE_FILE=None
+2020-08-03 21:37:24,185 - root - INFO - SEED=19960626
+2020-08-03 21:37:24,185 - root - INFO - SHARE_EMBEDDING=False
+2020-08-03 21:37:24,185 - root - INFO - SHARE_ENCODER=False
+2020-08-03 21:37:24,185 - root - INFO - SHARE_INSTRUCTION=False
+2020-08-03 21:37:24,185 - root - INFO - TEACHER_MODEL=gnn
+2020-08-03 21:37:24,185 - root - INFO - TEACHER_TYPE=parallel
+2020-08-03 21:37:24,185 - root - INFO - TEST_BATCH_SIZE=40
+2020-08-03 21:37:24,185 - root - INFO - TRAIN_KL=False
+2020-08-03 21:37:24,185 - root - INFO - TREE_SOFT=False
+2020-08-03 21:37:24,186 - root - INFO - USE_CUDA=True
+2020-08-03 21:37:24,186 - root - INFO - USE_INVERSE_RELATION=False
+2020-08-03 21:37:24,186 - root - INFO - USE_LABEL=False
+2020-08-03 21:37:24,186 - root - INFO - USE_SELF_LOOP=True
+2020-08-03 21:37:24,186 - root - INFO - WORD2ID=vocab_new.txt
+2020-08-03 21:37:24,186 - root - INFO - WORD_DIM=300
+2020-08-03 21:37:24,186 - root - INFO - WORD_EMB_FILE=word_emb_300d.npy
+2020-08-03 21:37:24,186 - root - INFO - -------------------
+2020-08-03 21:41:59,981 - root - INFO - Building Agent.
+2020-08-03 21:42:05,903 - root - INFO - Architecture: TeacherAgent_parallel(
+  (model): ForwardReasonModel(
+    (relation_embedding): Embedding(6650, 200)
+    (word_embedding): Embedding(20050, 300, padding_idx=20049)
+    (entity_linear): Linear(in_features=100, out_features=50, bias=True)
+    (relation_linear): Linear(in_features=200, out_features=50, bias=True)
+    (lstm_drop): Dropout(p=0.3)
+    (linear_drop): Dropout(p=0.2)
+    (type_layer): TypeLayer(
+      (linear_drop): Dropout(p=0.2)
+      (kb_self_linear): Linear(in_features=50, out_features=50, bias=True)
+    )
+    (kld_loss): KLDivLoss()
+    (bce_loss_logits): BCEWithLogitsLoss()
+    (mse_loss): MSELoss()
+    (instruction): LSTMInstruction(
+      (lstm_drop): Dropout(p=0.3)
+      (linear_drop): Dropout(p=0.2)
+      (word_embedding): Embedding(20050, 300, padding_idx=20049)
+      (node_encoder): LSTM(300, 50, batch_first=True)
+      (cq_linear): Linear(in_features=100, out_features=50, bias=True)
+      (ca_linear): Linear(in_features=50, out_features=1, bias=True)
+      (question_linear0): Linear(in_features=50, out_features=50, bias=True)
+      (question_linear1): Linear(in_features=50, out_features=50, bias=True)
+      (question_linear2): Linear(in_features=50, out_features=50, bias=True)
+      (question_linear3): Linear(in_features=50, out_features=50, bias=True)
+    )
+    (reasoning): GNNReasoning(
+      (lstm_drop): Dropout(p=0.3)
+      (linear_drop): Dropout(p=0.2)
+      (softmax_d1): Softmax()
+      (score_func): Linear(in_features=50, out_features=1, bias=True)
+      (rel_linear0): Linear(in_features=50, out_features=50, bias=True)
+      (e2e_linear0): Linear(in_features=100, out_features=50, bias=True)
+      (rel_linear1): Linear(in_features=50, out_features=50, bias=True)
+      (e2e_linear1): Linear(in_features=100, out_features=50, bias=True)
+      (rel_linear2): Linear(in_features=50, out_features=50, bias=True)
+      (e2e_linear2): Linear(in_features=100, out_features=50, bias=True)
+      (rel_linear3): Linear(in_features=50, out_features=50, bias=True)
+      (e2e_linear3): Linear(in_features=100, out_features=50, bias=True)
+    )
+  )
+  (back_model): BackwardReasonModel(
+    (relation_embedding): Embedding(6650, 200)
+    (word_embedding): Embedding(20050, 300, padding_idx=20049)
+    (entity_linear): Linear(in_features=100, out_features=50, bias=True)
+    (relation_linear): Linear(in_features=200, out_features=50, bias=True)
+    (lstm_drop): Dropout(p=0.3)
+    (linear_drop): Dropout(p=0.2)
+    (type_layer): TypeLayer(
+      (linear_drop): Dropout(p=0.2)
+      (kb_self_linear): Linear(in_features=50, out_features=50, bias=True)
+    )
+    (kld_loss): KLDivLoss()
+    (bce_loss_logits): BCEWithLogitsLoss()
+    (mse_loss): MSELoss()
+    (instruction): LSTMInstruction(
+      (lstm_drop): Dropout(p=0.3)
+      (linear_drop): Dropout(p=0.2)
+      (word_embedding): Embedding(20050, 300, padding_idx=20049)
+      (node_encoder): LSTM(300, 50, batch_first=True)
+      (cq_linear): Linear(in_features=100, out_features=50, bias=True)
+      (ca_linear): Linear(in_features=50, out_features=1, bias=True)
+      (question_linear0): Linear(in_features=50, out_features=50, bias=True)
+      (question_linear1): Linear(in_features=50, out_features=50, bias=True)
+      (question_linear2): Linear(in_features=50, out_features=50, bias=True)
+      (question_linear3): Linear(in_features=50, out_features=50, bias=True)
+    )
+    (reasoning): GNNBackwardReasoning(
+      (lstm_drop): Dropout(p=0.3)
+      (linear_drop): Dropout(p=0.2)
+      (softmax_d1): Softmax()
+      (score_func): Linear(in_features=50, out_features=1, bias=True)
+      (rel_linear0): Linear(in_features=50, out_features=50, bias=True)
+      (e2e_linear0): Linear(in_features=100, out_features=50, bias=True)
+      (rel_linear1): Linear(in_features=50, out_features=50, bias=True)
+      (e2e_linear1): Linear(in_features=100, out_features=50, bias=True)
+      (rel_linear2): Linear(in_features=50, out_features=50, bias=True)
+      (e2e_linear2): Linear(in_features=100, out_features=50, bias=True)
+      (rel_linear3): Linear(in_features=50, out_features=50, bias=True)
+      (e2e_linear3): Linear(in_features=100, out_features=50, bias=True)
+    )
+  )
+  (constraint_loss): MSELoss()
+  (kld_loss_1): KLDivLoss()
+)
+2020-08-03 21:42:05,904 - root - INFO - Agent params: 14957604.0
+2020-08-03 21:42:05,904 - root - INFO - Building Agent.
+2020-08-03 21:42:06,864 - root - INFO - Architecture: NsmAgent(
+  (model): GNNModel(
+    (relation_embedding): Embedding(6650, 200)
+    (word_embedding): Embedding(20050, 300, padding_idx=20049)
+    (entity_linear): Linear(in_features=100, out_features=50, bias=True)
+    (relation_linear): Linear(in_features=200, out_features=50, bias=True)
+    (lstm_drop): Dropout(p=0.3)
+    (linear_drop): Dropout(p=0.2)
+    (type_layer): TypeLayer(
+      (linear_drop): Dropout(p=0.2)
+      (kb_self_linear): Linear(in_features=50, out_features=50, bias=True)
+    )
+    (kld_loss): KLDivLoss()
+    (bce_loss_logits): BCEWithLogitsLoss()
+    (mse_loss): MSELoss()
+    (reasoning): GNNReasoning(
+      (lstm_drop): Dropout(p=0.3)
+      (linear_drop): Dropout(p=0.2)
+      (softmax_d1): Softmax()
+      (score_func): Linear(in_features=50, out_features=1, bias=True)
+      (rel_linear0): Linear(in_features=50, out_features=50, bias=True)
+      (e2e_linear0): Linear(in_features=100, out_features=50, bias=True)
+      (rel_linear1): Linear(in_features=50, out_features=50, bias=True)
+      (e2e_linear1): Linear(in_features=100, out_features=50, bias=True)
+      (rel_linear2): Linear(in_features=50, out_features=50, bias=True)
+      (e2e_linear2): Linear(in_features=100, out_features=50, bias=True)
+      (rel_linear3): Linear(in_features=50, out_features=50, bias=True)
+      (e2e_linear3): Linear(in_features=100, out_features=50, bias=True)
+    )
+    (instruction): LSTMInstruction(
+      (lstm_drop): Dropout(p=0.3)
+      (linear_drop): Dropout(p=0.2)
+      (word_embedding): Embedding(20050, 300, padding_idx=20049)
+      (node_encoder): LSTM(300, 50, batch_first=True)
+      (cq_linear): Linear(in_features=100, out_features=50, bias=True)
+      (ca_linear): Linear(in_features=50, out_features=1, bias=True)
+      (question_linear0): Linear(in_features=50, out_features=50, bias=True)
+      (question_linear1): Linear(in_features=50, out_features=50, bias=True)
+      (question_linear2): Linear(in_features=50, out_features=50, bias=True)
+      (question_linear3): Linear(in_features=50, out_features=50, bias=True)
+    )
+  )
+)
+2020-08-03 21:42:06,864 - root - INFO - Agent params: 7478802.0
+2020-08-03 21:42:07,238 - root - INFO - Load param of relation_embedding.weight, word_embedding.weight, entity_linear.weight, entity_linear.bias, relation_linear.weight, relation_linear.bias, type_layer.kb_self_linear.weight, type_layer.kb_self_linear.bias, reasoning.score_func.weight, reasoning.score_func.bias, reasoning.rel_linear0.weight, reasoning.rel_linear0.bias, reasoning.e2e_linear0.weight, reasoning.e2e_linear0.bias, reasoning.rel_linear1.weight, reasoning.rel_linear1.bias, reasoning.e2e_linear1.weight, reasoning.e2e_linear1.bias, reasoning.rel_linear2.weight, reasoning.rel_linear2.bias, reasoning.e2e_linear2.weight, reasoning.e2e_linear2.bias, reasoning.rel_linear3.weight, reasoning.rel_linear3.bias, reasoning.e2e_linear3.weight, reasoning.e2e_linear3.bias, instruction.word_embedding.weight, instruction.node_encoder.weight_ih_l0, instruction.node_encoder.weight_hh_l0, instruction.node_encoder.bias_ih_l0, instruction.node_encoder.bias_hh_l0, instruction.cq_linear.weight, instruction.cq_linear.bias, instruction.ca_linear.weight, instruction.ca_linear.bias, instruction.question_linear0.weight, instruction.question_linear0.bias, instruction.question_linear1.weight, instruction.question_linear1.bias, instruction.question_linear2.weight, instruction.question_linear2.bias, instruction.question_linear3.weight, instruction.question_linear3.bias from checkpoint/CWQ_student/CWQ_t_gnn-parallel_s_gnn_js-final.ckpt.
+2020-08-03 21:42:07,281 - root - INFO - Load param of model.relation_embedding.weight, model.word_embedding.weight, model.entity_linear.weight, model.entity_linear.bias, model.relation_linear.weight, model.relation_linear.bias, model.type_layer.kb_self_linear.weight, model.type_layer.kb_self_linear.bias, model.instruction.word_embedding.weight, model.instruction.node_encoder.weight_ih_l0, model.instruction.node_encoder.weight_hh_l0, model.instruction.node_encoder.bias_ih_l0, model.instruction.node_encoder.bias_hh_l0, model.instruction.cq_linear.weight, model.instruction.cq_linear.bias, model.instruction.ca_linear.weight, model.instruction.ca_linear.bias, model.instruction.question_linear0.weight, model.instruction.question_linear0.bias, model.instruction.question_linear1.weight, model.instruction.question_linear1.bias, model.instruction.question_linear2.weight, model.instruction.question_linear2.bias, model.instruction.question_linear3.weight, model.instruction.question_linear3.bias, model.reasoning.score_func.weight, model.reasoning.score_func.bias, model.reasoning.rel_linear0.weight, model.reasoning.rel_linear0.bias, model.reasoning.e2e_linear0.weight, model.reasoning.e2e_linear0.bias, model.reasoning.rel_linear1.weight, model.reasoning.rel_linear1.bias, model.reasoning.e2e_linear1.weight, model.reasoning.e2e_linear1.bias, model.reasoning.rel_linear2.weight, model.reasoning.rel_linear2.bias, model.reasoning.e2e_linear2.weight, model.reasoning.e2e_linear2.bias, model.reasoning.rel_linear3.weight, model.reasoning.rel_linear3.bias, model.reasoning.e2e_linear3.weight, model.reasoning.e2e_linear3.bias, back_model.relation_embedding.weight, back_model.word_embedding.weight, back_model.entity_linear.weight, back_model.entity_linear.bias, back_model.relation_linear.weight, back_model.relation_linear.bias, back_model.type_layer.kb_self_linear.weight, back_model.type_layer.kb_self_linear.bias, back_model.instruction.word_embedding.weight, back_model.instruction.node_encoder.weight_ih_l0, back_model.instruction.node_encoder.weight_hh_l0, back_model.instruction.node_encoder.bias_ih_l0, back_model.instruction.node_encoder.bias_hh_l0, back_model.instruction.cq_linear.weight, back_model.instruction.cq_linear.bias, back_model.instruction.ca_linear.weight, back_model.instruction.ca_linear.bias, back_model.instruction.question_linear0.weight, back_model.instruction.question_linear0.bias, back_model.instruction.question_linear1.weight, back_model.instruction.question_linear1.bias, back_model.instruction.question_linear2.weight, back_model.instruction.question_linear2.bias, back_model.instruction.question_linear3.weight, back_model.instruction.question_linear3.bias, back_model.reasoning.score_func.weight, back_model.reasoning.score_func.bias, back_model.reasoning.rel_linear0.weight, back_model.reasoning.rel_linear0.bias, back_model.reasoning.e2e_linear0.weight, back_model.reasoning.e2e_linear0.bias, back_model.reasoning.rel_linear1.weight, back_model.reasoning.rel_linear1.bias, back_model.reasoning.e2e_linear1.weight, back_model.reasoning.e2e_linear1.bias, back_model.reasoning.rel_linear2.weight, back_model.reasoning.rel_linear2.bias, back_model.reasoning.e2e_linear2.weight, back_model.reasoning.e2e_linear2.bias, back_model.reasoning.rel_linear3.weight, back_model.reasoning.rel_linear3.bias, back_model.reasoning.e2e_linear3.weight, back_model.reasoning.e2e_linear3.bias from checkpoint/CWQ_student/../CWQ_teacher/CWQ_parallel_teacher_gnn_js-f1.ckpt.
+2020-08-03 21:58:14,606 - root - INFO - label training set done!
+2020-08-03 22:11:20,268 - root - INFO - Epoch: 1, loss : 1.0106, time: 701.920970916748
+2020-08-03 22:11:20,278 - root - INFO - Training h1 : 0.5948, f1 : 0.4571
+2020-08-03 22:11:20,278 - root - INFO - main: 0.7854 distill: 4.5039
+2020-08-03 22:23:12,013 - root - INFO - Epoch: 2, loss : 1.0032, time: 711.7345156669617
+2020-08-03 22:23:12,017 - root - INFO - Training h1 : 0.5952, f1 : 0.4581
+2020-08-03 22:23:12,018 - root - INFO - main: 0.7776 distill: 4.5121
+2020-08-03 22:24:36,626 - root - INFO - EVAL F1: 0.4602, H1: 0.5254
+2020-08-03 22:36:27,568 - root - INFO - Epoch: 3, loss : 1.0015, time: 710.8611266613007
+2020-08-03 22:36:27,572 - root - INFO - Training h1 : 0.5973, f1 : 0.4608
+2020-08-03 22:36:27,573 - root - INFO - main: 0.7757 distill: 4.5169
+2020-08-03 22:48:17,089 - root - INFO - Epoch: 4, loss : 0.9974, time: 709.516674041748
+2020-08-03 22:48:17,093 - root - INFO - Training h1 : 0.5963, f1 : 0.4609
+2020-08-03 22:48:17,094 - root - INFO - main: 0.7721 distill: 4.5059
+2020-08-03 22:49:39,791 - root - INFO - EVAL F1: 0.4595, H1: 0.5226
+2020-08-03 23:01:12,870 - root - INFO - Epoch: 5, loss : 0.9904, time: 693.0778608322144
+2020-08-03 23:01:12,874 - root - INFO - Training h1 : 0.5988, f1 : 0.4624
+2020-08-03 23:01:12,875 - root - INFO - main: 0.7660 distill: 4.4892
+2020-08-03 23:12:44,302 - root - INFO - Epoch: 6, loss : 0.9917, time: 691.4269642829895
+2020-08-03 23:12:44,306 - root - INFO - Training h1 : 0.5992, f1 : 0.4637
+2020-08-03 23:12:44,307 - root - INFO - main: 0.7679 distill: 4.4760
+2020-08-03 23:14:07,113 - root - INFO - EVAL F1: 0.4642, H1: 0.5288
+2020-08-03 23:25:32,023 - root - INFO - Epoch: 7, loss : 0.9863, time: 684.7929162979126
+2020-08-03 23:25:32,027 - root - INFO - Training h1 : 0.5994, f1 : 0.4644
+2020-08-03 23:25:32,027 - root - INFO - main: 0.7622 distill: 4.4837
+2020-08-03 23:36:50,969 - root - INFO - Epoch: 8, loss : 0.9800, time: 678.9419500827789
+2020-08-03 23:36:50,973 - root - INFO - Training h1 : 0.6007, f1 : 0.4702
+2020-08-03 23:36:50,973 - root - INFO - main: 0.7562 distill: 4.4762
+2020-08-03 23:38:12,454 - root - INFO - EVAL F1: 0.4699, H1: 0.5294
+2020-08-03 23:49:39,341 - root - INFO - Epoch: 9, loss : 0.9793, time: 686.7873902320862
+2020-08-03 23:49:39,345 - root - INFO - Training h1 : 0.6022, f1 : 0.4705
+2020-08-03 23:49:39,345 - root - INFO - main: 0.7554 distill: 4.4781
+2020-08-04 00:00:56,940 - root - INFO - Epoch: 10, loss : 0.9799, time: 677.5944197177887
+2020-08-04 00:00:56,944 - root - INFO - Training h1 : 0.6017, f1 : 0.4703
+2020-08-04 00:00:56,944 - root - INFO - main: 0.7562 distill: 4.4723
+2020-08-04 00:02:17,816 - root - INFO - EVAL F1: 0.4700, H1: 0.5317
+2020-08-04 00:13:40,967 - root - INFO - Epoch: 11, loss : 0.9825, time: 683.0502562522888
+2020-08-04 00:13:40,970 - root - INFO - Training h1 : 0.6018, f1 : 0.4707
+2020-08-04 00:13:40,971 - root - INFO - main: 0.7590 distill: 4.4700
+2020-08-04 00:25:08,418 - root - INFO - Epoch: 12, loss : 0.9760, time: 687.4469976425171
+2020-08-04 00:25:08,422 - root - INFO - Training h1 : 0.6021, f1 : 0.4710
+2020-08-04 00:25:08,422 - root - INFO - main: 0.7530 distill: 4.4600
+2020-08-04 00:26:31,793 - root - INFO - EVAL F1: 0.4738, H1: 0.5274
+2020-08-04 00:38:07,286 - root - INFO - Epoch: 13, loss : 0.9763, time: 695.4515562057495
+2020-08-04 00:38:07,290 - root - INFO - Training h1 : 0.5985, f1 : 0.4687
+2020-08-04 00:38:07,291 - root - INFO - main: 0.7540 distill: 4.4469
+2020-08-04 00:48:47,632 - root - INFO - Epoch: 14, loss : 0.9716, time: 640.3408808708191
+2020-08-04 00:48:47,636 - root - INFO - Training h1 : 0.6050, f1 : 0.4749
+2020-08-04 00:48:47,636 - root - INFO - main: 0.7487 distill: 4.4590
+2020-08-04 00:50:06,654 - root - INFO - EVAL F1: 0.4735, H1: 0.5254
+2020-08-04 01:00:49,293 - root - INFO - Epoch: 15, loss : 0.9609, time: 642.6385776996613
+2020-08-04 01:00:49,298 - root - INFO - Training h1 : 0.6045, f1 : 0.4784
+2020-08-04 01:00:49,298 - root - INFO - main: 0.7383 distill: 4.4513
+2020-08-04 01:11:29,496 - root - INFO - Epoch: 16, loss : 0.9695, time: 640.1974809169769
+2020-08-04 01:11:29,499 - root - INFO - Training h1 : 0.6071, f1 : 0.4750
+2020-08-04 01:11:29,500 - root - INFO - main: 0.7462 distill: 4.4675
+2020-08-04 01:12:46,914 - root - INFO - EVAL F1: 0.4747, H1: 0.5269
+2020-08-04 01:24:13,903 - root - INFO - Epoch: 17, loss : 0.9594, time: 686.9336090087891
+2020-08-04 01:24:13,907 - root - INFO - Training h1 : 0.6098, f1 : 0.4798
+2020-08-04 01:24:13,907 - root - INFO - main: 0.7365 distill: 4.4568
+2020-08-04 01:35:33,772 - root - INFO - Epoch: 18, loss : 0.9564, time: 679.8648068904877
+2020-08-04 01:35:33,787 - root - INFO - Training h1 : 0.6069, f1 : 0.4799
+2020-08-04 01:35:33,787 - root - INFO - main: 0.7339 distill: 4.4496
+2020-08-04 01:36:55,633 - root - INFO - EVAL F1: 0.4702, H1: 0.5342
+2020-08-04 01:48:17,673 - root - INFO - Epoch: 19, loss : 0.9573, time: 681.9893317222595
+2020-08-04 01:48:17,676 - root - INFO - Training h1 : 0.6069, f1 : 0.4768
+2020-08-04 01:48:17,677 - root - INFO - main: 0.7351 distill: 4.4452
+2020-08-04 01:59:37,337 - root - INFO - Epoch: 20, loss : 0.9505, time: 679.6600484848022
+2020-08-04 01:59:37,341 - root - INFO - Training h1 : 0.6066, f1 : 0.4801
+2020-08-04 01:59:37,342 - root - INFO - main: 0.7287 distill: 4.4367
+2020-08-04 02:00:58,434 - root - INFO - EVAL F1: 0.4794, H1: 0.5300
+2020-08-04 02:12:22,075 - root - INFO - Epoch: 21, loss : 0.9550, time: 683.5933048725128
+2020-08-04 02:12:22,080 - root - INFO - Training h1 : 0.6077, f1 : 0.4820
+2020-08-04 02:12:22,080 - root - INFO - main: 0.7326 distill: 4.4482
+2020-08-04 02:23:43,607 - root - INFO - Epoch: 22, loss : 0.9487, time: 681.526852607727
+2020-08-04 02:23:43,612 - root - INFO - Training h1 : 0.6069, f1 : 0.4821
+2020-08-04 02:23:43,612 - root - INFO - main: 0.7267 distill: 4.4388
+2020-08-04 02:25:04,748 - root - INFO - EVAL F1: 0.4797, H1: 0.5291
+2020-08-04 02:36:27,487 - root - INFO - Epoch: 23, loss : 0.9453, time: 682.6852762699127
+2020-08-04 02:36:27,491 - root - INFO - Training h1 : 0.6101, f1 : 0.4835
+2020-08-04 02:36:27,492 - root - INFO - main: 0.7236 distill: 4.4343
+2020-08-04 02:47:49,876 - root - INFO - Epoch: 24, loss : 0.9498, time: 682.384334564209
+2020-08-04 02:47:49,881 - root - INFO - Training h1 : 0.6108, f1 : 0.4818
+2020-08-04 02:47:49,881 - root - INFO - main: 0.7278 distill: 4.4406
+2020-08-04 02:49:10,753 - root - INFO - EVAL F1: 0.4865, H1: 0.5331
+2020-08-04 03:00:37,075 - root - INFO - Epoch: 25, loss : 0.9389, time: 686.2761852741241
+2020-08-04 03:00:37,079 - root - INFO - Training h1 : 0.6137, f1 : 0.4877
+2020-08-04 03:00:37,079 - root - INFO - main: 0.7172 distill: 4.4351
+2020-08-04 03:11:58,728 - root - INFO - Epoch: 26, loss : 0.9388, time: 681.6491296291351
+2020-08-04 03:11:58,732 - root - INFO - Training h1 : 0.6111, f1 : 0.4877
+2020-08-04 03:11:58,733 - root - INFO - main: 0.7170 distill: 4.4357
+2020-08-04 03:13:20,381 - root - INFO - EVAL F1: 0.4778, H1: 0.5271
+2020-08-04 03:24:46,381 - root - INFO - Epoch: 27, loss : 0.9499, time: 685.9989712238312
+2020-08-04 03:24:46,384 - root - INFO - Training h1 : 0.6080, f1 : 0.4832
+2020-08-04 03:24:46,385 - root - INFO - main: 0.7284 distill: 4.4296
+2020-08-04 03:36:12,790 - root - INFO - Epoch: 28, loss : 0.9303, time: 686.4050362110138
+2020-08-04 03:36:12,794 - root - INFO - Training h1 : 0.6120, f1 : 0.4878
+2020-08-04 03:36:12,795 - root - INFO - main: 0.7088 distill: 4.4302
+2020-08-04 03:37:34,169 - root - INFO - EVAL F1: 0.4763, H1: 0.5266
+2020-08-04 03:48:57,462 - root - INFO - Epoch: 29, loss : 0.9349, time: 683.2931866645813
+2020-08-04 03:48:57,466 - root - INFO - Training h1 : 0.6107, f1 : 0.4867
+2020-08-04 03:48:57,466 - root - INFO - main: 0.7133 distill: 4.4318
+2020-08-04 04:00:22,733 - root - INFO - Epoch: 30, loss : 0.9363, time: 685.2661838531494
+2020-08-04 04:00:22,737 - root - INFO - Training h1 : 0.6109, f1 : 0.4886
+2020-08-04 04:00:22,738 - root - INFO - main: 0.7143 distill: 4.4397
+2020-08-04 04:01:44,141 - root - INFO - EVAL F1: 0.4750, H1: 0.5288
+2020-08-04 04:13:07,796 - root - INFO - Epoch: 31, loss : 0.9346, time: 683.6544737815857
+2020-08-04 04:13:07,800 - root - INFO - Training h1 : 0.6133, f1 : 0.4881
+2020-08-04 04:13:07,800 - root - INFO - main: 0.7138 distill: 4.4173
+2020-08-04 04:24:32,323 - root - INFO - Epoch: 32, loss : 0.9311, time: 684.5220513343811
+2020-08-04 04:24:32,327 - root - INFO - Training h1 : 0.6135, f1 : 0.4898
+2020-08-04 04:24:32,327 - root - INFO - main: 0.7101 distill: 4.4208
+2020-08-04 04:25:53,722 - root - INFO - EVAL F1: 0.4819, H1: 0.5311
+2020-08-04 04:37:18,915 - root - INFO - Epoch: 33, loss : 0.9321, time: 685.1932299137115
+2020-08-04 04:37:18,919 - root - INFO - Training h1 : 0.6156, f1 : 0.4924
+2020-08-04 04:37:18,919 - root - INFO - main: 0.7111 distill: 4.4185
+2020-08-04 04:48:42,143 - root - INFO - Epoch: 34, loss : 0.9311, time: 683.2230060100555
+2020-08-04 04:48:42,149 - root - INFO - Training h1 : 0.6128, f1 : 0.4894
+2020-08-04 04:48:42,149 - root - INFO - main: 0.7104 distill: 4.4137
+2020-08-04 04:50:03,886 - root - INFO - EVAL F1: 0.4859, H1: 0.5286
+2020-08-04 05:01:28,861 - root - INFO - Epoch: 35, loss : 0.9287, time: 684.974552154541
+2020-08-04 05:01:28,866 - root - INFO - Training h1 : 0.6145, f1 : 0.4913
+2020-08-04 05:01:28,866 - root - INFO - main: 0.7081 distill: 4.4111
+2020-08-04 05:12:47,922 - root - INFO - Epoch: 36, loss : 0.9251, time: 679.0559728145599
+2020-08-04 05:12:47,926 - root - INFO - Training h1 : 0.6149, f1 : 0.4922
+2020-08-04 05:12:47,926 - root - INFO - main: 0.7041 distill: 4.4197
+2020-08-04 05:14:08,265 - root - INFO - EVAL F1: 0.4862, H1: 0.5286
+2020-08-04 05:25:25,416 - root - INFO - Epoch: 37, loss : 0.9241, time: 677.1514909267426
+2020-08-04 05:25:25,421 - root - INFO - Training h1 : 0.6179, f1 : 0.4951
+2020-08-04 05:25:25,421 - root - INFO - main: 0.7041 distill: 4.4012
+2020-08-04 05:36:42,602 - root - INFO - Epoch: 38, loss : 0.9174, time: 677.1810617446899
+2020-08-04 05:36:42,606 - root - INFO - Training h1 : 0.6192, f1 : 0.4957
+2020-08-04 05:36:42,607 - root - INFO - main: 0.6971 distill: 4.4059
+2020-08-04 05:38:03,447 - root - INFO - EVAL F1: 0.4838, H1: 0.5294
+2020-08-04 05:49:20,455 - root - INFO - Epoch: 39, loss : 0.9230, time: 677.0080437660217
+2020-08-04 05:49:20,460 - root - INFO - Training h1 : 0.6165, f1 : 0.4964
+2020-08-04 05:49:20,461 - root - INFO - main: 0.7033 distill: 4.3935
+2020-08-04 06:00:37,425 - root - INFO - Epoch: 40, loss : 0.9192, time: 676.9638421535492
+2020-08-04 06:00:37,429 - root - INFO - Training h1 : 0.6179, f1 : 0.4970
+2020-08-04 06:00:37,429 - root - INFO - main: 0.6996 distill: 4.3921
+2020-08-04 06:01:58,123 - root - INFO - EVAL F1: 0.4904, H1: 0.5351
+2020-08-04 06:13:15,828 - root - INFO - Epoch: 41, loss : 0.9209, time: 677.6092607975006
+2020-08-04 06:13:15,832 - root - INFO - Training h1 : 0.6139, f1 : 0.4926
+2020-08-04 06:13:15,833 - root - INFO - main: 0.7009 distill: 4.4011
+2020-08-04 06:24:33,105 - root - INFO - Epoch: 42, loss : 0.9174, time: 677.2725894451141
+2020-08-04 06:24:33,109 - root - INFO - Training h1 : 0.6179, f1 : 0.4955
+2020-08-04 06:24:33,110 - root - INFO - main: 0.6971 distill: 4.4068
+2020-08-04 06:25:54,183 - root - INFO - EVAL F1: 0.4776, H1: 0.5311
+2020-08-04 06:37:13,796 - root - INFO - Epoch: 43, loss : 0.9172, time: 679.612603187561
+2020-08-04 06:37:13,801 - root - INFO - Training h1 : 0.6182, f1 : 0.4973
+2020-08-04 06:37:13,802 - root - INFO - main: 0.6974 distill: 4.3962
+2020-08-04 06:48:32,117 - root - INFO - Epoch: 44, loss : 0.9152, time: 678.3146388530731
+2020-08-04 06:48:32,121 - root - INFO - Training h1 : 0.6201, f1 : 0.4984
+2020-08-04 06:48:32,121 - root - INFO - main: 0.6957 distill: 4.3896
+2020-08-04 06:49:53,731 - root - INFO - EVAL F1: 0.4863, H1: 0.5308
+2020-08-04 07:01:12,306 - root - INFO - Epoch: 45, loss : 0.9099, time: 678.5750296115875
+2020-08-04 07:01:12,311 - root - INFO - Training h1 : 0.6180, f1 : 0.4981
+2020-08-04 07:01:12,311 - root - INFO - main: 0.6901 distill: 4.3959
+2020-08-04 07:12:31,003 - root - INFO - Epoch: 46, loss : 0.9094, time: 678.691638469696
+2020-08-04 07:12:31,007 - root - INFO - Training h1 : 0.6161, f1 : 0.4989
+2020-08-04 07:12:31,008 - root - INFO - main: 0.6894 distill: 4.4006
+2020-08-04 07:13:51,758 - root - INFO - EVAL F1: 0.4835, H1: 0.5311
+2020-08-04 07:25:12,296 - root - INFO - Epoch: 47, loss : 0.9110, time: 680.5369651317596
+2020-08-04 07:25:12,300 - root - INFO - Training h1 : 0.6216, f1 : 0.5012
+2020-08-04 07:25:12,300 - root - INFO - main: 0.6909 distill: 4.4006
+2020-08-04 07:36:30,757 - root - INFO - Epoch: 48, loss : 0.9057, time: 678.4568285942078
+2020-08-04 07:36:30,761 - root - INFO - Training h1 : 0.6202, f1 : 0.5012
+2020-08-04 07:36:30,761 - root - INFO - main: 0.6860 distill: 4.3936
+2020-08-04 07:37:52,283 - root - INFO - EVAL F1: 0.4873, H1: 0.5385
+2020-08-04 07:49:12,535 - root - INFO - Epoch: 49, loss : 0.9035, time: 680.2072556018829
+2020-08-04 07:49:12,539 - root - INFO - Training h1 : 0.6192, f1 : 0.5006
+2020-08-04 07:49:12,539 - root - INFO - main: 0.6837 distill: 4.3958
+2020-08-04 08:00:33,070 - root - INFO - Epoch: 50, loss : 0.9038, time: 680.5312066078186
+2020-08-04 08:00:33,075 - root - INFO - Training h1 : 0.6198, f1 : 0.5005
+2020-08-04 08:00:33,076 - root - INFO - main: 0.6837 distill: 4.4031
+2020-08-04 08:01:54,306 - root - INFO - EVAL F1: 0.4918, H1: 0.5365
+2020-08-04 08:01:54,390 - root - INFO - Train Done! Evaluate on testset with saved model
+2020-08-04 08:01:54,408 - root - INFO - Load param of relation_embedding.weight, word_embedding.weight, entity_linear.weight, entity_linear.bias, relation_linear.weight, relation_linear.bias, type_layer.kb_self_linear.weight, type_layer.kb_self_linear.bias, reasoning.score_func.weight, reasoning.score_func.bias, reasoning.rel_linear0.weight, reasoning.rel_linear0.bias, reasoning.e2e_linear0.weight, reasoning.e2e_linear0.bias, reasoning.rel_linear1.weight, reasoning.rel_linear1.bias, reasoning.e2e_linear1.weight, reasoning.e2e_linear1.bias, reasoning.rel_linear2.weight, reasoning.rel_linear2.bias, reasoning.e2e_linear2.weight, reasoning.e2e_linear2.bias, reasoning.rel_linear3.weight, reasoning.rel_linear3.bias, reasoning.e2e_linear3.weight, reasoning.e2e_linear3.bias, instruction.word_embedding.weight, instruction.node_encoder.weight_ih_l0, instruction.node_encoder.weight_hh_l0, instruction.node_encoder.bias_ih_l0, instruction.node_encoder.bias_hh_l0, instruction.cq_linear.weight, instruction.cq_linear.bias, instruction.ca_linear.weight, instruction.ca_linear.bias, instruction.question_linear0.weight, instruction.question_linear0.bias, instruction.question_linear1.weight, instruction.question_linear1.bias, instruction.question_linear2.weight, instruction.question_linear2.bias, instruction.question_linear3.weight, instruction.question_linear3.bias from checkpoint/CWQ_student/CWQ_t_gnn-parallel_s_gnn_js_100epoch-h1.ckpt.
+2020-08-04 08:03:18,201 - root - INFO - Best h1 evaluation
+2020-08-04 08:03:18,201 - root - INFO - TEST F1: 0.4397, H1: 0.4826
+2020-08-04 08:03:18,226 - root - INFO - Load param of relation_embedding.weight, word_embedding.weight, entity_linear.weight, entity_linear.bias, relation_linear.weight, relation_linear.bias, type_layer.kb_self_linear.weight, type_layer.kb_self_linear.bias, reasoning.score_func.weight, reasoning.score_func.bias, reasoning.rel_linear0.weight, reasoning.rel_linear0.bias, reasoning.e2e_linear0.weight, reasoning.e2e_linear0.bias, reasoning.rel_linear1.weight, reasoning.rel_linear1.bias, reasoning.e2e_linear1.weight, reasoning.e2e_linear1.bias, reasoning.rel_linear2.weight, reasoning.rel_linear2.bias, reasoning.e2e_linear2.weight, reasoning.e2e_linear2.bias, reasoning.rel_linear3.weight, reasoning.rel_linear3.bias, reasoning.e2e_linear3.weight, reasoning.e2e_linear3.bias, instruction.word_embedding.weight, instruction.node_encoder.weight_ih_l0, instruction.node_encoder.weight_hh_l0, instruction.node_encoder.bias_ih_l0, instruction.node_encoder.bias_hh_l0, instruction.cq_linear.weight, instruction.cq_linear.bias, instruction.ca_linear.weight, instruction.ca_linear.bias, instruction.question_linear0.weight, instruction.question_linear0.bias, instruction.question_linear1.weight, instruction.question_linear1.bias, instruction.question_linear2.weight, instruction.question_linear2.bias, instruction.question_linear3.weight, instruction.question_linear3.bias from checkpoint/CWQ_student/CWQ_t_gnn-parallel_s_gnn_js_100epoch-f1.ckpt.
+2020-08-04 08:04:42,148 - root - INFO - Best f1 evaluation
+2020-08-04 08:04:42,148 - root - INFO - TEST F1: 0.4396, H1: 0.4812
+2020-08-04 08:04:42,167 - root - INFO - Load param of relation_embedding.weight, word_embedding.weight, entity_linear.weight, entity_linear.bias, relation_linear.weight, relation_linear.bias, type_layer.kb_self_linear.weight, type_layer.kb_self_linear.bias, reasoning.score_func.weight, reasoning.score_func.bias, reasoning.rel_linear0.weight, reasoning.rel_linear0.bias, reasoning.e2e_linear0.weight, reasoning.e2e_linear0.bias, reasoning.rel_linear1.weight, reasoning.rel_linear1.bias, reasoning.e2e_linear1.weight, reasoning.e2e_linear1.bias, reasoning.rel_linear2.weight, reasoning.rel_linear2.bias, reasoning.e2e_linear2.weight, reasoning.e2e_linear2.bias, reasoning.rel_linear3.weight, reasoning.rel_linear3.bias, reasoning.e2e_linear3.weight, reasoning.e2e_linear3.bias, instruction.word_embedding.weight, instruction.node_encoder.weight_ih_l0, instruction.node_encoder.weight_hh_l0, instruction.node_encoder.bias_ih_l0, instruction.node_encoder.bias_hh_l0, instruction.cq_linear.weight, instruction.cq_linear.bias, instruction.ca_linear.weight, instruction.ca_linear.bias, instruction.question_linear0.weight, instruction.question_linear0.bias, instruction.question_linear1.weight, instruction.question_linear1.bias, instruction.question_linear2.weight, instruction.question_linear2.bias, instruction.question_linear3.weight, instruction.question_linear3.bias from checkpoint/CWQ_student/CWQ_t_gnn-parallel_s_gnn_js_100epoch-final.ckpt.
+2020-08-04 08:06:06,753 - root - INFO - Final evaluation
+2020-08-04 08:06:06,753 - root - INFO - TEST F1: 0.4396, H1: 0.4812

@@ -1,0 +1,160 @@
+what does jamaican people speak? 
+ Answers :: ['Jamaican English', 'Jamaican Patois'] 
+ Candidates :: ['English', 'Jamaica, Land We Love', 'Jamaican English', 'Jamaican Patois', 'God Save the King', 'God Save the Queen'] 
+ Candidate ids :: ['m.02h40lc', 'm.01428y', 'm.04ygk0', 'm.037kg', 'm.01f58t']
+what did james k polk do before he was president? 
+ Answers :: None 
+ Candidates :: ['Governor of Tennessee', 'Speaker of the United States House of Representatives', 'President of the United States'] 
+ Candidate ids :: ['m.04dnzbz', 'm.02_bcst', 'm.04x_n9q', 'm.060d2', 'm.0cgqx']
+who plays ken barlow in coronation street? 
+ Answers :: ['William Roache'] 
+ Candidates :: ['The Lord of the Rings', 'The Black Tulip', 'ITV1 HD', 'ITV Granada', 'Joseph Andrews', 'Ken Barlow'] 
+ Candidate ids :: ['m.0k2398d', 'm.06xszzj', 'm.063vvp8', 'm.0n9mtyj', 'm.05ng9nz', 'm.018l75', 'm.0f_xm5p', 'm.0p61k38', 'm.07bz5', 'm.010dqk3_', 'm.01jbmk', 'm.0h0_mvx', 'm.0dmdrr', 'm.0645lqq', 'm.065ssh2', 'm.064d35_', 'm.08w_zj7', 'm.063s659', 'm.0645ll_', 'm.063vjx0', 'm.0w_fr1f', 'm.01gjjz', 'm.015lwh', 'm.064bvkf']
+where is jamarcus russell from? 
+ Answers :: ['Mobile'] 
+ Candidates :: ['Mobile'] 
+ Candidate ids :: ['m.058cm']
+where was george washington carver from? 
+ Answers :: ['Diamond'] 
+ Candidates :: ['United States of America', 'Diamond'] 
+ Candidate ids :: ['m.09c7w0', 'm.0xhsh']
+what else did ben franklin invent? 
+ Answers :: ['lightning rod', 'bifocal lens', 'glass harmonica', 'Franklin stove'] 
+ Candidates :: ['A Dissertation on Liberty and Necessity, Pleasure and Pain', 'deism', "Poor Richard's Almanack", 'lightning rod', 'bifocal lens', 'pleurisy', 'glass harmonica', 'Franklin stove'] 
+ Candidate ids :: ['m.01zwbg', 'm.01zh8g', 'm.01vnwz', 'm.02d11', 'm.0135nr', 'm.013cqs', 'm.04t1zmn', 'm.0y5sdg1', 'm.0y5sd7d', 'm.04t1zn4', 'm.0y5sdfb', 'm.0y5sd6w', 'm.029mmz', 'm.0c1t1gq', 'm.0y5sdds', 'm.0y5sdbl', 'm.0y5sdc8', 'm.0y5sdfp', 'm.0y5sd7_', 'm.04t1zmx', 'm.0y5sd9_', 'm.0y5sdgc', 'm.0y5sd9c', 'm.0y5sd3_', 'm.0y5sd60', 'm.04t1zmd', 'm.0b28ym']
+who was richard nixon married to? 
+ Answers :: ['Pat Nixon'] 
+ Candidates :: ['Dwight D. Eisenhower', 'Pat Nixon', 'The U.S. vs. John Lennon', 'Generation of Swine', 'Henry Kissinger', 'Executive Office of the President of the United States', 'Gasland', 'Gashole', 'Oliver Stone'] 
+ Candidate ids :: ['m.023v03', 'm.028rk', 'm.026drhx', 'm.0c0cs', 'm.03k_f', 'm.0crw9vl', 'm.05kfs', 'm.05kgd8n', 'm.0f1vwh', 'm.0gk__q3', 'm.05nm0rr', 'm.05nm0q5', 'm.0cs372p', 'm.0bmcs3d']
+who is governor of ohio 2011? 
+ Answers :: ['John Kasich', 'Return J. Meigs Jr.', 'Ted Strickland'] 
+ Candidates :: ['Methodism', 'Greater Antilles', 'Cardinalidae', 'Shawnee', 'Vic Donahey', 'Thomas Worthington', 'Benjamin Ruggles', 'Frank B. Willis', 'Ethan Allen Brown', 'Cyrus Locher', 'Ohio Senate', 'Ohio Department of Transportation', 'Gene Logsdon', 'Philip Roth', 'Salmon P. Chase', 'Stanley Griswold', 'Church of God (Anderson, Indiana)', 'Appalachian Trail', 'Episcopal Church', 'William Allen', 'Rob Portman', 'William Henry Harrison', 'Lutheranism', 'Toni Morrison', 'Howard Metzenbaum', 'Josiah Harmar', 'tomato juice', 'Stephen M. Young', 'Thomas Morris', 'Jacob Burnet', 'Alexander Campbell', 'Ontario', 'Catholicism', 'Cuba', 'Warren G. Harding', 'Great Britain', 'Theodore E. Burton', 'Ohio State University', 'Mark Hanna', 'Stanley Matthews', 'flag of Ohio', 'Mormonism', 'Joseph B. Foraker', 'Linesville', 'Brookville', 'John Glenn', 'John Smith', 'Return J. Meigs Jr.', 'Jeremiah Morrow', 'Mike DeWine', 'Thomas A. Burke', 'James W. Huffman', 'Robert J. Bulkley', 'Michael Ruhlman', 'Islam', 'Sherwood Anderson', 'Ohio House of Representatives', 'Simeon D. Fess', 'William A. Trimble', 'Harold Hitz Burton', 'George Voinovich', 'George H. Pendleton', 'John W. Bricker', 'Thomas Corwin', 'Edward Tiffin', 'Frank Lausche', 'Charles W. F. Dick', 'Churches of Christ', 'Thomas Ewing', 'Henry B. Payne', 'Thylias Moss', 'Canada', 'Helen Elsie Austin', 'Lowell Cauffiel', 'With God, all things are possible', 'Adventures of Huckleberry Finn', 'Virginia Hamilton', 'Sherrod Brown', 'John Sherman', 'Robert A. Taft', 'Roscoe C. McCulloch', 'Benjamin Wade', 'Benjamin Tappan', 'Calvin S. Brice', 'William B. Saxbe', 'George E. Pugh', 'Kingsley A. Taft', 'Allen G. Thurman', 'Los Angeles', 'Presbyterianism', 'Atlee Pomerene', 'Lima', 'George H. Bender', 'Robert Taft Jr.', 'Joseph Kerr', 'Aesculus glabra', 'Geoffrey Blodgett', 'Michelle Jerott'] 
+ Candidate ids :: ['m.05kr_', 'm.02pbn7', 'm.0cg8xc', 'm.01rll_', 'm.010bcpm9', 'm.035602', 'm.039h54', 'm.034s80', 'm.069s7z', 'm.0351xv', 'm.0340l5', 'm.0g0yh', 'm.01_pgn', 'm.0355ft', 'm.02vqg9k', 'm.019vz0', 'm.0dtvw1', 'm.02rsw', 'm.058x5', 'm.04pk9', 'm.03fkgg', 'm.0c8wxp', 'm.0fp2q7', 'm.0351_d', 'm.032fzz', 'm.033tyr', 'm.01znfl', 'm.05krk', 'm.05wccms', 'm.015jv7', 'm.01_5y1', 'm.034_n2', 'm.0835q', 'm.02p03m', 'm.034_md', 'm.01sv0r', 'm.03520g', 'm.0flw86', 'm.04sj7d8', 'm.081t6', 'm.01_pg8', 'm.017j9x', 'm.033tsr', 'm.034156', 'm.0355vv', 'm.034qmh', 'm.034_jx', 'm.04sh76j', 'm.0355_1', 'm.026sw1', 'm.0d060g', 'm.0gyptv', 'm.0bv7t', 'm.034_px', 'm.0217hr', 'm.034_wp', 'm.051kv', 'm.023jy9', 'm.034vsh', 'm.0355v3', 'm.0355yz', 'm.034qpf', 'm.0hzbd2s', 'm.034qvp', 'm.04t54yg', 'm.0351z0', 'm.033ssy', 'm.010bcprb', 'm.014tss', 'm.0clwr', 'm.03561t', 'm.0340k4', 'm.021_0p', 'm.04sh_yf', 'm.013pp3', 'm.0gm8qr', 'm.034tqb', 'm.08y6vd', 'm.034vq_', 'm.03bsvd3', 'm.02rppt', 'm.0lyj0', 'm.03gkc1', 'm.0355mb', 'm.01m0p1', 'm.05phd9', 'm.0340gv', 'm.0d04z6', 'm.0c3ql', 'm.02qbg18', 'm.0631_', 'm.0340r0', 'm.033vbc', 'm.0198tc', 'm.09yn0c', 'm.030qb3t', 'm.0351t_', 'm.02r2h7', 'm.0343xg', 'm.0yshw', 'm.034_z9', 'm.03q5b', 'm.0slfw', 'm.0zw82', 'm.02ph6rn', 'm.034_s4', 'm.02sq4q', 'm.083r7']
+who was vice president after kennedy died? 
+ Answers :: ['Lyndon B. Johnson'] 
+ Candidates :: ['Lyndon B. Johnson', 'United States Secretary of Defense', 'Marilyn Monroe', 'Tribulation 99: Alien Anomalies Under America', 'Lee Harvey Oswald', 'Joseph P. Kennedy Jr.', 'Time After Time'] 
+ Candidate ids :: ['m.0f7fy', 'm.0c01v', 'm.04gwy', 'm.04wqr', 'm.0bnnstz', 'm.020t1x', 'm.014g2j']
+where is the fukushima daiichi nuclear plant located? 
+ Answers :: ['Japan', 'Okuma'] 
+ Candidates :: ['Fukushima', 'Okuma'] 
+ Candidate ids :: ['m.03k_g5', 'm.0gqkx', 'm.0ggj3z2']
+what countries are part of the uk? 
+ Answers :: ['England', 'Northern Ireland', 'Wales', 'Scotland'] 
+ Candidates :: ['Angola', 'United States of America', 'Republic of Ireland', 'Andy Murray', 'Anguilla', 'England', 'Tony Jordan', 'Canada', 'Northern Ireland', 'Wales', 'France', 'Ireland', 'Europe', 'Scotland', 'Marlon Devonish'] 
+ Candidate ids :: ['m.0j5g9', 'm.06q1r', 'm.05bcl', 'm.02jx1', 'm.02j9z', 'm.012wgb', 'm.0hzc9md', 'm.09c7w0', 'm.0n3g', 'm.0d060g', 'm.0j4b', 'm.0f8l9c', 'm.03rt9', 'm.03rst1', 'm.07732r', 'm.03wc52']
+what is my timezone in louisiana? 
+ Answers :: ['Central Time Zone'] 
+ Candidates :: ['Seventh-day Adventist Church', 'Magnolia', 'Lutheranism', 'Pomoxis', 'Mississippi River', 'Assemblies of God', 'American alligator', 'Eastern Time Zone', 'Mountain Time Zone', 'milk', 'Nondenominational Christianity', 'crayfish', 'Astacoidea', 'Pentecostalism', 'petrified wood', 'Taxodium distichum', 'Presbyterianism', 'Brown Pelican', 'American green tree frog', 'Central Time Zone'] 
+ Candidate ids :: ['m.04yf_', 'm.02g2w1', 'm.05w5d', 'm.02fqwt', 'm.0b1lz', 'm.02hcv8', 'm.08gxzr', 'm.02hczc', 'm.065yq9', 'm.0631_', 'm.021rh_', 'm.01fd4b', 'm.0hzdmt9', 'm.0by1g', 'm.04zpv', 'm.027psm', 'm.072w0', 'm.01y0s9', 'm.04pk9', 'm.01w6_0']
+what did st augustine do? 
+ Answers :: ['writer', 'philosopher', 'physician'] 
+ Candidates :: ['Confessions', "Our Lord's Sermon on the Mount", 'De vera religione', 'writer', 'De beata vita', 'Enchiridion of Augustine', 'Soliloquies of Augustine', 'The City of God', 'On the Trinity', 'philosopher', 'De doctrina Christiana', 'physician'] 
+ Candidate ids :: ['m.012hscjf', 'm.05t4q', 'm.0c1x_rd', 'm.0c1x_qk', 'm.0cbd2', 'm.012dv83d', 'm.06hvg_l', 'm.02xk96', 'm.0gvv9j2', 'm.012hmbcl', 'm.06k6bkx', 'm.0c1x_rs', 'm.0c1x_px', 'm.0c1x_qy', 'm.0c1x_q2', 'm.0281p7', 'm.0bhlhbl', 'm.012dv902', 'm.02h6fbs', 'm.06khly3', 'm.0c1x_r9', 'm.0c1x_pm', 'm.0686xh2', 'm.012br17x', 'm.012bzlh1', 'm.012gx_lm', 'm.069h6f9', 'm.0c1x_sq', 'm.06b4ccj', 'm.012bm1mz', 'm.06ssvjh', 'm.010v031y', 'm.06kxwf2', 'm.0c1x_pt', 'm.06ld2fk', 'm.0c1x_pf', 'm.06j53xd', 'm.0c1x_p4', 'm.06b7vl3', 'm.067y3vb', 'm.0c1x_s1', 'm.012dv835', 'm.0c1x_sm', 'm.0c1x_sf', 'm.06vq6q3', 'm.0c1x_nw', 'm.0c1x_sj', 'm.0c1x_np', 'm.06svkq0', 'm.06p2n_r', 'm.012hv_nd', 'm.0c1x_s4', 'm.0c1x_pj', 'm.0c1x_rh', 'm.03yfgb7', 'm.012c110d', 'm.0c1x_qr', 'm.06mcy_x', 'm.06n_3tt', 'm.0c1x_r0', 'm.0dgvxmz', 'm.0c1x_p7', 'm.06j77g6', 'm.012hmbg5', 'm.0c1x_qv', 'm.0c1x_r3', 'm.068j3_j', 'm.0c1x_rz', 'm.0c1x_rw', 'm.06kg06m', 'm.012hs1_c', 'm.06l283d', 'm.06n99tk', 'm.0c1x_rl', 'm.06qtc76', 'm.06fwf20', 'm.06hgfss', 'm.06lxcz3', 'm.0c1x_qc', 'm.0c1x_rp', 'm.0695c40', 'm.06cqtl8', 'm.06g84mf', 'm.0c1x_pq', 'm.012dv7v0', 'm.06h9ycy', 'm.0c1x_q5', 'm.0bqtph7', 'm.06tp__p', 'm.0c1x_p_', 'm.06ky8qm', 'm.06gyb8m', 'm.0bhlhbs', 'm.06rpxg7', 'm.06c5lj_', 'm.06fpdt8', 'm.0c5v3w', 'm.0c1x_qg', 'm.06htm7w', 'm.0c1x_r6', 'm.06dcy8g', 'm.0c1x_sb', 'm.06kx4_w', 'm.06hh9qy', 'm.0c1x_s7', 'm.06fc5l8', 'm.0c1x_p1', 'm.06t0sz8', 'm.06prfyy', 'm.06q8gwq', 'm.06r_rck', 'm.0c1x_q8', 'g.121pw5_6']
+who is keyshia cole dad? 
+ Answers :: None 
+ Candidates :: ['T.I.', 'Daniel Gibson', 'Kanye West', 'Busta Rhymes'] 
+ Candidate ids :: ['m.0n9hk0h', 'm.03f7lp0', 'm.0n9hj_f', 'm.0tw7ym', 'm.02l840', 'm.0n9hk0q', 'm.02w8y16', 'm.0wq93rk', 'm.01wgxtl', 'm.0clc60', 'm.0f4w3fg', 'm.014_6df', 'm.0nblmh5']
+what kind government does egypt have? 
+ Answers :: ['semi-presidential system', 'transitional government'] 
+ Candidates :: ['Red Sea', 'semi-presidential system', 'Bilady, Bilady, Bilady', 'House of Representatives', 'United Kingdom', 'Six-Day War', 'flag of Egypt', 'Gamal Abdel Nasser', 'transitional government'] 
+ Candidate ids :: ['m.07ssc', 'm.02tz3y', 'm.065mt4', 'm.0784z', 'm.01dw03', 'm.0d9nj_', 'm.02c0kf', 'm.0dnny', 'm.06jfd']
+what town was martin luther king assassinated in? 
+ Answers :: ['Memphis'] 
+ Candidates :: ['Atlanta', 'Phoenix Force', 'Memphis', 'Boston University'] 
+ Candidate ids :: ['m.013yq', 'm.0c_m3', 'm.0d37v', 'm.0gl5_', 'm.0cryp9p']
+where did edgar allan poe died? 
+ Answers :: ['Baltimore'] 
+ Candidates :: ['Westminster Hall and Burying Ground', 'Baltimore'] 
+ Candidate ids :: ['m.04jlwk', 'm.094jv', 'm.0110qbbf', 'm.0110qb62', 'm.051k5cg']
+what to do today in atlanta with kids? 
+ Answers :: None 
+ Candidates :: ['Margaret Mitchell House & Museum', 'The Masquerade', 'Atlanta Braves', 'World of Coca-Cola', 'Georgia Tech Yellow Jackets football', 'Centers for Disease Control and Prevention', 'Fernbank Science Center', 'State Farm Arena', 'Centennial Olympic Park', 'Atlanta Cyclorama & Civil War Museum', 'Zoo Atlanta', 'Georgia Dome', 'Six Flags Over Georgia', 'Georgia World Congress Center', 'Fernbank Museum of Natural History', 'Underground Atlanta', 'Woodruff Arts Center', 'Atlanta Marriott Marquis', 'Turner Field', 'Fox Theatre', 'Omni Coliseum', 'Atlanta Symphony Orchestra', 'Six Flags White Water', 'Martin Luther King Jr. National Historical Park', 'Jimmy Carter Library and Museum', 'Georgia Aquarium', 'Georgia State Capitol', 'CNN Center', 'The Tabernacle', 'Atlanta History Center', 'Arbor Place Mall', 'Atlanta Ballet', 'Atlanta Jewish Film Festival', 'Center for Puppetry Arts', 'Cobb Energy Performing Arts Centre', 'Peachtree Road Race'] 
+ Candidate ids :: ['m.0x2p', 'm.06bxs4', 'm.038bv6', 'm.030pkm', 'm.050m_5', 'm.03q1hw', 'm.03l1zc', 'm.03cspcp', 'm.02wl1b', 'm.0gln9p', 'm.02jnft', 'm.02wvfxz', 'm.038gvs', 'm.0j28sdt', 'm.0130ft', 'm.0b5g4p', 'm.05c25f2', 'm.03spbl', 'm.04_mbv', 'm.029fnx', 'm.04htb5', 'm.050my1', 'm.039xmp', 'm.027r6hr', 'm.0fpmfg', 'm.03xrf5', 'm.020fp1', 'm.050n0y', 'm.04d135', 'm.01zrs', 'm.02xmrp', 'm.0c3cp2', 'm.03sm22', 'm.04qrhq', 'm.033h7k', 'm.04jny9', 'm.027t71h', 'm.050mtz', 'm.03wm34']
+what electorate does anna bligh represent? 
+ Answers :: ['South Brisbane'] 
+ Candidates :: ['South Brisbane', 'Warwick', 'Legislative Assembly of Queensland', 'Premier of Queensland'] 
+ Candidate ids :: ['m.04y1yd', 'm.05l4jt', 'm.026q11g', 'm.0cnv08v', 'm.092vmcb', 'm.0cr301h']
+where did andy murray started playing tennis? 
+ Answers :: None 
+ Candidates :: ['BBC Sports Personality of the Year Award', 'Dunblane', "Queen's Club Championships", 'Laureus World Sports Award for Breakthrough of the Year', 'London', 'Glasgow', "tennis at the 2012 Summer Olympics – men's singles", 'Jamie Murray', 'Cincinnati Masters', 'BBC Young Sports Personality of the Year'] 
+ Candidate ids :: ['m.0hyxv', 'm.0206w7', 'm.0d995f', 'm.0khcwr7', 'm.0k19fp3', 'm.0kjjx9m', 'm.0h10gpq', 'm.05b14q_', 'm.062pxq', 'm.02shxd', 'm.04w70r', 'm.0k3rng_', 'm.0j152c7', 'm.04jpl', 'm.0kscqz']
+what is the australian dollar called? 
+ Answers :: None 
+ Candidates :: ['Kiribati', 'Tuvalu', 'Nauru', 'Christmas Island', 'Norfolk Island', 'Cocos Islands', 'Territory of Papua and New Guinea'] 
+ Candidate ids :: ['m.01p5l', 'm.047t_', 'm.07fsv', 'm.05br2', 'm.05cqm', 'm.026wtlf', 'm.01p6l']
+what timezone is sweden? 
+ Answers :: ['Central European Time'] 
+ Candidates :: ['Central European Time', 'Du gamla, du fria', 'Meraf Bahta', 'European Parliament'] 
+ Candidate ids :: ['m.02llzg', 'm.0m6w8', 'm.02m0v', 'm.02w7mq_']
+who did cam newton sign with? 
+ Answers :: ['Carolina Panthers'] 
+ Candidates :: ['Auburn Tigers football', 'Florida Gators football', '1996 Summer Olympics', 'Carolina Panthers'] 
+ Candidate ids :: ['m.01y3c', 'm.086hg9', 'm.0jhn7', 'm.0ftf0f']
+what county is frederick md in? 
+ Answers :: ['Frederick County'] 
+ Candidates :: ['Frederick County'] 
+ Candidate ids :: ['m.0cc07']
+what highschool did harper lee go to? 
+ Answers :: ['Monroe County High School'] 
+ Candidates :: ['Monroe County High School', 'Huntingdon College', 'University of Alabama', 'University of Alabama School of Law', 'University of Oxford'] 
+ Candidate ids :: ['m.0crdc8g', 'm.07tgn', 'm.069vxk', 'm.06fv_v', 'm.01wdl3']
+what timezone is utah in? 
+ Answers :: ['Mountain Time Zone'] 
+ Candidates :: ['Calochortus nuttallii', 'Picea pungens', 'California Gull', 'Bonneville cutthroat trout', 'Populus tremuloides', 'Mountain Time Zone', 'Presbyterianism'] 
+ Candidate ids :: ['m.02hczc', 'm.0631_', 'm.0583c6', 'm.0hzdkw5', 'm.037lsy', 'm.0fvj76', 'm.05jxhp', 'm.02805fj']
+who did george w bush run against for the second term? 
+ Answers :: ['John Kerry', 'Michael Peroutka', 'Gene Amondson', 'Ralph Nader'] 
+ Candidates :: ['Larry Thompson', 'Theodore Olson', 'Mitch Daniels', 'Mel Martínez', 'Andrew Card', 'Norman Mineta', 'Stephen Hadley', 'Scott McClellan', 'Marvin P. Bush', 'Donald Rice', 'Nicolle Wallace', 'Ray Lee Hunt', 'Jim Nussle', 'Rob Portman', 'Dana Perino', 'Fahrenheit 9/11', 'Richard Egan', 'Mary Peters', 'Tom Ridge', 'Ari Fleischer', 'Phillips Academy', 'Laura Bush', 'Bob Woodward', 'James Bamford', 'Sean Stackley', 'actor', 'Dick Cheney', 'Colin Powell', 'Alberto Gonzales', 'An Inconvenient Truth', 'Ann Veneman', 'Alphonso Jackson', 'Michael D. Brown', 'Gregory G. Garre', 'Body of Secrets', 'Richard Carmona', 'Kevin Sullivan', 'Republican Party', 'Elaine Chao', 'Rod Paige', 'Henry Paulson', 'John W. Snow', "Paul H. O'Neill", 'Mike Johanns', 'Ed Schafer', 'Condoleezza Rice', 'Margaret Spellings', 'Karl Rove', 'Christine Todd Whitman', 'Mary Ann Glendon', 'Joshua Bolten', 'Recount', 'Michael Parker', 'aircraft pilot', 'Dan Bartlett', 'Michael Chertoff', 'Mike Leavitt', 'Craig S. Morford', 'James Loy', 'Paul Clement', 'Dorothy Bush Koch'] 
+ Candidate ids :: ['m.02hrh1q', 'm.014vk4', 'm.0hltv', 'm.0d0vj4', 'm.02v570', 'm.02pqc6', 'm.01qdsm', 'm.02z3mmf', 'm.013y3t', 'm.01d_c9', 'm.01r26f', 'm.01slf9_', 'm.01djcw', 'm.03wr14w', 'm.04ct29k', 'm.04_5prz', 'm.017hnw', 'm.07wbk', 'm.019qv6', 'm.06nmk5', 'm.069z5j', 'm.04gly0h', 'm.07q8zd', 'm.01k9gr', 'm.0gsv2z', 'm.04d2f8', 'm.04f1d6', 'm.03wxq9h', 'm.0bmcp7t', 'm.04g8d', 'm.07brgx', 'm.09tm8y', 'm.0203v', 'm.02722_', 'm.01t2hw', 'm.025b5l', 'm.01pxng', 'm.06_k4f', 'm.04_7_0', 'm.03wgl3', 'm.01nq7q', 'm.01jkpp', 'm.04yfpm', 'm.04dl2b', 'm.03pvxx', 'm.0bhwhj', 'm.08m58f', 'm.064phn1', 'm.05rgkg', 'm.03wx_4q', 'm.01f61r', 'm.08mv5d', 'm.043mk4y', 'm.03wy7nj', 'm.050tpb', 'm.013y2b', 'm.01gkkm', 'm.0dcthv', 'm.01rbpt', 'm.01jbh5', 'm.02t9cj', 'm.0ghdy9', 'm.0343xg', 'm.048v04', 'm.0qk33', 'm.049006', 'm.01px95']
+who is niall ferguson s wife? 
+ Answers :: ['Ayaan Hirsi Ali'] 
+ Candidates :: ['Ayaan Hirsi Ali', 'Sue Douglas', 'Leviathan', 'The Wealth of Nations', 'Essays on Philosophical Subjects', 'The Theory of Moral Sentiments'] 
+ Candidate ids :: ['m.03k5sq', 'm.02kjnl', 'm.01b0b7', 'm.02nr68z', 'm.09xrt6', 'm.05szsxm', 'm.035_37']
+where is the galapagos islands located on a world map? 
+ Answers :: ['Ecuador', 'Pacific Ocean', 'Galápagos Province'] 
+ Candidates :: ['Ecuador', 'Pacific Ocean', 'Americas', 'Galápagos Province'] 
+ Candidate ids :: ['m.02k1b', 'm.05rgl', 'm.07c5l', 'm.03660b']
+what are the songs that justin bieber wrote? 
+ Answers :: None 
+ Candidates :: ['Camagüey', 'Die in Your Arms', 'Maejor', 'Bigger', 'Juno Fan Choice', 'School Gyrls', 'Confident', 'American Music Award for Favorite Pop/Rock Album', 'Justin Bieber: Just Getting Started', 'Live My Life', 'Live My Life', 'Selena Gomez', 'will.i.am', 'Young Artists for Haiti', 'American Music Award for New Artist of the Year', 'Baby', 'Right Here', 'Stratford Northwestern Secondary School', "Justin Bieber's Believe", 'PYD', 'Billboard Music Award for Top Male Artist', 'Billboard Music Award for Top New Artist', 'Miami', 'autobiography', 'MTV Europe Music Award for Best Pop', 'Carly Rae Jepsen', 'Queen Elizabeth II Diamond Jubilee Medal', 'MTV Video Music Award for Best New Artist', 'teen pop', 'MTV Video Music Award Japan for Best New Artist', 'Somebody To Love', "Turn to You (Mother's Day Dedication)", 'My World 2.0', 'BRIT Award for International Breakthrough Act', 'MTV Europe Music Award for Best Push Act', 'Beauty and a Beat', 'Men in Black 3', 'MTV Europe Music Award for Best North American Act', 'Q3841605', 'Area code 1-519', 'As Long as You Love Me', 'UR Fave: New Artist', 'Change Me', 'Teen Choice Award for Choice Music – Male Artist', 'Miami Beach', 'Eastern Time Zone', 'MTV Video Music Award for Best Male Video', 'Favorite Pop/Rock Male Artist', 'Never Say Never', 'Never Let You Go', 'All Around the World', 'Hold Tight', 'Lolly', 'MTV Europe Music Award for Best Canadian Act', 'Love Never Felt So Good', 'American Music Award for Artist of the Year', 'song', 'Bad 25', 'Boyfriend', 'Eenie Meenie', 'Pray', 'Juno Award for Pop Album of the Year', '#thatPOWER', 'Heartbreaker', 'All Bad', 'Home to Mama', 'Poo Bear', 'Justin Bieber: Never Say Never', 'Katy Perry: Part of Me', 'First Dance', 'First Step 2 Forever: My Story', 'All That Matters', 'Wait for a Minute', 'Roller Coaster', 'Far East Movement', 'CSI: Crime Scene Investigation', 'My World', 'MTV Movie Award for Best Jaw Dropping Moment', 'St. Michael Catholic Secondary School', 'Zendaya: Behind the Scenes', 'Recovery', 'Bad Day', 'Thought of You'] 
+ Candidate ids :: ['m.0g5b0p2', 'm.0c3vvnk', 'm.02hcv8', 'm.0jxk_kq', 'm.0qjqx3b', 'm.01239757', 'm.0j4453t', 'm.031yh3', 'm.0y5t8gp', 'm.0jxkzb9', 'm.0qfpkqq', 'm.09v3gb4', 'm.09v5jdw', 'm.0g5q9ky', 'm.01083rmm', 'm.0ynrkyl', 'm.0j64n8c', 'm.0g9tcbg', 'm.0j8sx6v', 'm.010dvgsq', 'm.0tqd4pz', 'm.0fqlv5l', 'm.0y6b7k5', 'm.0ybthj0', 'm.0k0l2vf', 'm.0tywr87', 'm.0yt3zg2', 'm.0j90r3j', 'm.0nl8g02', 'm.0jwx2_w', 'm.0805zj8', 'm.0yt3yyw', 'm.0d33gyq', 'm.01092zm9', 'm.0rytzvz', 'm.0z6sgcx', 'm.0y61_cp', 'm.04f7dsy', 'm.0fsg7w5', 'm.0q499tx', 'm.0zmzvrc', 'm.0zlk7q3', 'm.0whp7m7', 'm.0290ngj', 'm.0n1s40b', 'm.0jxk_hq', 'm.0j8z41m', 'm.074ft', 'm.0116pj4q', 'm.0n5801y', 'm.0q71241', 'm.0yt1lb9', 'm.0zgb5ny', 'm.0zbv_v0', 'm.0rnmy', 'm.0sjsrn9', 'm.0gs6vr', 'm.0yqsnwz', 'm.0q8c_wp', 'm.0wcylm8', 'm.02ny8t', 'm.0bbv9gg', 'm.0z4mch5', 'm.0zdkrym', 'm.0bbvzq2', 'm.0y4pp9n', 'm.0jwqwyx', 'm.01w9wwg', 'm.0bbz4p9', 'm.02w1qmc', 'm.0bh8245', 'm.0rd_zhh', 'm.0zg6nnd', 'm.0rg8g52', 'm.0whp29c', 'm.0rd_y38', 'm.07_50pp', 'm.0n57zzs', 'm.0ng_k23', 'm.0nl5ryp', 'm.0y84pdh', 'm.0hhv9k9', 'm.0z4_48j', 'm.0y54wmq', 'm.0rg8t3p', 'm.0z3tjs8', 'm.0ljtrj0', 'm.0rg8kmz', 'm.012k_48s', 'm.0rg8brh', 'm.0whp3pz', 'm.0j8__3b', 'm.0gff449', 'm.0whp3w8', 'm.0qbdtqy', 'm.0vy5rb5', 'm.0whp467', 'm.0qb5bff', 'm.0rd_zq6', 'm.0108b8q2', 'm.0nm4p3_', 'm.07_50wp', 'm.0hmvx8s', 'm.0q9ch9j', 'm.0jxkyt2', 'm.0ybpfjk', 'm.0q72wkw', 'm.0gxnnwd', 'm.0jxkyql', 'm.0zkm3mm', 'm.0jxkyrf', 'm.0nlbpb3', 'm.0gfh12_', 'm.0zkbcjk', 'm.0yv591k', 'm.05nx1x', 'm.0qbdd4d', 'm.0661m4p', 'm.0nndttr', 'm.0qcfm2k', 'm.0j8yz84', 'm.0sl6vlm', 'm.0jxkyrp', 'm.0zrj_t9', 'm.0j627xf', 'm.0yt47k_', 'm.0bmc2ql', 'm.0ch4j90', 'm.0j8yz11', 'm.0qbgyl2', 'm.0ytc8nm', 'm.05ms8xl', 'm.0zhnz1d', 'm.0rg8ftc', 'm.0q8916f', 'm.0qfjvct', 'm.0whfqvx', 'm.04kjw8n', 'm.0j8ys5x', 'm.0d33c3_', 'm.0whp6r0', 'm.0sgkwvj', 'm.0sn9pmd', 'm.0vb6gqw', 'm.0y6qw35', 'm.0d33c48', 'm.0qfsdd_', 'm.0rg8kvt', 'm.0sgkr6g', 'm.01kt_j', 'm.09gqlm1', 'm.0rd_ynp', 'm.0fyk2wy', 'm.0bgy50', 'm.0sj6x9g', 'm.0rd_y68', 'm.0cp07lg', 'm.0sknsn2', 'm.0h97gv0', 'm.0rd_y3p', 'm.02f705', 'm.07_51k2', 'm.0g7rpfh', 'm.04xvf9', 'm.0rd_yfz', 'm.0jxkyps', 'm.02pg_d8', 'm.0wt2y24', 'm.0j8yysm', 'm.0z3ty6v', 'm.0z2dlp2', 'm.0y4lfy2', 'm.0133wh8c', 'm.0qcgfhx', 'm.0nh04xz', 'm.0v44xrz', 'm.0qdhvsz', 'm.0gxnnwq', 'm.0nb7kyg', 'm.0q47rxs', 'm.05sp405', 'm.0rd_yl7', 'm.0rd_y2c', 'm.010tg_f4', 'm.0qc92cl', 'm.0nlyxs4', 'm.0y9lfs3', 'm.0qcfm37', 'm.0f2v0', 'm.0q89jpk', 'm.010gr4vp', 'm.0sk1ng6', 'm.0ytbp2s', 'm.0nmjx4s', 'm.02f6xy', 'm.0rg6zr3', 'm.0_t0y9w', 'm.0xk8k9y', 'm.0d33c4j', 'm.0cjvcp', 'm.0jxkyqw', 'm.0ng_vkg', 'm.0yv4n94', 'm.0q88yhf', 'm.04dq40z', 'm.0ng_j6h', 'm.0qdgqj2', 'm.0py27f1', 'm.0qcfztq', 'm.0rg8hhy', 'm.0rd_xpf', 'm.0xdf', 'm.0rg88tq', 'm.0q9h1ts', 'm.0jxkyq1', 'm.0ttk1yk', 'm.0c422z4', 'm.0nm810r', 'm.0z4752q', 'm.0sgkrty', 'm.0qdcdyn', 'm.0qdbs1w']
+what did george clemenceau do? 
+ Answers :: ['statesperson', 'publisher', 'writer', 'physician', 'journalist'] 
+ Candidates :: ['statesperson', 'publisher', 'writer', 'atheism', 'physician', 'journalist'] 
+ Candidate ids :: ['m.02h668d', 'm.05t4q', 'm.0d8qb', 'm.0cbd2', 'm.0kpl', 'm.016fc2']
+what is the state flower of arizona? 
+ Answers :: ['Carnegiea gigantea'] 
+ Candidates :: ['flag of Arizona', 'Hyla eximia', 'Parkinsonia florida', 'Sonora', 'Apache trout', 'Colorado', 'Ditat Deus', 'Carnegiea gigantea', 'petrified wood'] 
+ Candidate ids :: ['m.01n4w', 'm.02hc84', 'm.0m5w_', 'm.02w1mm9', 'm.04n2h8', 'm.0ldff', 'm.027psm', 'm.0d73bj', 'm.07dzmn']
+where was rihanna born and raised? 
+ Answers :: ['Saint Michael'] 
+ Candidates :: ['Saint Michael'] 
+ Candidate ids :: ['m.02p5kp']
+what year did president william henry harrison take office? 
+ Answers :: None 
+ Candidates :: ['Anti-Masonic Party', 'United States Secretary of State', 'Siege of Fort Wayne', 'infectious disease', 'infection', 'Battle of Tippecanoe', 'Battle of the Thames', "Ohio's 1st congressional district", 'Second Seminole War', "Tecumseh's War", 'President of the United States', 'Battle of Fallen Timbers', 'Siege of Fort Meigs', 'Northwest Indian War', 'William Henry Harrison presidential campaign, 1840'] 
+ Candidate ids :: ['m.02q84f', 'm.0422vs', 'm.07y1l', 'm.04w0ch', 'm.04dnz84', 'm.01ztlw', 'm.01k_c3', 'm.060d2', 'm.0mvl0', 'm.02_7l8y', 'm.04dnz1j', 'm.02_bcst', 'm.07y07', 'm.04v84y', 'm.0brn8f', 'm.025stgn', 'm.04kq1r5', 'm.08v_szd', 'm.03tp4', 'm.098s1']
+where george lopez was born? 
+ Answers :: ['Mission Hills'] 
+ Candidates :: ['Mission Hills'] 
+ Candidate ids :: ['m.01kfz0']
+where are samsung based? 
+ Answers :: ['Suwon'] 
+ Candidates :: ['Suwon', 'South Korea'] 
+ Candidate ids :: ['m.06qd3', 'm.02j2b1']
+what did the islamic people believe in? 
+ Answers :: None 
+ Candidates :: ['Ashura', 'Hajj', 'God', 'Mourning of Muharram', 'Day of Arafa', 'tawḥīd', 'sharia', 'Masih ad-Dajjal', "Mid-Sha'ban", 'entering heaven while alive', 'God in Islam', 'Laylat al-Qadr', 'Q65201497', 'jihad', 'Islamic holy books', 'Allah', 'Mahdi', 'prophet of Islam', 'Eid al-Adha', 'angel in Islam', 'the Qur’an', 'Eid al-Fitr', 'monotheism', 'Mawlid', 'Sharia-compliant banking', 'Letter to a Christian Nation'] 
+ Candidate ids :: ['m.02gk03', 'm.0d05l6', 'm.055v4c', 'm.02wvcg4', 'm.0148n3', 'm.074hw', 'm.0_tkhhs', 'm.0445s', 'm.019vqj', 'm.012qnx', 'm.07bfrc', 'm.04xy3', 'm.03clhwf', 'm.0114y4k_', 'm.01_403', 'm.0vpsp_r', 'm.096tx', 'm.0698fs', 'm.0jfd', 'm.04q3_d', 'm.04jc26j', 'm.06rvp0', 'm.09kb_2', 'm.027cs49', 'm.0jzcl', 'm.01bbmp', 'm.04b4l4', 'm.024b22', 'm.025w817', 'm.0hr6vbp', 'm.0_tkryk', 'm.07r6vw', 'm.0dp5mj']
+who will play mr gray in the film? 
+ Answers :: ['Jamie Dornan'] 
+ Candidates :: ['E. L. James', 'Jamie Dornan'] 
+ Candidate ids :: ['m.0j49kcv', 'm.0fs4kv']
+what did george orwell died of? 
+ Answers :: ['tuberculosis'] 
+ Candidates :: ['tuberculosis', 'anti-fascism'] 
+ Candidate ids :: ['m.02_570', 'm.07jwr', 'm.04vknm7', 'm.04txhmn']
+what country did adolf hitler control? 
+ Answers :: ['Nazi Germany'] 
+ Candidates :: ['Germany', 'Nazi Germany', 'Nazi Party', 'German Reich', 'Paris', 'Heinrich Himmler', 'Europe', 'Austria', "German Workers' Party"] 
+ Candidate ids :: ['m.0h7x', 'm.0345h', 'm.01qlyt', 'm.05g9h', 'm.02j9z', 'm.03hfz', 'm.059z0', 'm.05qtj', 'm.0dl13']

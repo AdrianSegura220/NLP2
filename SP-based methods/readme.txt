@@ -1,0 +1,2 @@
+The `Checkpoint baseline model GRU` folder contains training for epochs 0-67.Since training stopped due to a windows update, we resumed training from the checkpoint inside that folder. The rest
+of the training was performed and the final checkpoint and logs are in the folder `FinalModelTrainRNN`.
